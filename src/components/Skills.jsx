@@ -12,7 +12,7 @@ return(
 
 <div class="hero min-h-screen  bg-base-200">
 <div class="hero-content text-center">
-<div class="overflow-x-auto text-center bg-base-200 max-w-full">
+<div class="text-center bg-base-200 max-w-full">
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="50">
 <h1 class="text-5xl font-bold">Skills</h1>
 </div>
@@ -33,7 +33,7 @@ return(
         <td>C/C++</td></div>
         <td>
           <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="200">
-          <progress class="progress progress-secondary md: w-56 lg:w-80" value="80" max="100"></progress>
+          <progress class="progress progress-secondary md: w-48 lg:w-80" value="80" max="100"></progress>
           </div>
           </td>
           
@@ -45,7 +45,7 @@ return(
       </div>
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="400">
-          <progress class="progress progress-secondary md: w-56 lg:w-80" value="60" max="100"></progress></div></td>
+          <progress class="progress progress-secondary md: w-48 lg:w-80" value="60" max="100"></progress></div></td>
       </tr>
 
       <tr>
@@ -54,7 +54,7 @@ return(
       </div>
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="600">
-          <progress class="progress progress-secondary md: w-56 lg:w-80" value="70" max="100"></progress></div></td>
+          <progress class="progress progress-secondary md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
       </tr>
 
       <tr>
@@ -63,7 +63,7 @@ return(
         </div>
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="800">
-          <progress class="progress progress-secondary md: w-56 lg:w-80" value="50" max="100"></progress></div></td>
+          <progress class="progress progress-secondary md: w-48 lg:w-80" value="50" max="100"></progress></div></td>
       </tr>
 
       <tr>
@@ -72,7 +72,7 @@ return(
         </div>
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1000">
-          <progress class="progress progress-secondary md: w-56 lg:w-80" value="70" max="100"></progress></div></td>
+          <progress class="progress progress-secondary md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
       </tr>
 
       <tr>
@@ -81,7 +81,7 @@ return(
         </div>
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="2000">
-          <progress class="progress progress-secondary md: w-56 lg:w-80" value="60" max="100"></progress></div></td>
+          <progress class="progress progress-secondary md: w-48 lg:w-80" value="60" max="100"></progress></div></td>
       </tr>
 
 

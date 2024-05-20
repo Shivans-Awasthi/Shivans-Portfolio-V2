@@ -7,7 +7,7 @@ return(
 <section id="footer">
  
 <div class="hero bg-base-300 ">
-<div class="hero-content w-full bg-base-300">
+<div class="hero-content bg-base-300">
 <div class="overflow-x-auto bg-base-300 w-full">
 
 <footer class="footer p-10 bg-base-300 text-base-content">

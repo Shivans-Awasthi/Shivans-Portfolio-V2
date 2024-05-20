@@ -22,7 +22,7 @@ return(
 <section id="contact">
  
 <div class="hero min-h-screen bg-base-200 ">
-  <div class="hero-content flex-col lg:flex-row-reverse w-full">
+  <div class="hero-content flex-col lg:flex-row-reverse">
     <div class="text-center lg:text-left w-80">
     <div data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200">
 

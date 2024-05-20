@@ -66,8 +66,18 @@ body {
   /* 1 */
   line-height: inherit;
   background-color: #0c1736;
+  overflow-x: hidden;
+  max-width: 100%;
+  
   /* 2 */
 }
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--warning);
+}
+
+
 
 /*
 1. Add the correct height in Firefox.
