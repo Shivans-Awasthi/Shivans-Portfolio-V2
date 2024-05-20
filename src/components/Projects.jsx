@@ -6,16 +6,20 @@ return(
 
 <section id="projects">
 
-<div class="hero bg-base-200 ">
+<div class="hero min-h-screen bg-base-200 w-full">
   <div class="hero-content">
-    <div class="overflow-x-auto min-h-screen bg-base-200 max-w-screen">
-    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+    <div class="min-h-screen bg-base-200 max-w-full">
+    {/* <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> */}
+    <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
     <h1 class="text-5xl font-bold text-center">Projects</h1>
+    </div>
 <br/><br/>
-  
-<div class="flex md:flex-col flex-col lg:flex-row w-full">
 
+<div data-aos="flip-right" data-aos-duration="1000" data-aos-delay="100">
+<div class="flex md:flex-col flex-col lg:flex-row w-full">
+<div data-aos="flip-left" data-aos-duration="1000" data-aos-delay="200">
 <div class="card w-96 bg-neutral text-neutral-content">
+  
   <div class="card-body">
     <h2 class="card-title text-accent">$ Portfolio-Website-V2</h2>
     <p>/* My Personal Website that showcases my skills and projects */</p><br/>
@@ -33,9 +37,9 @@ return(
     </div>
   </div>
 </div>
-
+</div>
 <div class="divider lg:divider-horizontal divider-dark"></div>
-
+<div data-aos="flip-left" data-aos-duration="1000" data-aos-delay="300">
 <div class="card w-96 bg-neutral text-neutral-content">
   <div class="card-body">
     <h2 class="card-title text-accent">$ QueryLinker</h2>
@@ -55,11 +59,13 @@ return(
     </div>
   </div>
 </div>
-
+</div>
 
 
 <div class="divider lg:divider-horizontal divider-dark "></div>
 
+
+<div data-aos="flip-left" data-aos-duration="1000" data-aos-delay="400">
 <div class="card w-96 bg-neutral text-neutral-content">
   <div class="card-body">
     <h2 class="card-title text-accent">$ ChatSummation-Text-Summarization-of-conversational-data-using-google-Pegasus-model</h2>
@@ -76,13 +82,19 @@ return(
     </div>
   </div>
 </div>
+</div>
 
+
+</div>
 </div>
 
 <br/><br/>
 {/* Next section of projects starts here */}
 
+<div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500">
 <div class="flex md:flex-col flex-col lg:flex-row w-full">
+
+<div data-aos="flip-left" data-aos-duration="1000" data-aos-delay="600">
 
 <div class="card w-96 bg-neutral text-neutral-content">
   <div class="card-body">
@@ -101,11 +113,12 @@ return(
     </div>
   </div>
 </div>
+</div>
 
 
 <div class="divider lg:divider-horizontal divider-dark"></div>
 
-
+<div data-aos="flip-left" data-aos-duration="1000" data-aos-delay="700">
 <div class="card w-96 bg-neutral text-neutral-content">
   <div class="card-body">
     <h2 class="card-title text-accent">$ Twitter-Sentiment-Analysis-using-TextBlob</h2>
@@ -126,10 +139,10 @@ return(
     </div>
   </div>
 </div>
-
-
 </div>
 
+</div>
+</div>
 
 
 

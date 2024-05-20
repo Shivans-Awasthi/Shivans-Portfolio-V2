@@ -5,8 +5,10 @@ function Navigation(){
 return(
 
 
-<div class="navbar bg-base-200">
+<div class="navbar bg-base-200 w-full">
   <div class="navbar-start">
+  <div data-aos="fade-left" data-aos-duration="1000"   data-aos-delay="500">
+
     <div class="dropdown">
       <div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
         <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
@@ -17,12 +19,19 @@ return(
         <li><a href="#skills">Skills</a></li>
         <li><a href="#education">Education</a></li>
         <li><a href="#projects">Projects</a></li>
+        <li><a href="#certificates">Certifications</a></li>
         <li><a href="#contact">Contact Me</a></li>
 
       </ul>
     </div>
+    </div>
+    <div data-aos="fade-left" data-aos-duration="500"   data-aos-delay="0">
     <a class="btn btn-ghost text-xl">Shivans Awasthi</a>
+    </div>
   </div>
+
+  <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="0">
+
   <div class="navbar-center hidden lg:flex">
     <ul class="menu menu-horizontal px-1">
     <li><a href="#intro">Intro</a></li>
@@ -30,14 +39,15 @@ return(
         <li><a href="#skills">Skills</a></li>
         <li><a href="#education">Education</a></li>
         <li><a href="#projects">Projects</a></li>
+        <li><a href="#certificates">Certifications</a></li>
         <li><a href="#contact">Contact Me</a></li>
     </ul>
   </div>
-
-
+</div>
 
 
   <div class="navbar-end">
+  <div data-aos="fade-right" data-aos-duration="500"   data-aos-delay="0">
 
   <div class="dropdown mb-0">
   <div tabindex="0" role="button" class="btn btn-ghost m-1">
@@ -57,8 +67,8 @@ return(
 
     <a class="btn btn-primary">Contact Me</a>
   </div>
+  </div>
 </div>
-
 
 ) ;
 
