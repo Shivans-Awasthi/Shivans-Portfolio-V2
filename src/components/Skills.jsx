@@ -76,11 +76,11 @@ return(
       </tr>
 
       <tr>
-      <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1500">
+      <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1100">
         <td>ROS 2</td>
         </div>
         <td>
-        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="2000">
+        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1200">
           <progress class="progress progress-secondary md: w-48 lg:w-80" value="60" max="100"></progress></div></td>
       </tr>
 

@@ -58,7 +58,7 @@ return(
 
 <div class="divider lg:divider-horizontal divider-dark"></div>
 
-<div data-aos="flip-down" data-aos-duration="2000" data-aos-delay="500">
+<div data-aos="flip-down" data-aos-duration="1000" data-aos-delay="500">
 
 
 <div class="card card-compact w-96 bg-neutral shadow-xl">

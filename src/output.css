@@ -74,7 +74,7 @@ body {
 
 * {
   scrollbar-width: thin;
-  scrollbar-color: var(--warning);
+  scrollbar-color: yellow ;
 }
 
 
