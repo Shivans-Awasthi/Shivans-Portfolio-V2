@@ -14,10 +14,10 @@ return(
 <div class="hero-content text-center">
 <div class="text-center bg-base-200 max-w-full">
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="50">
-<h1 class="text-5xl font-bold">Skills</h1>
+<h1 class="text-5xl font-bold text-white">Skills</h1>
 </div>
 <br/><br/>
-  <table class="table">
+  <table class="table text-white">
   <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
     <thead>
       <tr>

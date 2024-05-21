@@ -15,7 +15,7 @@ return(
   <div class="hero-content text-center bg-opacity-60">
     <div class="max-w-full">
     <div data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">
-      <h1 class="text-5xl">Hello there, I am</h1> <span class="text-5xl font-bold"><h1>Shivans Awasthi</h1></span>
+      <h1 class="text-5xl">Hello there, I am</h1> <span class="text-5xl font-bold text-white"><h1>Shivans Awasthi</h1></span>
       <br/>
       </div>
       <div data-aos="fade-up" data-aos-duration="1000"   data-aos-delay="1000">
@@ -27,7 +27,7 @@ return(
       </div>
 <br/><br/>
 <div data-aos="fade-up" data-aos-duration="500"  data-aos-delay="1300">
-      <div class="mockup-code text-left">
+      <div class="mockup-code text-left text-white">
       <div data-aos="fade-right" data-aos-duration="500"  data-aos-delay="1400">
         <pre data-prefix="1" ><code>Software Engineer</code></pre> 
       </div>
@@ -41,7 +41,7 @@ return(
     <br/><br/>
     </div>
     <div data-aos="fade-down" data-aos-duration="500"  data-aos-delay="2000">
-      <a href="#contact"><button class="btn btn-primary">Contact Me</button></a> <button class="btn btn-outline btn-ghost">Resume</button>
+      <a href="#contact"><button class="btn bg-blue-800 text-white ">Contact Me</button></a> <a href="https://drive.google.com/file/d/1tCVPjbSV5H8FLimUI0ldMcmWPtX6elEu/view?usp=drive_link"><button class="btn bg-gray-600 text-white">Resume</button></a>
     </div>
     </div>
   </div>

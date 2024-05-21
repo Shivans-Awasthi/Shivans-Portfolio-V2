@@ -57,6 +57,7 @@ emailjs.init({
 // }
 
 
+
 export function sendmail(event) {
   event.preventDefault();  // Prevent the default form submission
 
@@ -66,8 +67,12 @@ export function sendmail(event) {
     emailjs.sendForm('service_cp8im5f', 'template_6q0084i', form)
       .then(function(response) {
         console.log('Email sent successfully:', response.status, response.text);
-        // alert("Email Sent");
-        document.getElementById('success').classList.remove('hidden') ;
+        setTimeout(() => { document.getElementById('success1').classList.remove('hidden') ;  }, 2000);
+        
+        setTimeout(() => {  document.getElementById('success2').classList.remove('hidden') ; }, 5000);
+        
+
+
       })
       .catch(function(error) {
         console.error('Failed to send email:', error);
