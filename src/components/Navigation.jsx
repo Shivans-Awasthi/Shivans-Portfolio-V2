@@ -7,7 +7,7 @@ return(
 
 <div class="navbar bg-base-200 w-full">
   <div class="navbar-start">
-  <div data-aos="fade-left" data-aos-duration="1000"   data-aos-delay="500">
+  <div data-aos="fade-down" data-aos-duration="1000"   data-aos-delay="500">
 
     <div class="dropdown">
       <div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
@@ -25,7 +25,7 @@ return(
       </ul>
     </div>
     </div>
-    <div data-aos="fade-left" data-aos-duration="500"   data-aos-delay="0">
+    <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="0">
     <a class="btn btn-ghost text-xl">Shivans Awasthi</a>
     </div>
   </div>
