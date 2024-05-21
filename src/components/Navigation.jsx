@@ -47,7 +47,7 @@ return(
 
 
   <div class="navbar-end">
-  <div data-aos="fade-right" data-aos-duration="500"   data-aos-delay="0">
+  <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="0">
 
   <div class="dropdown mb-0">
   <div tabindex="0" role="button" class="btn btn-ghost m-1">
