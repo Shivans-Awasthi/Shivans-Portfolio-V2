@@ -78,16 +78,14 @@ html,
 }
 
 
-
 body {
   margin: 0;
   /* 1 */
   line-height: inherit;
   background-color: #0c1736;
-  /* overflow-x: hidden; */
-  /* max-width: 100%; */
-  
-  /* 2 */
+  overflow-x: hidden; 
+  max-width: 100%; 
+
 }
 
 * {
