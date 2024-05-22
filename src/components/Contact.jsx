@@ -30,14 +30,14 @@ return(
       <br/><br/>
       
       <div data-aos="fade-down" data-aos-duration="500" data-aos-delay="1000">
-      <div class="chat chat-start w-full">
+      <div class="chat chat-start">
       <div class="chat-header">Shivans</div>
       <div class="chat-image avatar">
     <div class="w-10 rounded-full">
       <img alt="Tailwind CSS chat bubble component" src="https://media.licdn.com/dms/image/C5603AQG8bkmKRzc_Yw/profile-displayphoto-shrink_800_800/0/1661271807889?e=2147483647&v=beta&t=4coKl50b-4kyWn41Gt8kaGh9htlBH7f0k4j-HXsNGus" />
     </div>
   </div>
-        <div class="chat-bubble chat-start chat-bubble-success text-white text-left max-w-full">
+        <div class="chat-bubble fade-in chat-start chat-bubble-success text-white text-left max-w-full">
           <p class="text-1xl" >Hello { Name } </p>
         </div>
         </div>
