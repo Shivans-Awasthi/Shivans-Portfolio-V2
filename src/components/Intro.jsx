@@ -11,9 +11,9 @@ return(
 
 <section id="intro">
 
-<div class="hero min-h-screen bg-base-200" >
-  <div class="hero-content text-center bg-opacity-60">
-    <div class="max-w-full">
+<div class="hero min-h-screen bg-base-200 w-full" >
+  <div class="hero-content text-center">
+    <div class="w-full">
     <div data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">
       <h1 class="text-5xl">Hello there, I am</h1> <span class="text-5xl font-bold text-white"><h1>Shivans Awasthi</h1></span>
       <br/>

@@ -1,11 +1,15 @@
 import React from "react";
 
+
+
+
+
 function Navigation(){
 
 return(
 
 
-<div class="navbar bg-base-200 w-full">
+<div class="navbar bg-base-200 w-full navbar-float">
   <div class="navbar-start">
   <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="0">
 
@@ -25,8 +29,9 @@ return(
       </ul>
     </div>
     </div>
+
     <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="00">
-    <p class="px-5 text-xl text-white">Shivans Awasthi</p>
+    <p class="px-5 text-md text-white">Shivans Awasthi</p>
     </div>
   </div>
 
