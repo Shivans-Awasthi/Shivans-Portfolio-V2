@@ -37,7 +37,7 @@ return(
       <img alt="Tailwind CSS chat bubble component" src="https://media.licdn.com/dms/image/C5603AQG8bkmKRzc_Yw/profile-displayphoto-shrink_800_800/0/1661271807889?e=2147483647&v=beta&t=4coKl50b-4kyWn41Gt8kaGh9htlBH7f0k4j-HXsNGus" />
     </div>
   </div>
-        <div class="chat-bubble chat-start chat-bubble-success text-white max-w-full">
+        <div class="chat-bubble chat-start chat-bubble-success text-white text-left max-w-full">
           <p class="text-1xl" >Hello { Name } </p>
         </div>
         </div>
@@ -51,7 +51,7 @@ return(
       <img alt="Tailwind CSS chat bubble component" src="https://media.licdn.com/dms/image/C5603AQG8bkmKRzc_Yw/profile-displayphoto-shrink_800_800/0/1661271807889?e=2147483647&v=beta&t=4coKl50b-4kyWn41Gt8kaGh9htlBH7f0k4j-HXsNGus" />
     </div>
   </div>
-        <div class="chat-bubble chat-bubble-success text-white max-w-full">
+        <div class="chat-bubble chat-bubble-success text-white text-left max-w-full">
       <p class="text-1xl text-bold">Thanks for connecting!</p>
       </div>
       </div>
