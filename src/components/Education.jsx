@@ -13,10 +13,10 @@ return(
 
 <section id="education" >
 
-<div class="hero min-h-screen  bg-base-200 ">
+<div class="hero min-h-screen gloomedu bg-base-200 ">
   
 <div class="hero-content">
-<div class="bg-base-200 max-w-full">
+<div class="max-w-full">
 
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
 <h1 class="text-5xl font-bold text-center text-white">Education</h1>

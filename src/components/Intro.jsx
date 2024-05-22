@@ -9,11 +9,11 @@ function Intro(){
 
 return(
 
-<section id="intro">
+<section id="intro" >
 
-<div class="hero min-h-screen bg-base-200 w-full" >
+<div class="hero min-h-screen w-full gloom"  >
   <div class="hero-content text-center">
-    <div class="w-full">
+    <div class="w-full ">
     <div data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">
       <h1 class="text-5xl">Hello there, I am</h1> <span class="text-5xl font-bold text-white"><h1>Shivans Awasthi</h1></span>
       <br/>
@@ -27,7 +27,8 @@ return(
       </div>
 <br/><br/>
 <div data-aos="fade-up" data-aos-duration="500"  data-aos-delay="1300">
-      <div class="mockup-code text-left text-white">
+
+      <div class="mockup-code glass text-left text-white">
       <div data-aos="fade-right" data-aos-duration="500"  data-aos-delay="1400">
         <pre data-prefix="1" ><code>Software Engineer</code></pre> 
       </div>

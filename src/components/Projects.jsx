@@ -6,9 +6,9 @@ return(
 
 <section id="projects">
 
-<div class="hero min-h-screen bg-base-200 w-full">
+<div class="hero min-h-screen bg-base-200 w-full gloomproj">
   <div class="hero-content">
-    <div class="min-h-screen bg-base-200 max-w-full ">
+    <div class="min-h-screen max-w-full ">
     {/* <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> */}
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
     <h1 class="text-5xl text-white font-bold text-center ">Projects</h1>
@@ -19,7 +19,7 @@ return(
 <div class="flex md:flex-col flex-col lg:flex-row w-full">
 
 <div data-aos="flip-left" data-aos-duration="1000" data-aos-delay="200">
-<div class="card w-96 bg-neutral text-neutral-content text-white">
+<div class="card glass w-96 bg-neutral text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ Portfolio-Website-V2</h2>
     <p>/* My Personal Website that showcases my skills and projects */</p><br/>
@@ -42,7 +42,7 @@ return(
 <div class="divider lg:divider-horizontal divider-dark"></div>
 
 <div data-aos="flip-left" data-aos-duration="1000" data-aos-delay="300">
-<div class="card w-96 bg-neutral text-neutral-content text-white">
+<div class="card glass w-96 bg-neutral text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ QueryLinker</h2>
     <p>/* An intelligent seach engine aimed at providing efficient and relevant search results to users within a perticular domain.  */</p><br/>
@@ -69,7 +69,7 @@ return(
 
 
 <div data-aos="flip-left" data-aos-duration="1000" data-aos-delay="400">
-<div class="card w-96 bg-neutral text-neutral-content text-white">
+<div class="card glass w-96 bg-neutral text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ ChatSummation-Text-Summarization-of-conversational-data-using-google-Pegasus-model</h2>
     <p>/* A tool to summerize conversational data using google pagasus model trained on SamSum dataset */</p><br/>
@@ -95,11 +95,11 @@ return(
 {/* Next section of projects starts here */}
 
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500">
-<div class="flex md:flex-col flex-col lg:flex-row w-full">
+<div class="flex md:flex-col flex-col lg:flex-row w-full ">
 
 <div data-aos="flip-left" data-aos-duration="1000" data-aos-delay="600">
 
-<div class="card w-96 bg-neutral text-neutral-content text-white">
+<div class="card glass w-96 bg-neutral text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ College-Automation-using-IOT</h2>
     <p>/* An automation system using ESP32, Wifi, sensors for automatic control of Electric Appliances, Implemented Facial Recognition Attendance system */</p>
@@ -122,7 +122,7 @@ return(
 <div class="divider lg:divider-horizontal divider-dark"></div>
 
 <div data-aos="flip-left" data-aos-duration="1000" data-aos-delay="700">
-<div class="card w-96 bg-neutral text-neutral-content text-white">
+<div class="card w-96 glass bg-neutral text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ Twitter-Sentiment-Analysis-using-TextBlob</h2>
     <p>/* Making a simple and efficient Sentiment analyzer to analyze twitter data for different purposes. */</p><br/>

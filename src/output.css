@@ -84,7 +84,8 @@ body {
   margin: 0;
   /* 1 */
   line-height: inherit;
-  background-color: #0c1736;
+  background-color: none ;
+  /* background-image: url(./images/8m9QkN.png) ; */
   overflow-x: hidden; 
   max-width: 100%; 
 
@@ -93,6 +94,198 @@ body {
 * {
   scrollbar-width: thin;
   scrollbar-color: yellow ;
+}
+
+
+.gloom{
+  width: 100%;
+  height: 100%;
+  background-color: #191b1f;
+}
+
+.gloom::after,
+.gloom::before {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  background: hsl(270, 78%, 56%);
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  filter: blur(70px);
+  mix-blend-mode: lighten;
+}
+
+.gloom::before {
+  top: 0;
+  right: 0;
+  transform: translate(50%, -50%);
+}
+.gloom::after {
+  top: 50%;
+  left: 0px;
+  transform: translateX(-50%);
+}
+/*With gradient background*/
+.gloom {
+  background: radial-gradient(
+      circle closest-corner at center 225px,
+      hsl(200, 66%, 23%),
+      #191b1f 40%
+    )
+    no-repeat;
+}
+
+
+.gloomskill{
+  width: 100%;
+  height: 100%;
+  background-color: #191b1f;
+}
+
+.gloomskill::after,
+.gloomskill::before {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  /* background: hsl(0, 57%, 18%); */
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  filter: blur(70px);
+  mix-blend-mode: lighten;
+}
+
+.gloomskill::before {
+  top: 0;
+  right: 0;
+  transform: translate(50%, -50%);
+}
+.gloomskill::after {
+  top: 50%;
+  left: 0px;
+  transform: translateX(-50%);
+}
+/*With gradient background*/
+.gloomskill {
+  background: radial-gradient(
+      circle closest-corner at center 475px,
+      hsl(200, 57%, 18%),
+      #191b1f 20%
+    )
+    no-repeat;
+}
+
+
+
+
+.gloomedu{
+  width: 100%;
+  height: 100%;
+  background-color: #191b1f;
+}
+
+.gloomedu::after,
+.gloomedu::before {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  background: hsl(270, 78%, 56%);
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  filter: blur(70px);
+  mix-blend-mode: lighten;
+}
+
+.gloomedu::before {
+  top: 0;
+  right: 0;
+  transform: translate(50%, -50%);
+}
+.gloomedu::after {
+  top: 50%;
+  left: 0px;
+  transform: translateX(-50%);
+}
+/*With gradient background*/
+.gloomedu {
+  background: radial-gradient(
+      circle closest-corner at left 425px,
+      hsl(59, 66%, 23%),
+      #1c1d1f 60%
+    )
+    no-repeat;
+}
+
+
+.gloomproj{
+  width: 100%;
+  height: 100%;
+  background-color: #191b1f;
+}
+
+.gloomproj::after,
+.gloomproj::before {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  background: hsl(270, 78%, 56%);
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  filter: blur(70px);
+  mix-blend-mode: lighten;
+}
+
+.gloomproj::before {
+  top: 0;
+  right: 0;
+  transform: translate(50%, -50%);
+}
+.gloomproj::after {
+  top: 50%;
+  left: 0px;
+  transform: translateX(-50%);
+}
+/*With gradient background*/
+.gloomproj {
+  background: radial-gradient(
+      circle closest-corner at right 525px ,
+      hsl(221, 94%, 19%),
+      #191b1f 70%
+    )
+    no-repeat;
+}
+
+.gloomcer{
+  width: 100%;
+  height: 100%;
+  background-color: #191b1f;
+}
+
+.gloomcer::after,
+.gloomcer::before {
+  content: "";
+  display: inline-block;
+  position: right;
+  background: hsl(270, 78%, 56%);
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  filter: blur(70px);
+  mix-blend-mode: lighten;
+}
+
+
+/*With gradient background*/
+.gloomcer {
+  background: radial-gradient(
+      circle closest-corner at left 225px,
+      hsl(199, 67%, 33%),
+      #191b1f 80%
+    )
+    no-repeat;
 }
 
 

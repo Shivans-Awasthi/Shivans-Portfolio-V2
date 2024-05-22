@@ -21,7 +21,7 @@ return(
 
 <section id="contact">
  
-<div class="hero min-h-screen bg-base-200 ">
+<div class="hero min-h-screen gloomedu ">
   <div class="hero-content flex-col lg:flex-row-reverse w-full">
     <div class="text-center lg:text-left w-full">
     <div data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200">
@@ -78,7 +78,7 @@ return(
     
     <div data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200">
 
-    <div class="card shrink-0 w-80 min-w-sm shadow-2xl bg-neutral ">
+    <div class="card glass shrink-0 w-80 min-w-sm shadow-2xl bg-neutral ">
       <form class="card-body " id="contact-form" name="contact-form" onSubmit={sendmail}>
 
         <div class="form-control ">

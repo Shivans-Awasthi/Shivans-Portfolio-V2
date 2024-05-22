@@ -7,9 +7,9 @@ return(
 <section id="certificates">
 
 
-<div class="hero py-60 min-h-screen bg-base-200 ">
+<div class="hero py-60 min-h-screen gloomcer bg-base-200 ">
   <div class="hero-content ">
-    <div class="bg-base-200 w-full ">
+    <div class="w-full ">
 
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
 
@@ -23,7 +23,7 @@ return(
 
 
 <div data-aos="flip-down" data-aos-duration="1000" data-aos-delay="300">
-<div class="card card-compact w-96 bg-neutral 00 shadow-xl ">
+<div class="card glass card-compact w-96 bg-neutral 00 shadow-xl ">
   <figure><img src="https://img-c.udemycdn.com/course/750x422/1565838_e54e_18.jpg" alt="Web development" /></figure>
   
   <div class="card-body ">
@@ -43,7 +43,7 @@ return(
 
 <div data-aos="flip-down" data-aos-duration="1000" data-aos-delay="400">
 
-<div class="card card-compact w-96 bg-neutral shadow-xl">
+<div class="card glass card-compact w-96 bg-neutral shadow-xl">
   <figure><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~data-structures/XDP~COURSE!~data-structures.jpeg" alt="Data Structures" /></figure>
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-white">Data Structures Course // Coursera</h2>
@@ -61,7 +61,7 @@ return(
 <div data-aos="flip-down" data-aos-duration="1000" data-aos-delay="500">
 
 
-<div class="card card-compact w-96 bg-neutral shadow-xl">
+<div class="card glass card-compact w-96 bg-neutral shadow-xl">
   <figure><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~duke-programming-web/XDP~COURSE!~duke-programming-web.jpeg" alt="Fundamentals" /></figure>
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-white">Programming Foundations with JavaScript, HTML and CSS Course // Coursera</h2>
