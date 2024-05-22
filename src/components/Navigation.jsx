@@ -9,8 +9,8 @@ function Navigation(){
 return(
 
 
-<div class="navbar bg-base-200 w-full navbar-float">
-  <div class="navbar-start w-full">
+<div class="navbar bg-base-200 w-full">
+  <div class="navbar-start">
   <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="0">
 
     <div class="dropdown">
@@ -69,7 +69,7 @@ return(
 
 
 
-    <a class="btn bg-blue-800 text-white" href="#contact" >Contact Me</a>
+    {/* <a class="btn bg-blue-800 text-white" href="#contact" >Contact Me</a> */}
   </div>
   </div>
 </div>

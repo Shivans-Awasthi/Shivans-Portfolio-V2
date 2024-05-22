@@ -296,6 +296,21 @@ body {
 3. Ensure horizontal rules are visible by default.
 */
 
+
+.rainbow-text {
+  /* Create a conic gradient. */
+  /* Double percentages to avoid blur (#000 10%, #fff 10%, #fff 20%, ...). */
+  
+  background: linear-gradient(90deg, #8BDDEF 0%, #C471ED 100%, #f64f59 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+
+
+
+
 hr {
   height: 0;
   /* 1 */
@@ -326,6 +341,7 @@ h5,
 h6 {
   font-size: inherit;
   font-weight: inherit;
+  
 }
 
 /*
