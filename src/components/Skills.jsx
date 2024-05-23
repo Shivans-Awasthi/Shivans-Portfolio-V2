@@ -33,7 +33,7 @@ return(
 
       <tr> 
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="100">
-        <td>C/C++</td></div>
+        <td>C++</td></div>
         <td>
           <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="200">
           <progress class="progress progress-secondary md: w-48 lg:w-80" value="80" max="100"></progress>
@@ -57,22 +57,22 @@ return(
       </div>
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="600">
-          <progress class="progress progress-secondary md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
+          <progress class="progress progress-secondary md: w-48 lg:w-80" value="80" max="100"></progress></div></td>
       </tr>
 
       <tr>
       <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="700">
-        <td>PostgreSQL, MySQL</td>
-        </div>
+        <td>Node JS</td>
+      </div>
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="800">
-          <progress class="progress progress-secondary md: w-48 lg:w-80" value="75" max="100"></progress></div></td>
+          <progress class="progress progress-secondary md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
       </tr>
 
       <tr>
       <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="900">
-        <td>Bootstrap, Tailwind CSS</td>
-        </div>
+        <td>Express JS</td>
+      </div>
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1000">
           <progress class="progress progress-secondary md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
@@ -80,10 +80,37 @@ return(
 
       <tr>
       <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1100">
+        <td>Flask</td>
+      </div>
+        <td>
+        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1200">
+          <progress class="progress progress-secondary md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
+      </tr>
+
+      <tr>
+      <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1300">
+        <td>PostgreSQL | MySQL</td>
+        </div>
+        <td>
+        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1400">
+          <progress class="progress progress-secondary md: w-48 lg:w-80" value="75" max="100"></progress></div></td>
+      </tr>
+
+      <tr>
+      <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1500">
+        <td>Bootstrap | Tailwind CSS</td>
+        </div>
+        <td>
+        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1600">
+          <progress class="progress progress-secondary md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
+      </tr>
+
+      <tr>
+      <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1700">
         <td>ROS 2</td>
         </div>
         <td>
-        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1200">
+        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1800">
           <progress class="progress progress-secondary md: w-48 lg:w-80" value="60" max="100"></progress></div></td>
       </tr>
 

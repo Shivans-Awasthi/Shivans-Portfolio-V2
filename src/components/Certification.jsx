@@ -75,8 +75,34 @@ return(
 
 </div>
 
+
 </div>
 
+
+
+
+<br/><br/>
+
+
+
+<div class="flex md:flex-col flex-col lg:flex-row w-full ">
+
+
+<div data-aos="flip-down" data-aos-duration="1000" data-aos-delay="300">
+<div class="card glass card-compact w-96 bg-neutral 00 shadow-xl ">
+  <figure><img src="https://img-c.udemycdn.com/course/750x422/3795420_bad2.jpg" alt="Web development" /></figure>
+  
+  <div class="card-body ">
+    <h2 class="card-title text-neutral-content text-white">TROS2 Robotics Developer Course - Using ROS2 In Python
+ // Udemy</h2>
+    <p class="text-neutral-content">Raymond Andrade</p>
+    <div class="card-actions justify-end">
+      <a href="https://www.udemy.com/certificate/UC-0b588aa1-970c-42f5-abbb-b9f4e7687001/"><button class="btn bg-blue-800 text-white">View Certificate</button></a>
+    </div>
+  </div>
+</div>
+</div>
+</div>
 
 
 </div>
