@@ -11,7 +11,7 @@ return(
 
 <section id="intro" >
 
-<div class="hero min-h-screen w-full gloom"  >
+<div class="hero min-h-screen gloom"  >
   <div class="hero-content text-center">
     <div class="w-full text-center">
     <div data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">

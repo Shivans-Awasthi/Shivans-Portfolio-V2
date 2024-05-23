@@ -10,7 +10,7 @@ return(
 
 
 <div class="navbar bg-base-200 w-full">
-  <div class="navbar-start">
+  <div class="navbar-start md:w-full lg:w-96 lg:mx-48">
   <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="0">
 
     <div class="dropdown">
@@ -31,7 +31,7 @@ return(
     </div>
 
     <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
-    <p class="px-5 text-md text-white md:w-full">Shivans Awasthi</p>
+    <p class="px-5 text-md text-white w-full">Shivans Awasthi</p>
     </div>
   </div>
 
