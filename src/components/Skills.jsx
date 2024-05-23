@@ -10,8 +10,8 @@ return(
 
 
 
-<div class="hero min-h-screen gloomskill ">
-<div class="hero-content text-center">
+<div class="hero gloomskill ">
+<div class="hero-content h-screen">
 <div class="text-center  max-w-full">
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="50">
 <h1 class="text-5xl font-extrabold text-left text-white">Skills</h1>
