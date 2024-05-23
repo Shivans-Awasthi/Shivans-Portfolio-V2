@@ -93,7 +93,7 @@ return(
   <figure><img src="https://img-c.udemycdn.com/course/750x422/3795420_bad2.jpg" alt="Web development" /></figure>
   
   <div class="card-body ">
-    <h2 class="card-title text-neutral-content text-white">TROS2 Robotics Developer Course - Using ROS2 In Python
+    <h2 class="card-title text-neutral-content text-white">ROS2 Robotics Developer Course - Using ROS2 In Python
  // Udemy</h2>
     <p class="text-neutral-content">Raymond Andrade</p>
     <div class="card-actions justify-end">
