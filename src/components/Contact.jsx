@@ -26,18 +26,23 @@ return(
     <div class="text-center lg:text-left w-full">
     <div data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200">
 
-      <h1 class="text-5xl font-bold text-white">Contact Me!</h1>
+      <h1 class="text-5xl font-extrabold text-left text-white">Contact Me!</h1>
+
+      <h1 class="text-xl rainbow-text text-left">Lets get connected, and start our next project with enthusiasm and a positive mindset..</h1>
+      <h1 class="text-xl rainbow-text text-left">Contact me here, or reach out to me on my socials below!</h1>
+
+
       <br/><br/>
       
       <div data-aos="fade-down" data-aos-duration="500" data-aos-delay="1000">
-      <div class="chat chat-start">
+      <div class="chat chat-start text-left">
       <div class="chat-header">Shivans</div>
       <div class="chat-image avatar">
     <div class="w-10 rounded-full">
       <img alt="Tailwind CSS chat bubble component" src="https://media.licdn.com/dms/image/C5603AQG8bkmKRzc_Yw/profile-displayphoto-shrink_800_800/0/1661271807889?e=2147483647&v=beta&t=4coKl50b-4kyWn41Gt8kaGh9htlBH7f0k4j-HXsNGus" />
     </div>
   </div>
-        <div class="chat-bubble fade-in chat-start chat-bubble-success text-white text-left max-w-full">
+        <div class="chat-bubble chat-start chat-bubble-success text-white text-left max-w-full">
           <p class="text-1xl" >Hello { Name } </p>
         </div>
         </div>

@@ -11,11 +11,13 @@ return(
     <div class="min-h-screen max-w-full ">
     {/* <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> */}
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
-    <h1 class="text-5xl text-white font-bold text-center ">Projects</h1>
+    <h1 class="text-5xl font-extrabold text-left text-white">Projects</h1>
+    <h1 class="text-xl text-left rainbow-text">Showcasing My Passion for Problem-Solving and Design Excellence</h1>
+    <br/>
     </div>
 <br/><br/>
 
-<div data-aos="flip-right" data-aos-duration="1000" data-aos-delay="100">
+<div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
 <div class="flex md:flex-col flex-col lg:flex-row w-full">
 
 <div data-aos="flip-left" data-aos-duration="1000" data-aos-delay="200">

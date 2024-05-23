@@ -13,7 +13,8 @@ return(
 
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
 
-    <h1 class="text-5xl font-bold text-center text-white">Certificates</h1>
+    <h1 class="text-5xl font-extrabold text-left text-white">Certificates</h1>
+    <h1 class="text-xl text-left rainbow-text">Certified Proficiencies that Validate My Expertise and Capabilities</h1>
     </div>
 <br/><br/>
   

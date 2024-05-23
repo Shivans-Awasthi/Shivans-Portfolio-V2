@@ -13,10 +13,12 @@ return(
 
 <div class="hero min-h-screen w-full gloom"  >
   <div class="hero-content text-center">
-    <div class="w-full ">
+    <div class="w-full text-center">
     <div data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">
-      <h1 class="text-5xl text-white">Hello there, I am</h1> <span class="text-5xl font-extrabold text-white"><h1 className="rainbow-text">Shivans Awasthi</h1></span>
+      <h1 class="text-5xl text-white text-center">Hello there, I am</h1> <span class="text-center text-5xl font-extrabold text-white"><h1 className="rainbow-text">Shivans Awasthi</h1></span>
       <br/>
+      <h1 class="text-xl rainbow-text text-center">"Combining technical expertise with artistic<br/> vision to create memorable digital journeys"</h1><br/>
+
       </div>
       <div data-aos="fade-up" data-aos-duration="1000"   data-aos-delay="1000">
       <div class="avatar">
@@ -28,6 +30,7 @@ return(
 <br/><br/>
 <div data-aos="fade-up" data-aos-duration="500"  data-aos-delay="1300">
 
+      
       <div class="mockup-code glass text-left text-white">
       <div data-aos="fade-right" data-aos-duration="500"  data-aos-delay="1400">
         <pre data-prefix="1" ><code>Software Engineer</code></pre> 
@@ -39,8 +42,10 @@ return(
         <pre data-prefix="3" ><code>Robotics Enthusiast</code></pre>
       </div>
     </div>
+
     <br/><br/>
     </div>
+
     <div data-aos="fade-down" data-aos-duration="500"  data-aos-delay="2000">
       <a href="#contact"><button class="btn bg-blue-800 text-white ">Contact Me</button></a> <a href="https://drive.google.com/file/d/1tCVPjbSV5H8FLimUI0ldMcmWPtX6elEu/view?usp=drive_link"><button class="btn bg-gray-600 text-white">Resume</button></a>
     </div>
