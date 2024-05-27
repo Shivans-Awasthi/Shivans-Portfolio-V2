@@ -19,7 +19,6 @@ return(
       </div>
       <ul tabindex="0" class="menu bg-gray-800 text-white menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
         <li><a href="#intro">Intro</a></li>
-        <li><a href="#about">About</a></li>
         <li><a href="#skills">Skills</a></li>
         <li><a href="#education">Education</a></li>
         <li><a href="#projects">Projects</a></li>
@@ -40,7 +39,6 @@ return(
   <div class="navbar-center hidden lg:flex text-white ">
     <ul class="menu menu-horizontal px-1">
     <li><a href="#intro">Intro</a></li>
-        <li><a href="#about">About</a></li>
         <li><a href="#skills">Skills</a></li>
         <li><a href="#education">Education</a></li>
         <li><a href="#projects">Projects</a></li>

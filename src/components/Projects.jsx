@@ -17,10 +17,10 @@ return(
     </div>
 <br/><br/>
 
-<div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
+<div data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">
 <div class="flex md:flex-col flex-col lg:flex-row w-full">
 
-<div data-aos="flip-left" data-aos-duration="1000" data-aos-delay="200">
+<div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="200">
 <div class="card glass w-96 bg-neutral text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ Portfolio-Website-V2</h2>
@@ -43,7 +43,7 @@ return(
 </div>
 <div class="divider lg:divider-horizontal divider-dark"></div>
 
-<div data-aos="flip-left" data-aos-duration="1000" data-aos-delay="300">
+<div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="300">
 <div class="card glass w-96 bg-neutral text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ QueryLinker</h2>
@@ -70,7 +70,7 @@ return(
 <div class="divider lg:divider-horizontal divider-dark "></div>
 
 
-<div data-aos="flip-left" data-aos-duration="1000" data-aos-delay="400">
+<div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="400">
 <div class="card glass w-96 bg-neutral text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ ChatSummation-Text-Summarization-of-conversational-data-using-google-Pegasus-model</h2>
@@ -96,10 +96,10 @@ return(
 <br/><br/>
 {/* Next section of projects starts here */}
 
-<div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500">
+<div data-aos="fade-up" data-aos-duration="500" data-aos-delay="500">
 <div class="flex md:flex-col flex-col lg:flex-row w-full ">
 
-<div data-aos="flip-left" data-aos-duration="1000" data-aos-delay="600">
+<div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="600">
 
 <div class="card glass w-96 bg-neutral text-neutral-content text-white">
   <div class="card-body">
@@ -123,7 +123,7 @@ return(
 
 <div class="divider lg:divider-horizontal divider-dark"></div>
 
-<div data-aos="flip-left" data-aos-duration="1000" data-aos-delay="700">
+<div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="700">
 <div class="card w-96 glass bg-neutral text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ Twitter-Sentiment-Analysis-using-TextBlob</h2>

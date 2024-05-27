@@ -46,7 +46,7 @@ return(
     <br/><br/>
     </div>
 
-    <div data-aos="fade-down" data-aos-duration="500"  data-aos-delay="2000">
+    <div data-aos="fade-down" data-aos-duration="1000"  data-aos-delay="2000">
       <a href="#contact"><button class="btn bg-blue-800 text-white ">Contact Me</button></a> <a href="https://drive.google.com/file/d/1tCVPjbSV5H8FLimUI0ldMcmWPtX6elEu/view?usp=drive_link"><button class="btn bg-gray-600 text-white">Resume</button></a>
     </div>
     </div>

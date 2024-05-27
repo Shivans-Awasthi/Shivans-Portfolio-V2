@@ -18,12 +18,12 @@ return(
     </div>
 <br/><br/>
   
-<div data-aos="flip-down" data-aos-duration="1000" data-aos-delay="200">
+<div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
 
 <div class="flex md:flex-col flex-col lg:flex-row w-full ">
 
 
-<div data-aos="flip-down" data-aos-duration="1000" data-aos-delay="300">
+<div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="300">
 <div class="card glass card-compact w-96 bg-neutral 00 shadow-xl ">
   <figure><img src="https://img-c.udemycdn.com/course/750x422/1565838_e54e_18.jpg" alt="Web development" /></figure>
   
@@ -42,7 +42,7 @@ return(
 
 <div class="divider lg:divider-horizontal divider-dark"></div>
 
-<div data-aos="flip-down" data-aos-duration="1000" data-aos-delay="400">
+<div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="400">
 
 <div class="card glass card-compact w-96 bg-neutral shadow-xl">
   <figure><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~data-structures/XDP~COURSE!~data-structures.jpeg" alt="Data Structures" /></figure>
@@ -59,7 +59,7 @@ return(
 
 <div class="divider lg:divider-horizontal divider-dark"></div>
 
-<div data-aos="flip-down" data-aos-duration="1000" data-aos-delay="500">
+<div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="500">
 
 
 <div class="card glass card-compact w-96 bg-neutral shadow-xl">
@@ -79,16 +79,14 @@ return(
 </div>
 
 
-
-
 <br/><br/>
 
-
+<div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600">
 
 <div class="flex md:flex-col flex-col lg:flex-row w-full ">
 
 
-<div data-aos="flip-down" data-aos-duration="1000" data-aos-delay="300">
+<div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="700">
 <div class="card glass card-compact w-96 bg-neutral 00 shadow-xl ">
   <figure><img src="https://img-c.udemycdn.com/course/750x422/3795420_bad2.jpg" alt="Web development" /></figure>
   
@@ -103,7 +101,7 @@ return(
 </div>
 </div>
 </div>
-
+</div>
 
 </div>
 
