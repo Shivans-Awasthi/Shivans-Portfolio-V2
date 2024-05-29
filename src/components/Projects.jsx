@@ -124,6 +124,7 @@ return(
 <div class="divider lg:divider-horizontal divider-dark"></div>
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="700">
+
 <div class="card w-96 glass bg-neutral text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ Twitter-Sentiment-Analysis-using-TextBlob</h2>
@@ -144,6 +145,9 @@ return(
     </div>
   </div>
 </div>
+
+
+
 </div>
 
 </div>
