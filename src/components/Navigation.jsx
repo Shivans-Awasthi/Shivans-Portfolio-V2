@@ -51,6 +51,7 @@ return(
 </div>
 <div class="navbar-end">
 
+<a href="#contact"><button class="btn bg-blue-800 text-white ">Contact Me</button></a>
 
 </div>
 
