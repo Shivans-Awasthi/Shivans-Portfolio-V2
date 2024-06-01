@@ -10,9 +10,9 @@ return(
 
 
 
-<div class="hero gloomskill ">
-<div class="hero-content h-screen">
-<div class="text-center max-w-full">
+<div class="hero h-screen gloomskill ">
+<div class="hero-content min-h-screen">
+<div class="text-center w-full">
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="50">
 <h1 class="text-5xl font-extrabold text-left text-white" >Skills</h1>
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
@@ -123,7 +123,9 @@ return(
 </div>
 </div>
 
-
+<center><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-12 bg-base-">
+  <path strokeLinecap="round" strokeLinejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+</svg></center>
 
 </section>
 
