@@ -12,7 +12,7 @@ return(
 <section id="intro" >
 
 <div class="hero h-screen gloom"  >
-  <div class="hero-content text-center">
+  <div class="hero-content h-screen text-center">
     <div class="w-full text-center">
     <div data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">
       <h1 class="text-5xl text-white text-center">Hello there, I am</h1> <span class="text-center text-5xl font-extrabold text-white"><h1 className="rainbow-text">Shivans Awasthi</h1></span>
@@ -56,10 +56,6 @@ return(
   
 </div>
 
-
-<center><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-12 bg-base-">
-  <path strokeLinecap="round" strokeLinejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
-</svg></center>
 
 </section>
 
