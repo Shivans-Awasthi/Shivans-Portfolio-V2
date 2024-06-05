@@ -72,20 +72,14 @@ html,
 
 
 
-.tejawal {
-  font-family: "Tejawal", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 600;
-  font-style: italic;
-}
-
 body {
   margin: 0;
   line-height: inherit;
   background-color: none ;
   overflow-x: hidden; 
   max-width: 100%; 
-  font-family: "Tajawal";
+  font-family: "Overpass";
+
 
 }
 
