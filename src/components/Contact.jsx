@@ -22,8 +22,11 @@ return(
 <section id="contact">
  
 <div class="hero min-h-screen gloomedu ">
+  
   <div class="hero-content flex-col lg:flex-row-reverse w-full">
+    
     <div class="text-center lg:text-left w-full">
+      
     <div data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200">
 
       <h1 class="text-5xl font-extrabold text-left text-white">Contact Me!</h1>
@@ -82,7 +85,7 @@ return(
 
     
     <div data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200">
-
+    <br/><br/><br/><br/>
     <div class="card glass shrink-0 w-80 min-w-sm shadow-2xl bg-neutral ">
       <form class="card-body " id="contact-form" name="contact-form" onSubmit={sendmail}>
 

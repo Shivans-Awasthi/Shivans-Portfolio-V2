@@ -6,11 +6,9 @@ return(
 
 <section id="certificates">
 
-
 <div class="hero py-60 min-h-screen gloomcer bg-base-200 ">
   <div class="hero-content ">
     <div class="w-full ">
-
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
 
     <h1 class="text-5xl font-extrabold text-left text-white">Certificates</h1>

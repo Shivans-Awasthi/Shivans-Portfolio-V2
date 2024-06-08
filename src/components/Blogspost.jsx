@@ -12,7 +12,7 @@ return(
 <div class="hero min-h-screen bg-base-200 w-full gloomproj">
   <div class="hero-content">
     <div class="min-h-screen max-w-full ">
-    {/* <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> */}
+    <br/><br/><br/><br/>
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
     <h1 class="text-5xl font-extrabold text-left text-white">Blogs Spot</h1>
     <h1 class="text-xl text-left rainbow-text">Unveiling Ideas: Blogs to Inspire and Inform</h1>

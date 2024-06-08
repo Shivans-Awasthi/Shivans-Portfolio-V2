@@ -9,7 +9,7 @@ function Navigation(){
 return(
 
 
-<div class="navbar bg-base-200 w-full">
+<div class="navbar fixed top-0 z-10 glass bg-base-800 w-full">
   <div class="navbar-start md:w-full lg:w-96 lg:mx-48">
   <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="0">
 

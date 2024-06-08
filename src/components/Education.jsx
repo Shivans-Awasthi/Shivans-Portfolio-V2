@@ -16,6 +16,7 @@ return(
 <div class="hero h-screen gloomedu ">  
 <div class="hero-content">
 <div class="text-left max-w-full">
+<br/><br/><br/><br/>
 
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
 <h1 class="text-5xl font-extrabold text-left text-white">Education</h1>
