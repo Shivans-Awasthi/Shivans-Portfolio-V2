@@ -10,7 +10,7 @@ return(
 
   <section id="navbar">
 
-<div class="navbar fixed relative top-0 z-10 glass bg-base-800 w-full">
+<div class="navbar fixed z-10 glass bg-base-800 w-full">
   <div class="navbar-start">
   <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="0">
 
