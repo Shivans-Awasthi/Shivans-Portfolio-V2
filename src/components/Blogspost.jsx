@@ -26,7 +26,7 @@ return(
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="200">
 
 <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="300">
-<div class="card glass card-compact w-96 bg-neutral 00 shadow-xl ">
+<div class="card glass card-compact md: w-fit lg:w-96 bg-neutral 00 shadow-xl ">
   <figure><img src="https://www.hrkatha.com/wp-content/uploads/indian-flag-2644512_640.jpg" alt="OLQs" /></figure>
   
   <div class="card-body ">
