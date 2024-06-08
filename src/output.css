@@ -77,9 +77,8 @@ body {
   line-height: inherit;
   background-color: none ;
   overflow-x: hidden; 
-  max-width: 100%; 
   font-family: "Ubuntu";
-
+  width: 100vw;
 
 }
 

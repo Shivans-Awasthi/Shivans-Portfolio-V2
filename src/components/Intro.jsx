@@ -9,11 +9,11 @@ function Intro(){
 
 return(
 
-<section id="intro" >
+<section id="intro">
 
-<div class="hero h-screen gloom"  >
+<div class="hero h-screen gloom fullwidth"  >
   <div class="hero-content h-screen text-center">
-    <div class="w-full text-center">
+    <div class="text-center">
     <div data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">
       <h1 class="text-5xl text-white text-center">Hello there, I am</h1> <span class="text-center text-5xl font-extrabold text-white"><h1 className="rainbow-text">Shivans Awasthi</h1></span>
       <br/>
