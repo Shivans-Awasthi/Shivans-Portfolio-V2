@@ -50,7 +50,7 @@ return(
     </div>
     <br/><br/><br/><br/>
     <div data-aos="fade-down" data-aos-duration="500"  data-aos-delay="500">
-      <a href="#contact"><button class="btn bg-blue-800 text-white ">Contact Me</button></a> <a href="https://drive.google.com/file/d/1tCVPjbSV5H8FLimUI0ldMcmWPtX6elEu/view?usp=drive_link"><button class="btn bg-gray-600 text-white">Resume</button></a>
+      <a href="#contact"><button class="btn bg-blue-800 text-white ">Contact Me</button></a> <a href="https://drive.google.com/file/d/1Ea5RInl8XkD6odlKjAKGS1Xmj88mrkf2/view?usp=drive_link"><button class="btn bg-gray-600 text-white">Resume</button></a>
     
     
     </div>
