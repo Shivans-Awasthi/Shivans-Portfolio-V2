@@ -37,7 +37,7 @@ return(
     </div>
 
     <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
-    <p class="px-5 text-md text-white">Shivans Awasthi</p>
+    <p class="px-5 text-sm text-white">Shivans Awasthi</p>
     </div>
   </div>
 
@@ -55,7 +55,7 @@ return(
     </ul>
   </div>
 </div>
-<div class="navbar-end">
+<div class="navbar-end w-full">
 <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
 <a href="#contact"><button class="btn bg-blue-700 text-white">Contact Me</button></a>
 </div>

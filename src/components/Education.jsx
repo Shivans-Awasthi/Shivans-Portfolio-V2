@@ -36,7 +36,7 @@ return(
     <div class="timeline-start text-end mb-10">
     <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="200"><time class="font-mono italic">2024</time></div>
     <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="200"><div class="text-md font-black rainbow-text">B.Tech Computer Science and System Engineering</div>
-      Kalinga Institute of Industrial Technology(KIIT), Bhubaneshwar, Odisha, India
+      Kalinga Institute of Industrial Technology(KIIT),<br/> Bhubaneshwar, Odisha, India
       <p class="text-accent text-sm">CGPA: 8.36</p>
     </div>
     </div>
@@ -50,7 +50,7 @@ return(
     <div class="timeline-end mb-10">
     <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="300"><time class="font-mono italic">2019</time></div>
     <div data-aos="fade-left" data-aos-duration="500" data-aos-delay="300"><div class="text-md font-black rainbow-text">Class XII- Higher Secondary Education(CBSE)</div>
-      Kendriya Vidyalaya No.1, Mumbai, Maharashtra, India
+      Kendriya Vidyalaya No.1,<br/> Mumbai, Maharashtra, India
       <p class="text-accent text-sm">Percentage: 85%</p>
     </div>
     </div>
