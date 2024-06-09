@@ -12,7 +12,7 @@ return(
 
 <section id="certificates">
 
-<div class="hero py-60 min-h-screen gloomcer bg-base-200 w-full ">
+<div class="hero py-36 min-h-screen gloomcer bg-base-200 w-full ">
   <div class="hero-content w-full ">
     <div class="w-fit ">
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
