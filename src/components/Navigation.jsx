@@ -15,7 +15,7 @@ return(
 
   <section id="navbar">
 
-<div class="navbar fixed top-0 z-10 glass bg-base-800 w-full h-1">
+<div class="navbar fixed top-0 z-10 bg-gray-800 w-full h-1">
   <div class="navbar-start">
   <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="0">
 
@@ -56,9 +56,9 @@ return(
   </div>
 </div>
 <div class="navbar-end">
-
+<div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
 <a href="#contact"><button class="btn bg-blue-800 text-white">Contact Me</button></a>
-
+</div>
 </div>
 
 </div>
