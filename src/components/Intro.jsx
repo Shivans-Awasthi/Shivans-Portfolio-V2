@@ -34,7 +34,7 @@ return(
 <div data-aos="fade-up" data-aos-duration="1000"  data-aos-delay="1200">
 
       
-      <div class="mockup-code text-left text-white text-sm">
+      <div class="mockup-code bg-gray-900 glass text-left text-white text-sm">
       <div data-aos="fade-right" data-aos-duration="1200"  data-aos-delay="1300">
         <pre data-prefix="1" ><code>Software Engineer</code></pre> 
       </div>

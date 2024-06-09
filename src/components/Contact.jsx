@@ -91,7 +91,7 @@ return(
     
     <div data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200">
     <br/><br/><br/><br/>
-    <div class="card shrink-0 w-80 min-w-sm shadow-2xl bg-neutral ">
+    <div class="card bg-gray-900 glass shrink-0 w-80 min-w-sm shadow-2xl ">
       <form class="card-body " id="contact-form" name="contact-form" onSubmit={sendmail}>
 
         <div class="form-control ">
