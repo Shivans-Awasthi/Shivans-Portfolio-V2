@@ -34,10 +34,10 @@ return(
       
     <div data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200">
 
-      <h1 class="text-5xl font-extrabold text-left text-white">Contact Me!</h1>
+      <h1 class="text-3xl font-extrabold text-left text-white">Contact Me!</h1>
 
-      <h1 class="text-xl rainbow-text text-left">Lets get connected, and start our next project with enthusiasm and a positive mindset..</h1>
-      <h1 class="text-xl rainbow-text text-left">Contact me here, or reach out to me on my socials below!</h1>
+      <h1 class="text-md rainbow-text text-left">Lets get connected, and start our next project with enthusiasm and a positive mindset..</h1>
+      <h1 class="text-md rainbow-text text-left">Contact me here, or reach out to me on my socials below!</h1>
 
 
       <br/><br/>
@@ -91,7 +91,7 @@ return(
     
     <div data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200">
     <br/><br/><br/><br/>
-    <div class="card glass shrink-0 w-80 min-w-sm shadow-2xl bg-neutral ">
+    <div class="card shrink-0 w-80 min-w-sm shadow-2xl bg-neutral ">
       <form class="card-body " id="contact-form" name="contact-form" onSubmit={sendmail}>
 
         <div class="form-control ">
