@@ -41,7 +41,7 @@ return(
     <h2 class="card-title text-neutral-content text-white">Essential Requisite Qualities of an Officer</h2>
     <p class="text-neutral-content">Blogger</p>
     <div class="card-actions justify-end">
-      <a href="https://shivansawasthi.blogspot.com/2024/04/essential-requisite-qualities-of-officer.html"><button class="btn bg-blue-800 text-white">Open Blog</button></a>
+      <a href="https://shivansawasthi.blogspot.com/2024/04/essential-requisite-qualities-of-officer.html"><button class="btn bg-blue-700 text-white">Open Blog</button></a>
     </div>
   </div>
 </div>

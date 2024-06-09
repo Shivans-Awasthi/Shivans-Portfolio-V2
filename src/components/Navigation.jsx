@@ -57,7 +57,7 @@ return(
 </div>
 <div class="navbar-end">
 <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
-<a href="#contact"><button class="btn bg-blue-800 text-white">Contact Me</button></a>
+<a href="#contact"><button class="btn bg-blue-700 text-white">Contact Me</button></a>
 </div>
 </div>
 

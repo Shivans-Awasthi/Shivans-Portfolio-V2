@@ -42,7 +42,7 @@ return(
     </div>
     <div class="card-actions">
       
-      <button class="btn bg-blue-800 text-white">Deployment</button> 
+      <button class="btn bg-blue-700 text-white">Deployment</button> 
       <a href="https://github.com/Shivans-Awasthi/Shivans-Portfolio-V2"><button class="btn btn-dark text-white"><ion-icon name="logo-github"></ion-icon>Open on Github</button></a>
     </div>
   </div>
@@ -66,7 +66,7 @@ return(
       <br/><br/>
     </div>
     <div class="card-actions">
-      <a href="https://querylinker-web-app-querylinker.koyeb.app/"><button class="btn bg-blue-800 text-white ">Deployment</button></a>
+      <a href="https://querylinker-web-app-querylinker.koyeb.app/"><button class="btn bg-blue-700 text-white ">Deployment</button></a>
       <a href="https://github.com/Shivans-Awasthi/QueryLinker"><button class="btn btn-dark text-white"><ion-icon name="logo-github"></ion-icon>Open on Github</button></a>
     </div>
   </div>

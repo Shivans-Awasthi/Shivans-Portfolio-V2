@@ -44,7 +44,7 @@ return(
       
       <div data-aos="fade-down" data-aos-duration="500" data-aos-delay="1000">
       <div class="chat chat-start text-left">
-      <div class="chat-header">Shivans</div>
+      <div class="chat-header">Shivans Awasthi</div>
       <div class="chat-image avatar">
     <div class="w-10 rounded-full">
       <img alt="Tailwind CSS chat bubble component" src="https://media.licdn.com/dms/image/C5603AQG8bkmKRzc_Yw/profile-displayphoto-shrink_800_800/0/1661271807889?e=2147483647&v=beta&t=4coKl50b-4kyWn41Gt8kaGh9htlBH7f0k4j-HXsNGus" />
@@ -58,7 +58,7 @@ return(
       <div data-aos="fade-down" data-aos-duration="500" data-aos-delay="100">
 
         <div class="chat chat-start hidden fade-in" id="success1">
-        <div class="chat-header">Shivans</div>
+        <div class="chat-header">Shivans Awasthi</div>
         <div class="chat-image avatar">
     <div class="w-10 rounded-full">
       <img alt="Tailwind CSS chat bubble component" src="https://media.licdn.com/dms/image/C5603AQG8bkmKRzc_Yw/profile-displayphoto-shrink_800_800/0/1661271807889?e=2147483647&v=beta&t=4coKl50b-4kyWn41Gt8kaGh9htlBH7f0k4j-HXsNGus" />
@@ -72,7 +72,7 @@ return(
 
       <div data-aos="fade-down" data-aos-duration="500" data-aos-delay="100">
       <div class="chat chat-start hidden fade-in " id="success2">
-      <div class="chat-header">Shivans</div>
+      <div class="chat-header">Shivans Awasthi</div>
       <div class="chat-image avatar">
     <div class="w-10 rounded-full">
       <img alt="Tailwind CSS chat bubble component" src="https://media.licdn.com/dms/image/C5603AQG8bkmKRzc_Yw/profile-displayphoto-shrink_800_800/0/1661271807889?e=2147483647&v=beta&t=4coKl50b-4kyWn41Gt8kaGh9htlBH7f0k4j-HXsNGus" />
@@ -118,7 +118,7 @@ return(
         </div>
 
         <div class="form-control mt-6">
-          <button class="btn bg-blue-800 text-white" type="submit">Send Email</button>
+          <button class="btn bg-blue-700 text-white" type="submit">Send Email</button>
         </div>
       </form>
     </div>
