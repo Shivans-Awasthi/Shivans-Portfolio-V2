@@ -2,7 +2,9 @@ import React from "react";
 import Aos from "aos";
 
 
-Aos.init() ;
+Aos.init({
+  once: true
+}) ;
 
 
 
@@ -13,9 +15,9 @@ return(
 
 <section id="education" >
 
-<div class="hero h-screen gloomedu ">  
+<div class="hero min-h-screen gloomedu ">  
 <div class="hero-content">
-<div class="text-left max-w-full">
+<div class="text-left w-fit">
 <br/><br/><br/><br/>
 
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
@@ -47,7 +49,7 @@ return(
     </div>
     <div class="timeline-end mb-10">
     <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="300"><time class="font-mono italic">2019</time></div>
-    <div data-aos="fade-left" data-aos-duration="500" data-aos-delay="300"><div class="text-lg font-black rainbow-text">Class XII- Higher Secondary Education<br/>(CBSE)</div>
+    <div data-aos="fade-left" data-aos-duration="500" data-aos-delay="300"><div class="text-lg font-black rainbow-text">Class XII- Higher Secondary Education(CBSE)</div>
       Kendriya Vidyalaya No.1, Mumbai, Maharashtra, India
       <p class="text-accent">Percentage: 85%</p>
     </div>
@@ -59,6 +61,12 @@ return(
 </ul>
 </div>
 </div>
+</div>
+
+<div class="hero">
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" fill="currentColor" class="bi bi-arrow-down-short" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M8 4a.5.5 0 0 1 .5.5v5.793l2.146-2.147a.5.5 0 0 1 .708.708l-3 3a.5.5 0 0 1-.708 0l-3-3a.5.5 0 1 1 .708-.708L7.5 10.293V4.5A.5.5 0 0 1 8 4"/>
+</svg>
 </div>
 
 </section>

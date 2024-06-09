@@ -1,5 +1,10 @@
 import React from "react";
+import Aos from "aos";
 
+
+Aos.init({
+  once: true
+}) ;
 
 
 
@@ -10,7 +15,7 @@ return(
 
   <section id="navbar">
 
-<div class="navbar fixed top-0 z-10 glass bg-base-800 w-full">
+<div class="navbar fixed top-0 z-10 glass bg-base-800 w-full h-1">
   <div class="navbar-start">
   <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="0">
 

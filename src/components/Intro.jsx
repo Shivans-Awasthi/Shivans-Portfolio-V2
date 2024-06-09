@@ -2,8 +2,9 @@ import React from "react";
 import Aos from "aos";
 
 
-Aos.init() ;
-
+Aos.init({
+  once: true
+}) ;
 
 function Intro(){
 
@@ -11,43 +12,47 @@ return(
 
 <section id="intro">
 
-<div class="hero h-screen gloom w-full"  >
-  <div class="hero-content h-screen text-center  w-full">
-    <div class="text-center">
+<div class="hero min-h-screen gloom w-full"  >
+  <div class="hero-content text-center  w-full">
+
+    <div class="text-center w-fit">
+    <br/><br/><br/><br/><br/><br/>
     <div data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">
       <h1 class="text-5xl text-white text-center">Hello there, I am</h1> <span class="text-center text-5xl font-extrabold text-white"><h1 className="rainbow-text">Shivans Awasthi</h1></span>
       <br/>
-      <h1 class="text-xl rainbow-text text-center">Combining technical expertise with artistic<br/> vision to create memorable digital journeys</h1><br/>
 
       </div>
       <div data-aos="fade-up" data-aos-duration="1000"   data-aos-delay="1000">
       <div class="avatar">
-        <div class="w-24 rounded-full ring ring-warning ring-offset-base-100 ring-offset-2">
-          <img src="https://media.licdn.com/dms/image/C5603AQG8bkmKRzc_Yw/profile-displayphoto-shrink_800_800/0/1661271807889?e=2147483647&v=beta&t=4coKl50b-4kyWn41Gt8kaGh9htlBH7f0k4j-HXsNGus" />
+        <div class="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
+          <img src="https://github.com/Shivans-Awasthi/Shivans-Portfolio-Website/blob/main/images/profilepic.jpeg?raw=true" />
         </div>
       </div>
       </div>
-<br/><br/>
-<div data-aos="fade-up" data-aos-duration="500"  data-aos-delay="1300">
+<br/>
+
+<div data-aos="fade-up" data-aos-duration="1000"  data-aos-delay="1200">
 
       
       <div class="mockup-code glass text-left text-white">
-      <div data-aos="fade-right" data-aos-duration="500"  data-aos-delay="1400">
+      <div data-aos="fade-right" data-aos-duration="1200"  data-aos-delay="1300">
         <pre data-prefix="1" ><code>Software Engineer</code></pre> 
       </div>
-      <div data-aos="fade-right" data-aos-duration="1000"  data-aos-delay="1500">
-        <pre data-prefix="2" class="bg-warning text-warning-content"><code>MERN Stack Web Developer</code></pre> 
+      <div data-aos="fade-right" data-aos-duration="1300"  data-aos-delay="1400">
+        <pre data-prefix="2" class="bg-primary text-warning-content"><code>MERN Stack Web Developer</code></pre> 
       </div>  
-      <div data-aos="fade-right" data-aos-duration="1500"  data-aos-delay="1600">
+      <div data-aos="fade-right" data-aos-duration="1400"  data-aos-delay="1500">
         <pre data-prefix="3" ><code>Robotics Enthusiast</code></pre>
       </div>
     </div>
 
     <br/><br/>
     </div>
-
-    <div data-aos="fade-down" data-aos-duration="1000"  data-aos-delay="2000">
+    <br/><br/><br/><br/>
+    <div data-aos="fade-down" data-aos-duration="500"  data-aos-delay="500">
       <a href="#contact"><button class="btn bg-blue-800 text-white ">Contact Me</button></a> <a href="https://drive.google.com/file/d/1tCVPjbSV5H8FLimUI0ldMcmWPtX6elEu/view?usp=drive_link"><button class="btn bg-gray-600 text-white">Resume</button></a>
+    
+    
     </div>
     
     </div>
@@ -55,8 +60,13 @@ return(
   </div>
   
 </div>
+<div class="hero">
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" fill="currentColor" class="bi bi-arrow-down-short" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M8 4a.5.5 0 0 1 .5.5v5.793l2.146-2.147a.5.5 0 0 1 .708.708l-3 3a.5.5 0 0 1-.708 0l-3-3a.5.5 0 1 1 .708-.708L7.5 10.293V4.5A.5.5 0 0 1 8 4"/>
+</svg>
 
 
+</div>
 </section>
 
 

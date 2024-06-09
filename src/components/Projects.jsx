@@ -1,4 +1,10 @@
 import React from "react";
+import Aos from "aos";
+
+
+Aos.init({
+  once: true
+}) ;
 
 function Project(){
 
@@ -6,10 +12,10 @@ return(
 
 <section id="projects">
 
-<div class="hero min-h-screen w-full gloomproj">
+<div class="hero min-h-screen gloomproj">
   
   <div class="hero-content">
-    <div class="min-h-screen max-w-full ">
+    <div class="w-fit">
     <br/><br/><br/><br/>
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
     <h1 class="text-5xl font-extrabold text-left text-white">Projects</h1>
@@ -19,14 +25,14 @@ return(
 <br/><br/>
 
 <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">
-<div class="flex md:flex-col flex-col lg:flex-row w-full">
+<div class="flex md:flex-col flex-col lg:flex-row">
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="200">
-<div class="card glass md: w-fit lg:w-96 bg-neutral text-neutral-content text-white">
+<div class="card glass md:w-fit  lg:w-80  text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ Portfolio-Website-V2</h2>
     <p>/* My Personal Website that showcases my skills and projects */</p><br/>
-    <div class="card-actions  w-full justify-end">
+    <div class="card-actions w-full justify-end">
       <div class="badge badge-outline">HTML</div> 
       <div class="badge badge-outline">Tailwind CSS</div>
       <div class="badge badge-outline">Daisy UI</div>
@@ -42,14 +48,14 @@ return(
   </div>
 </div>
 </div>
-<div class="divider lg:divider-horizontal divider-dark"></div>
+<div class=" p-3"></div>
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="300">
-<div class="card glass md: w-fit lg:w-96 bg-neutral text-neutral-content text-white">
+<div class="card glass md:w-fit  lg:w-80 text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ QueryLinker</h2>
     <p>/* An intelligent seach engine aimed at providing efficient and relevant search results to users within a perticular domain.  */</p><br/>
-    <div class="card-actions justify-end">
+    <div class="card-actions w-full justify-end">
     
       <div class="badge badge-outline">Python</div> 
       <div class="badge badge-outline">WebCrawling</div>
@@ -68,15 +74,15 @@ return(
 </div>
 
 
-<div class="divider lg:divider-horizontal divider-dark "></div>
+<div class="p-3"></div>
 
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="400">
-<div class="card glass md: w-fit lg:w-96 bg-neutral text-neutral-content text-white">
+<div class="card glass md:w-fit  lg:w-80  text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ ChatSummation-Text-Summarization-of-conversational-data-using-google-Pegasus-model</h2>
     <p>/* A tool to summerize conversational data using google pagasus model trained on SamSum dataset */</p><br/>
-    <div class="card-actions justify-end">
+    <div class="card-actions w-full justify-end">
     
       <div class="badge badge-outline">Python</div> 
       <div class="badge badge-outline">NLP</div>
@@ -93,20 +99,20 @@ return(
 
 </div>
 </div>
-
-<br/><br/>
+<div class="p-3"></div>
 {/* Next section of projects starts here */}
 
 <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="500">
-<div class="flex md:flex-col flex-col lg:flex-row w-full ">
+<div class="flex md:flex-col flex-col lg:flex-row w-fit ">
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="600">
 
-<div class="card glass md: w-fit lg:w-96 bg-neutral text-neutral-content text-white">
+<div class="card glass md:w-fit  lg:w-80  bg-neutral text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ College-Automation-using-IOT</h2>
-    <p>/* An automation system using ESP32, Wifi, sensors for automatic control of Electric Appliances,<br/> Implemented Facial Recognition Attendance system */</p>
-    <div class="card-actions justify-end">
+    <p>/* An automation system using ESP32, Wifi, sensors for automatic control of Electric Appliances, Implemented Facial Recognition Attendance system */</p>
+    <br/>
+    <div class="card-actions w-fit justify-end">
       <div class="badge badge-outline">C++</div> 
       <div class="badge badge-outline">Arduino IOT Cloud</div>
       <div class="badge badge-outline">Python</div>
@@ -122,15 +128,15 @@ return(
 </div>
 
 
-<div class="divider lg:divider-horizontal divider-dark"></div>
+<div class="p-3"></div>
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="700">
 
-<div class="card md: w-fit lg:w-96 glass bg-neutral text-neutral-content text-white">
+<div class="card glass md:w-fit  lg:w-80  bg-neutral text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ Twitter-Sentiment-Analysis-using-TextBlob</h2>
     <p>/* Making a simple and efficient Sentiment analyzer to analyze twitter data for different purposes. */</p><br/>
-    <div class="card-actions  w-full justify-end">
+    <div class="card-actions justify-end">
       <div class="badge badge-outline">Python</div> 
       <div class="badge badge-outline">NLP</div>
       <div class="badge badge-outline">Textblob</div>
@@ -151,23 +157,21 @@ return(
 
 </div>
 
+
 </div>
 </div>
 
-
-
-
-
-
-  
-
-
-  
-  
+ 
     </div>
     </div>
   </div>
-  
+
+  <div class="hero">
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" fill="currentColor" class="bi bi-arrow-down-short" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M8 4a.5.5 0 0 1 .5.5v5.793l2.146-2.147a.5.5 0 0 1 .708.708l-3 3a.5.5 0 0 1-.708 0l-3-3a.5.5 0 1 1 .708-.708L7.5 10.293V4.5A.5.5 0 0 1 8 4"/>
+</svg>
+</div>
+
   </section>
   
 

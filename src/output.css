@@ -70,12 +70,10 @@ html,
 }
 
 
-
-
 body {
   margin: 0;
   line-height: inherit;
-  background-color: none ;
+  background-color: #191b1f ;
   overflow-x: hidden; 
   font-family: "Ubuntu";
   width: 100vw;

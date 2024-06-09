@@ -1,6 +1,11 @@
 import React, { useState } from "react";
 import { sendmail } from "../contact";
+import Aos from "aos";
 
+
+Aos.init({
+  once: true
+}) ;
 
 
 function Contact(){
@@ -25,7 +30,7 @@ return(
   
   <div class="hero-content flex-col lg:flex-row-reverse w-full">
     
-    <div class="text-center lg:text-left w-full">
+    <div class="text-center lg:text-left w-fit">
       
     <div data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200">
 
