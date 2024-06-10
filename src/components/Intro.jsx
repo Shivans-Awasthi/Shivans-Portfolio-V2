@@ -18,7 +18,7 @@ return(
     <div class="text-center w-fit">
     <br/><br/><br/><br/><br/><br/>
     <div data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">
-      <h1 class="text-xl text-white text-center">Hello there, I am</h1> <span class="text-center text-3xl font-extrabold text-white"><h1 className="rainbow-text">Shivans Awasthi</h1></span>
+      <h1 class="text-xl text-white text-center">Hello there, I am</h1> <span class="text-center text-3xl font-extrabold text-white"><h1 className="rainbow-text">Shivans Awasthi.</h1></span>
       <br/>
 
       </div>
@@ -60,7 +60,7 @@ return(
   </div>
   
 </div>
-<div class="hero">
+<div class="hero" style={{backgroundColor:"#111014"}}>
 <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" fill="currentColor" class="bi bi-arrow-down-short" viewBox="0 0 16 16">
   <path fill-rule="evenodd" d="M8 4a.5.5 0 0 1 .5.5v5.793l2.146-2.147a.5.5 0 0 1 .708.708l-3 3a.5.5 0 0 1-.708 0l-3-3a.5.5 0 1 1 .708-.708L7.5 10.293V4.5A.5.5 0 0 1 8 4"/>
 </svg>

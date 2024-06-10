@@ -97,11 +97,11 @@ body {
   content: "";
   display: flex;
   position: relative;
-  background: hsl(270, 78%, 56%);
+  background: hsl(270, 88%, 52%);
   width: 100px;
-  height: 100px;
+  height: 50px;
   border-radius: 50%;
-  filter: blur(70px);
+  filter: blur(60px);
   mix-blend-mode: lighten;
 }
 
@@ -122,9 +122,9 @@ body {
 
 .gloom {
   background: radial-gradient(
-      circle closest-corner at center 225px,
-      hsl(200, 66%, 23%),
-      #191b1f 40%
+      circle closest-corner at center 400px,
+      hsl(199, 63%, 17%),
+      #111014 40%
     )
     no-repeat;
 }
@@ -143,7 +143,7 @@ body {
   position: relative;
   /* background: hsl(0, 57%, 18%); */
   width: 300px;
-  height: 300px;
+  height: 50px;
   border-radius: 50%;
   filter: blur(70px);
   mix-blend-mode: lighten;
@@ -163,8 +163,8 @@ body {
 .gloomskill {
   background: radial-gradient(
       circle closest-corner at center 475px,
-      hsl(200, 57%, 18%),
-      #191b1f 20%
+      hsl(199, 63%, 17%),
+      #111014 20%
     )
     no-repeat;
 }
@@ -185,7 +185,7 @@ body {
   position: relative;
   background: hsl(270, 78%, 56%);
   width: 100px;
-  height: 100px;
+  height: 50px;
   border-radius: 50%;
   filter: blur(70px);
   mix-blend-mode: lighten;
@@ -205,8 +205,8 @@ body {
 .gloomedu {
   background: radial-gradient(
       circle closest-corner at left 425px,
-      hsl(59, 66%, 23%),
-      #1c1d1f 60%
+      hsl(0, 70%, 21%),
+      #111014 60%
     )
     no-repeat;
 }
@@ -225,7 +225,7 @@ body {
   position: relative;
   background: hsl(270, 78%, 56%);
   width: 100px;
-  height: 100px;
+  height: 50px;
   border-radius: 50%;
   filter: blur(70px);
   mix-blend-mode: lighten;
@@ -246,7 +246,7 @@ body {
   background: radial-gradient(
       circle closest-corner at right 525px ,
       hsl(221, 94%, 19%),
-      #191b1f 70%
+      #111014 70%
     )
     no-repeat;
 }
@@ -264,7 +264,7 @@ body {
   position: right;
   background: hsl(270, 78%, 56%);
   width: 100px;
-  height: 100px;
+  height: 50px;
   border-radius: 50%;
   filter: blur(70px);
   mix-blend-mode: lighten;
@@ -276,7 +276,7 @@ body {
   background: radial-gradient(
       circle closest-corner at left 225px,
       hsl(199, 67%, 33%),
-      #191b1f 80%
+      #111014 80%
     )
     no-repeat;
 }
@@ -293,7 +293,9 @@ body {
 .rainbow-text {
   /* Create a conic gradient. */
   /* Double percentages to avoid blur (#000 10%, #fff 10%, #fff 20%, ...). */
-  background: linear-gradient(90deg, #8BDDEF 0%, #DCB1F1 100%, #F5B4B8 100%);
+  background-color: #b33cff;
+  background-image: linear-gradient(270deg, #b33cff 0%, #823fff 33%, #379cff 66%, #3d67ff 100%);
+  
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 

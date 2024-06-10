@@ -36,7 +36,7 @@ return(
 
       <h1 class="text-3xl font-extrabold text-left text-white">Contact Me!</h1>
 
-      <h1 class="text-md rainbow-text text-left">Lets get connected, and start our next project with enthusiasm and a positive mindset..</h1>
+      <h1 class="text-md rainbow-text text-left">Lets get connected, and start our next project with enthusiasm and a positive mindset.</h1>
       <h1 class="text-md rainbow-text text-left">Contact me here, or reach out to me on my socials below!</h1>
 
 
@@ -47,10 +47,10 @@ return(
       <div class="chat-header">Shivans Awasthi</div>
       <div class="chat-image avatar">
     <div class="w-10 rounded-full">
-      <img alt="Tailwind CSS chat bubble component" src="https://media.licdn.com/dms/image/C5603AQG8bkmKRzc_Yw/profile-displayphoto-shrink_800_800/0/1661271807889?e=2147483647&v=beta&t=4coKl50b-4kyWn41Gt8kaGh9htlBH7f0k4j-HXsNGus" />
+      <img alt="Tailwind CSS chat bubble component" src="https://github.com/Shivans-Awasthi/Shivans-Portfolio-Website/blob/main/images/profilepic.jpeg?raw=true" />
     </div>
   </div>
-        <div class="chat-bubble chat-start chat-bubble-success text-white text-left max-w-full">
+        <div class="chat-bubble chat-start chat-bubble-success  px-2 py-2 text-white text-left w-fit">
           <p class="text-1xl" >Hello { Name } </p>
         </div>
         </div>
@@ -61,10 +61,10 @@ return(
         <div class="chat-header">Shivans Awasthi</div>
         <div class="chat-image avatar">
     <div class="w-10 rounded-full">
-      <img alt="Tailwind CSS chat bubble component" src="https://media.licdn.com/dms/image/C5603AQG8bkmKRzc_Yw/profile-displayphoto-shrink_800_800/0/1661271807889?e=2147483647&v=beta&t=4coKl50b-4kyWn41Gt8kaGh9htlBH7f0k4j-HXsNGus" />
+      <img alt="Tailwind CSS chat bubble component" src="https://github.com/Shivans-Awasthi/Shivans-Portfolio-Website/blob/main/images/profilepic.jpeg?raw=true" />
     </div>
   </div>
-        <div class="chat-bubble chat-bubble-success text-white text-left max-w-full">
+        <div class="chat-bubble chat-bubble-success text-white px-2 py-2 text-left w-fit">
       <p class="text-1xl text-bold">Thanks for connecting!</p>
       </div>
       </div>
@@ -75,10 +75,10 @@ return(
       <div class="chat-header">Shivans Awasthi</div>
       <div class="chat-image avatar">
     <div class="w-10 rounded-full">
-      <img alt="Tailwind CSS chat bubble component" src="https://media.licdn.com/dms/image/C5603AQG8bkmKRzc_Yw/profile-displayphoto-shrink_800_800/0/1661271807889?e=2147483647&v=beta&t=4coKl50b-4kyWn41Gt8kaGh9htlBH7f0k4j-HXsNGus" />
+      <img alt="Tailwind CSS chat bubble component" src="https://github.com/Shivans-Awasthi/Shivans-Portfolio-Website/blob/main/images/profilepic.jpeg?raw=true" />
     </div>
   </div>
-      <div class="chat chat-bubble chat-bubble-success text-white text-left max-w-full">
+      <div class="chat chat-bubble chat-bubble-success px-2 py-2 text-white text-left w-fit">
       <p class="text-1xl text-bold">I Recieved Your message, will reach out to you soon.</p>
       </div>
       </div>
