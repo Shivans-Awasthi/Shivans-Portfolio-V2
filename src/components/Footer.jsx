@@ -27,7 +27,7 @@ return(
     <h6 class="footer-title">Social</h6> 
     <div class="grid grid-flow-col gap-4">
     
-    <a href="https://www.instagram.com/shivans_awasthi/">
+    <a href="https://www.instagram.com/thenameis.shivans/">
     <button class="btn bg-pink-600 text-white btn-square">
     <ion-icon name="logo-instagram" class="h-6 w-6"></ion-icon>
     </button>
