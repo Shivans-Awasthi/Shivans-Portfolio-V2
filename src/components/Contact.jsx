@@ -91,21 +91,21 @@ return(
     
     <div data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200">
     <br/><br/><br/><br/>
-    <div class="card bg-gray-900 glass shrink-0 w-80 min-w-sm shadow-2xl ">
+    <div class="card bg-gray-900 glass w-80 min-w-sm shadow-2xl ">
       <form class="card-body " id="contact-form" name="contact-form" onSubmit={sendmail}>
 
         <div class="form-control ">
           <label for="from_name " class="label">
             <span class="label-text text-white">--Name</span>
           </label>
-          <input onChange={handleChange} type="text" name="from_name" id="from_name" placeholder="// What should I call you" class=" input input-bordered" required />
+          <input onChange={handleChange} type="text" name="from_name" id="from_name" placeholder="// What should I call you" class=" input input-bordered h-10 w-full text-sm" required />
         </div>
 
         <div class="form-control">
           <label for="reply_to" class="label">
             <span class="label-text text-white">--Email</span>
           </label>
-          <input type="email" name="reply_to" id="reply_to" placeholder="// Enter your Email" class="input input-bordered" required />
+          <input type="email" name="reply_to" id="reply_to" placeholder="// Enter your Email" class="input input-bordered h-10 w-full text-sm" required />
 
         </div>
 
@@ -113,7 +113,7 @@ return(
           <label for="message" class="label">
             <span class="label-text text-white">--Message</span>
           </label>          
-          <textarea class="textarea textarea-bordered min-h-40" name="message" id="message" placeholder="// Let me know your thoughts" required></textarea>
+          <textarea class="textarea textarea-bordered min-h-40 w-full text-sm" name="message" id="message" placeholder="// Let me know your thoughts" required></textarea>
 
         </div>
 
