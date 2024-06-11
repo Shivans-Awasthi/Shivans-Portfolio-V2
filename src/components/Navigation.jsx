@@ -43,7 +43,7 @@ return(
 
   <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
 
-  <div class="navbar-center hidden lg:flex text-white">
+  <div class="navbar-center hidden lg:flex text-white text-center min-w-full">
     <ul class="menu menu-horizontal px-1">
     <li><a href="#intro">Intro</a></li>
         <li><a href="#skills">Skills</a></li>
@@ -55,7 +55,7 @@ return(
     </ul>
   </div>
 </div>
-<div class="navbar-end w-full">
+<div class="navbar-end">
 <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
 <a href="#contact"><button class="btn bg-blue-700 text-white">Contact Me</button></a>
 </div>
