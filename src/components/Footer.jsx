@@ -6,11 +6,9 @@ return(
 
 <section id="footer">
  
-<div class="hero bg-base-300">
-<div class="hero-content bg-base-300 w-full">
-<div class="overflow-x-auto bg-base-300 w-full">
 
-<footer class="footer p-10 bg-base-300 w-full text-base-content text-white">
+
+<footer class="footer p-10 glass w-full text-base-content text-white">
 
 
   <nav>
@@ -59,9 +57,6 @@ return(
   </nav>
 </footer>
 
-</div>
-</div>
-</div>
  
 </section>
 
