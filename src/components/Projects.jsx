@@ -32,7 +32,7 @@ return(
   <div class="card-body">
     <h2 class="card-title text-accent">$ Portfolio-Website-V2</h2>
     <p>/* My Personal Website that showcases my skills and projects */</p><br/>
-    <div class="card-actions text-secondary w-full justify-end">
+    <div class="card-actions text-warning w-full justify-end">
       <div class="badge badge-outline">HTML</div> 
       <div class="badge badge-outline">Tailwind CSS</div>
       <div class="badge badge-outline">Daisy UI</div>
@@ -55,7 +55,7 @@ return(
   <div class="card-body">
     <h2 class="card-title text-accent">$ QueryLinker</h2>
     <p>/* An intelligent seach engine aimed at providing efficient and relevant search results to users within a perticular domain.  */</p><br/>
-    <div class="card-actions w-full text-secondary justify-end">
+    <div class="card-actions w-full text-warning justify-end">
     
       <div class="badge badge-outline">Python</div> 
       <div class="badge badge-outline">WebCrawling</div>
@@ -82,7 +82,7 @@ return(
   <div class="card-body">
     <h2 class="card-title text-accent">$ ChatSummation-Text-Summarization-of-conversational-data-using-google-Pegasus-model</h2>
     <p>/* A tool to summerize conversational data using google pagasus model trained on SamSum dataset */</p><br/>
-    <div class="card-actions w-full text-secondary justify-end">
+    <div class="card-actions w-full text-warning justify-end">
     
       <div class="badge badge-outline">Python</div> 
       <div class="badge badge-outline">NLP</div>
@@ -112,7 +112,7 @@ return(
     <h2 class="card-title text-accent">$ College-Automation-using-IOT</h2>
     <p>/* An automation system using ESP32, Wifi, sensors for automatic control of Electric Appliances, Implemented Facial Recognition Attendance system */</p>
     <br/>
-    <div class="card-actions w-fit text-secondary justify-end">
+    <div class="card-actions w-fit text-warning justify-end">
       <div class="badge badge-outline">C++</div> 
       <div class="badge badge-outline">Arduino IOT Cloud</div>
       <div class="badge badge-outline">Python</div>
@@ -136,7 +136,7 @@ return(
   <div class="card-body">
     <h2 class="card-title text-accent">$ Twitter-Sentiment-Analysis-using-TextBlob</h2>
     <p>/* Making a simple and efficient Sentiment analyzer to analyze twitter data for different purposes. */</p><br/>
-    <div class="card-actions text-secondary justify-end">
+    <div class="card-actions text-warning justify-end">
       <div class="badge badge-outline">Python</div> 
       <div class="badge badge-outline">NLP</div>
       <div class="badge badge-outline">Textblob</div>

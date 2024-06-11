@@ -24,7 +24,7 @@ return(
       </div>
       <div data-aos="fade-up" data-aos-duration="1000"   data-aos-delay="1000">
       <div class="avatar">
-        <div class="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
+        <div class="w-24 rounded-full ring ring-accent ring-offset-base-100 ring-offset-2">
           <img src="https://github.com/Shivans-Awasthi/Shivans-Portfolio-Website/blob/main/images/profilepic.jpeg?raw=true" />
         </div>
       </div>
@@ -39,7 +39,7 @@ return(
         <pre data-prefix="1" ><code>Software Engineer</code></pre> 
       </div>
       <div data-aos="fade-right" data-aos-duration="1300"  data-aos-delay="1400">
-        <pre data-prefix="2" class="bg-primary text-primary-content"><code>MERN Stack Web Developer</code></pre> 
+        <pre data-prefix="2" class="bg-accent text-accent-content"><code>MERN Stack Web Developer</code></pre> 
       </div>  
       <div data-aos="fade-right" data-aos-duration="1400"  data-aos-delay="1500">
         <pre data-prefix="3" ><code>Robotics Enthusiast</code></pre>
