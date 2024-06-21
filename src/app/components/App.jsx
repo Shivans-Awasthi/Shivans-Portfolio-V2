@@ -9,10 +9,18 @@ import Footer from "./Footer";
 import Contact from "./Contact";
 import Certification from "./Certification";
 import Blogspost from "./Blogspost";
-
+import { useEffect } from "react";
+import Aos from "aos";
 
 
 function App(){
+
+    useEffect(() => {
+        Aos.init({
+          once: true,
+        });
+      }, []);
+      
 
 return(
 <div>
@@ -23,11 +31,8 @@ return(
 <Skills />
 <Education />
 <Project />
-
-
 <Certification />
 <Blogspost/>
-
 <Contact />
 <Footer />
 
@@ -37,7 +42,5 @@ return(
 
 
 }
-
-
 
 export default App ;

@@ -1,12 +1,11 @@
 import React from "react";
-import Aos from "aos";
 
 
-Aos.init({
-  once: true
-}) ;
 
 function Project(){
+
+
+
 
 return(
 

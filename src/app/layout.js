@@ -1,6 +1,16 @@
-<!DOCTYPE html>
+
+import Head from 'next/head';
+
+
+export default function RootLayout({ children }) {
+    return (
+<html lang="en">
+<Head>
+        <link rel="stylesheet" href="/output.css" />
+        <script src="/contact.js"></script>
+</Head>
 <head>
-  <meta charset="utf-8" />
+  <meta charSet="utf-8" />
   <meta
     name="viewport"
     content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"
@@ -48,7 +58,7 @@
     type="image/png"
   />
 
-  <link href="./src/output.css" rel="stylesheet" />
+  <link href="/output.css" rel="stylesheet" />
   <link
     href="https://cdn.jsdelivr.net/npm/daisyui@4.11.1/dist/full.min.css"
     rel="stylesheet"
@@ -58,21 +68,21 @@
   <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preconnect" href="https://fonts.gstatic.com" />
   <link
     href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"
     rel="stylesheet"
   />
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preconnect" href="https://fonts.gstatic.com" />
   <link
     href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&display=swap"
     rel="stylesheet"
   />
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preconnect" href="https://fonts.gstatic.com" />
   <link
     href="https://fonts.googleapis.com/css2?family=REM:ital,wght@0,100..900;1,100..900&display=swap"
     rel="stylesheet"
@@ -85,23 +95,24 @@
 </head>
 
 <body>
-  <div id="root"></div>
+  <div id="root">{children}</div>
 
-  <script type="module" src="./src/index.jsx"></script>
   <script src="https://cdn.tailwindcss.com"></script>
+  <script src="/contact.js"></script>
   <script
     type="module"
     src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
   ></script>
   <script
-    nomodule
+    noModule
     src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"
   ></script>
-  <script src="./script.js"></script>
   <script
     async
     src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"
   ></script>
-  <script type="text/javasript" src="./src/contact.js"></script>
 </body>
+</html>
+
+    )
+  }

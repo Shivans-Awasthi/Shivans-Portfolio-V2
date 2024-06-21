@@ -1,12 +1,12 @@
 import React from "react";
-import Aos from "aos";
 
 
-Aos.init({
-  once: true
-}) ;
+
+
 
 function Certification(){
+
+
 
 return(
 
@@ -22,7 +22,7 @@ return(
     </div>
 <br/><br/>
   
-<div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+<div data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200">
 
 <div class="flex md:flex-col flex-col lg:flex-row w-full ">
 
@@ -77,12 +77,10 @@ return(
   </div>
 </div>
 </div>
-
 </div>
 
-
 <div class="p-3"></div>
-<div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600">
+<div data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="600">
 
 <div class="flex md:flex-col flex-col lg:flex-row w-full ">
 
@@ -103,11 +101,10 @@ return(
 </div>
 </div>
 </div>
-
+</div>
 </div>
 
 
-    </div>
     </div>
   </div>
     

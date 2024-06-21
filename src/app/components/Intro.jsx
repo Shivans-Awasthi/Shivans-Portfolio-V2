@@ -1,12 +1,9 @@
 import React from "react";
-import Aos from "aos";
 
-
-Aos.init({
-  once: true
-}) ;
 
 function Intro(){
+
+
 
 return(
 
@@ -16,7 +13,7 @@ return(
   <div class="hero-content text-center  min-w-full">
 
     <div class="text-center w-fit">
-    <br/><br/><br/><br/><br/><br/>
+    <br/><br/><br/><br/>
     <div data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">
       <h1 class="text-xl text-white text-center">Hello there, I am</h1> <span class="text-center text-3xl font-extrabold text-white"><h1 className="rainbow-text">Shivans Awasthi.</h1></span>
       <br/>
@@ -48,7 +45,6 @@ return(
 
     <br/><br/>
     </div>
-    <br/><br/><br/><br/>
     <div data-aos="fade-down" data-aos-duration="500"  data-aos-delay="500">
       <a href="#contact"><button class="btn bg-blue-700 text-white ">Contact Me</button></a> <a href="https://drive.google.com/file/d/1Ea5RInl8XkD6odlKjAKGS1Xmj88mrkf2/view?usp=drive_link"><button class="btn bg-gray-600 text-white">Resume</button></a>
     

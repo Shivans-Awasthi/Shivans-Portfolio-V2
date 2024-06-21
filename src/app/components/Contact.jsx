@@ -1,11 +1,5 @@
 import React, { useState } from "react";
-import { sendmail } from "../contact";
-import Aos from "aos";
-
-
-Aos.init({
-  once: true
-}) ;
+import { sendmail } from "../../../public/contact";
 
 
 function Contact(){

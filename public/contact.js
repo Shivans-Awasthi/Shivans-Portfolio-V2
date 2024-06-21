@@ -1,9 +1,9 @@
+import emailjs from 'emailjs-com';
+
 
 emailjs.init({
   publicKey: "WeIp44vGwwzstkfCg",
 });
-
-
 
 export function sendmail(event) {
   event.preventDefault();  // Prevent the default form submission
