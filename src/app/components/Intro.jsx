@@ -10,7 +10,7 @@ return(
 <section id="intro">
 
 <div class="hero min-h-screen gloom min-w-full"  >
-  <div class="hero-content text-center  min-w-full">
+  <div class="hero-content text-center min-w-full">
 
     <div class="text-center w-fit">
     <br/><br/><br/><br/>
@@ -31,15 +31,15 @@ return(
 <div data-aos="fade-up" data-aos-duration="1000"  data-aos-delay="1200">
 
       
-      <div class="mockup-code glass bg-neutral text-left text-white text-md w-full">
+      <div class="mockup-code bg-neutral text-left text-white text-sm w-full">
       <div data-aos="fade-right" data-aos-duration="1200"  data-aos-delay="1300">
-        <pre data-prefix="1" ><code>Software Engineer</code></pre> 
+        <pre data-prefix="$" ><code>Software Engineer</code></pre> 
       </div>
       <div data-aos="fade-right" data-aos-duration="1300"  data-aos-delay="1400">
-        <pre data-prefix="2" class="bg-accent text-accent-content"><code>MERN Stack Web Developer</code></pre> 
+        <pre data-prefix=">" class="text-accent"><code>MERN Stack Web Developer</code></pre> 
       </div>  
       <div data-aos="fade-right" data-aos-duration="1400"  data-aos-delay="1500">
-        <pre data-prefix="3" ><code>Robotics Enthusiast</code></pre>
+        <pre data-prefix=">" ><code>Robotics Enthusiast</code></pre>
       </div>
     </div>
 

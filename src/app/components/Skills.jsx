@@ -85,37 +85,46 @@ return(
 
       <tr>
       
-        <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1100">Flask</div></td>
+      <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1100">Next JS</div></td>
+
+      <td>
+      <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1200">
+        <progress class="progress progress-secondary md: w-48 lg:w-80" value="50" max="100"></progress></div></td>
+    </tr>
+
+      <tr>
+      
+        <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1300">Flask</div></td>
 
         <td>
-        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1200">
+        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1400">
           <progress class="progress progress-secondary md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
       </tr>
 
       <tr>
       
-        <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1300">PostgreSQL | MySQL</div></td>
+        <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1500">PostgreSQL | MySQL</div></td>
 
         <td>
-        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1400">
+        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1600">
           <progress class="progress progress-secondary md: w-48 lg:w-80" value="75" max="100"></progress></div></td>
       </tr>
 
       <tr>
       
-        <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1500">Bootstrap | Tailwind CSS</div></td>
+        <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1700">Bootstrap | Tailwind CSS</div></td>
       
         <td>
-        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1600">
+        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1800">
           <progress class="progress progress-secondary md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
       </tr>
 
       <tr>
       
-        <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1700">ROS 2</div></td>
+        <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1900">ROS 2</div></td>
 
         <td>
-        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1800">
+        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="2000">
           <progress class="progress progress-secondary md: w-48 lg:w-80" value="60" max="100"></progress></div></td>
       </tr>
 
