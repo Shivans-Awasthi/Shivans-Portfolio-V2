@@ -32,7 +32,7 @@ return(
 
       <h1 class="text-md rainbow-text text-left">Lets get connected, and start our next project with enthusiasm and a positive mindset.</h1>
       <h1 class="text-md rainbow-text text-left">Contact me here, or reach out to me on my socials below!</h1>
-
+      <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=contact@shivansawasthi.info" target="_blank" rel="nofollow noopener"><h1 class="text-md text-warning text-left text-sm">contact@shivansawasthi.info</h1></a>
 
       <br/><br/>
       
