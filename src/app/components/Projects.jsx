@@ -27,7 +27,7 @@ return(
 <div class="flex md:flex-col flex-col lg:flex-row">
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="200">
-<div class="card  bg-gray-800 md:w-fit lg:w-80 text-neutral-content text-white">
+<div class="card bg-gray-900 glass md:w-fit lg:w-80 text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ Portfolio-Website-V2</h2>
     <p>/* My Personal Website that showcases my skills and projects */</p><br/>
@@ -51,7 +51,7 @@ return(
 <div class=" p-3"></div>
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="300">
-<div class="card md:w-fit lg:w-80 bg-gray-800  text-neutral-content text-white">
+<div class="card md:w-fit lg:w-80 bg-gray-900 glass text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ QueryLinker</h2>
     <p>/* An intelligent seach engine aimed at providing efficient and relevant search results to users within a perticular domain.  */</p><br/>
@@ -78,7 +78,7 @@ return(
 
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="400">
-<div class="card  md:w-fit  lg:w-80 bg-gray-800 text-neutral-content text-white">
+<div class="card  md:w-fit  lg:w-80 bg-gray-900 glass text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ ChatSummation-Text-Summarization-of-conversational-data-using-google-Pegasus-model</h2>
     <p>/* A tool to summerize conversational data using google pagasus model trained on SamSum dataset */</p><br/>
@@ -107,7 +107,7 @@ return(
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="600">
 
-<div class="card   md:w-fit bg-gray-800 lg:w-80 text-neutral-content text-white">
+<div class="card   md:w-fit bg-gray-900 glass lg:w-80 text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ College-Automation-using-IOT</h2>
     <p>/* An automation system using ESP32, Wifi, sensors for automatic control of Electric Appliances, Implemented Facial Recognition Attendance system */</p>
@@ -132,7 +132,7 @@ return(
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="700">
 
-<div class="card md:w-fit  lg:w-80 bg-gray-800  text-neutral-content text-white">
+<div class="card md:w-fit  lg:w-80 bg-gray-900 glass text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ Twitter-Sentiment-Analysis-using-TextBlob</h2>
     <p>/* Making a simple and efficient Sentiment analyzer to analyze twitter data for different purposes. */</p><br/>
