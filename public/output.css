@@ -90,6 +90,18 @@ body {
   scrollbar-width: thin;
 }
 
+.hero-video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100vw;
+  height: 56.25vw; /* Maintain 16:9 aspect ratio */
+  min-height: 100vh;
+  min-width: 177.78vh; /* 100vh * (16/9) */
+  transform: translate(-50%, -50%);
+  pointer-events: none; /* Disable user interaction with the video */
+}
+
 
 /* Container for the card */
 /* Container for the card */
