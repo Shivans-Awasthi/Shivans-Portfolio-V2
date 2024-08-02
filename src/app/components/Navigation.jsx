@@ -5,10 +5,8 @@ function Navigation(){
 
 return(
 
-  <section id="navbar">
-
-<div class="navbar glass fixed top-0 z-20 w-full h-1">
-  <div class="navbar-start">
+<div class="navbar glass fixed z-20 h-1">
+  <div class="navbar-start w-96">
   <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="0">
 
     <div class="dropdown">
@@ -29,13 +27,13 @@ return(
     </div>
 
     <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
-    <p class="px-5 text-sm text-white">Shivans Awasthi</p>
+    <p class="px-5 text-xl text-white">Shivans Awasthi</p>
     </div>
   </div>
 
   <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
 
-  <div class="navbar-center hidden lg:flex text-white text-center min-w-full">
+  <div class="navbar-center hidden lg:flex text-white text-center">
     <ul class="menu menu-horizontal px-1">
     <li><a href="#intro">Intro</a></li>
         <li><a href="#skills">Skills</a></li>
@@ -47,14 +45,13 @@ return(
     </ul>
   </div>
 </div>
-<div class="navbar-end">
+<div class="navbar-end m-0">
 <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
 <a href="#contact"><button class="btn bg-blue-700 text-white rounded-none">Contact Me</button></a>
 </div>
 </div>
 
 </div>
-</section>
 
 ) ;
 

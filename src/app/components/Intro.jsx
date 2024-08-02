@@ -9,10 +9,10 @@ return(
 
 <section id="intro">
 
-<div class="hero min-h-screen min-w-full">
+<div class="hero min-h-screen w-full">
       <iframe
-          className="hero-video"
-          src="https://www.youtube.com/embed/7Pj5NlnrxNQ?autoplay=1&loop=1&controls=0&mute=1"
+          className="hero-video w-full h-screen"
+          src="https://www.youtube.com/embed/7Pj5NlnrxNQ?autoplay=1&loop=1&controls=0&mute=1&rel=0&playlist=7Pj5NlnrxNQ"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           title="YouTube Video"
           disabled
