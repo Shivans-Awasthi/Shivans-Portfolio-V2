@@ -42,7 +42,7 @@ return(
         <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="100">C++</div></td>
         <td>
           <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="200">
-          <progress class="progress progress-secondary md: w-48 lg:w-80" value="80" max="100"></progress>
+          <progress class="progress progress-secondary rounded-none md: w-48 lg:w-80" value="80" max="100"></progress>
           </div>
         </td>
         
@@ -55,7 +55,7 @@ return(
      
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="400">
-          <progress class="progress progress-secondary md: w-48 lg:w-80" value="60" max="100"></progress></div></td>
+          <progress class="progress progress-secondary rounded-none md: w-48 lg:w-80" value="60" max="100"></progress></div></td>
       </tr>
 
       <tr>
@@ -63,7 +63,7 @@ return(
         <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="500">React JS</div></td>
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="600">
-          <progress class="progress progress-secondary md: w-48 lg:w-80" value="80" max="100"></progress></div></td>
+          <progress class="progress progress-secondary rounded-none md: w-48 lg:w-80" value="80" max="100"></progress></div></td>
       </tr>
 
       <tr>
@@ -71,7 +71,7 @@ return(
         <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="700">Node JS</div></td>
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="800">
-          <progress class="progress progress-secondary md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
+          <progress class="progress progress-secondary rounded-none md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
       </tr>
 
       <tr>
@@ -80,7 +80,7 @@ return(
 
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1000">
-          <progress class="progress progress-secondary md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
+          <progress class="progress progress-secondary rounded-none md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
       </tr>
 
       <tr>
@@ -89,7 +89,7 @@ return(
 
       <td>
       <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1200">
-        <progress class="progress progress-secondary md: w-48 lg:w-80" value="50" max="100"></progress></div></td>
+        <progress class="progress progress-secondary rounded-none md: w-48 lg:w-80" value="50" max="100"></progress></div></td>
     </tr>
 
       <tr>
@@ -98,7 +98,7 @@ return(
 
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1400">
-          <progress class="progress progress-secondary md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
+          <progress class="progress progress-secondary rounded-none md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
       </tr>
 
       <tr>
@@ -107,7 +107,7 @@ return(
 
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1600">
-          <progress class="progress progress-secondary md: w-48 lg:w-80" value="75" max="100"></progress></div></td>
+          <progress class="progress progress-secondary rounded-none md: w-48 lg:w-80" value="75" max="100"></progress></div></td>
       </tr>
 
       <tr>
@@ -116,7 +116,7 @@ return(
       
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1800">
-          <progress class="progress progress-secondary md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
+          <progress class="progress progress-secondary rounded-none md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
       </tr>
 
       <tr>
@@ -125,7 +125,7 @@ return(
 
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="2000">
-          <progress class="progress progress-secondary md: w-48 lg:w-80" value="60" max="100"></progress></div></td>
+          <progress class="progress progress-secondary rounded-none md: w-48 lg:w-80" value="60" max="100"></progress></div></td>
       </tr>
 
 

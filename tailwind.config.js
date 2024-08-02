@@ -1,32 +1,58 @@
-/** @type {import('tailwindcss').Config} */
 module.exports = {
-content: ["./src/**/*.{html,js}","./index.html"],
-  theme: {
-    extend: {
-
-      backgroundImage: {
-        'hero-pattern': "url('https://i.stack.imgur.com/DDJPh.png')",
-        'footer-texture': "url('/img/footer-texture.png')",
-      }
-    },
-  },
-  plugins: [
-	require('daisyui'),
-
+  content: [
+    './src/**/*.{js,jsx,ts,tsx}', 
   ],
-
-  darkMode: 'class',
-
-  daisyui: {
-    themes: false, // false: only light + dark | true: all themes | array: specific themes like this ["light", "dark", "cupcake"]
-    darkTheme: "dark", // name of one of the included themes for dark mode
-    base: true, // applies background color and foreground color for root element by default
-    styled: true, // include daisyUI colors and design decisions for all components
-    utils: true, // adds responsive and modifier utility classes
-    prefix: "", // prefix for daisyUI classnames (components, modifiers and responsive class names. Not colors)
-    logs: true, // Shows info about daisyUI version and used config in the console when building your CSS
-    themeRoot: ":root", // The element that receives theme color CSS variables
+  theme: {
+    extend: {},
   },
-  
-}
+  plugins: [require('daisyui')],
+  daisyui: {
+    themes: [
+      {
+        mytheme: {
+          
+"primary": "#be123c",
+          
+"primary-content": "#f3f4f6",
+          
+"secondary": "#2563eb",
+          
+"secondary-content": "#f3f4f6",
+          
+"accent": "#f3f4f6",
+          
+"accent-content": "#141415",
+          
+"neutral": "#111827",
+          
+"neutral-content": "#f3f4f6",
+          
+"base-100": "#f3f4f6",
+          
+"base-200": "#f3f4f6",
+          
+"base-300": "#f3f4f6",
+          
+"base-content": "#f3f4f6",
+          
+"info": "#6b7280",
+          
+"info-content": "#f3f4f6",
+          
+"success": "#a3e635",
+          
+"success-content": "#0a1301",
+          
+"warning": "#facc15",
+          
+"warning-content": "#150f00",
+          
+"error": "#dc2626",
+          
+"error-content": "#ffd9d4",
+          },
+        },
+      ],
+    },
 
+}

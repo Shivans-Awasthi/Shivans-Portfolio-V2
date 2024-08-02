@@ -28,14 +28,14 @@ return(
 
 
 <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="300">
-<div class="card bg-gray-900 glass card-compact md:w-fit  lg:w-80 bg-neutral shadow-xl ">
+<div class="card zoom-container rounded-none card-compact md:w-fit  lg:w-80 bg-neutral shadow-xl ">
   <figure><img src="https://img-c.udemycdn.com/course/750x422/1565838_e54e_18.jpg" alt="Web development" /></figure>
   
   <div class="card-body ">
     <h2 class="card-title text-neutral-content text-white">The Complete 2024 Web Development Bootcamp // Udemy</h2>
     <p class="text-neutral-content">Dr. Angela Yu</p>
     <div class="card-actions justify-end">
-      <button class="btn bg-blue-700 text-white">View Certificate</button>
+      <button class="btn bg-blue-700 text-white rounded-none">View Certificate</button>
     </div>
   </div>
 </div>
@@ -48,13 +48,13 @@ return(
 
 <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="400">
 
-<div class="card bg-gray-900 glass card-compact md:w-fit  lg:w-80  bg-neutral shadow-xl">
+<div class="card rounded-none card-compact md:w-fit  lg:w-80  bg-neutral shadow-xl">
   <figure><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~data-structures/XDP~COURSE!~data-structures.jpeg" alt="Data Structures" /></figure>
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-white">Data Structures Course // Coursera</h2>
     <p class="text-neutral-content">University of California San Diego</p>
     <div class="card-actions justify-end">
-      <a href="https://coursera.org/share/f9ed8ecee2fd7acf64c4e18be240883c"><button class="btn bg-blue-700 text-white">View Certificate</button></a>
+      <a href="https://coursera.org/share/f9ed8ecee2fd7acf64c4e18be240883c"><button class="btn bg-blue-700 text-white rounded-none">View Certificate</button></a>
     </div>
   </div>
 </div>
@@ -66,13 +66,13 @@ return(
 <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="500">
 
 
-<div class="card bg-gray-900 glass card-compact md:w-fit  lg:w-80  bg-neutral shadow-xl">
+<div class="card rounded-none card-compact md:w-fit  lg:w-80  bg-neutral shadow-xl">
   <figure><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~duke-programming-web/XDP~COURSE!~duke-programming-web.jpeg" alt="Fundamentals" /></figure>
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-white">Programming Foundations with JavaScript, HTML and CSS Course // Coursera</h2>
     <p class="text-neutral-content">Duke University</p>
     <div class="card-actions justify-end">
-      <a href="https://coursera.org/share/fcbaec57aaf8e88fe18a1a3ae7722ec5"><button class="btn bg-blue-700 text-white">View Certificate</button></a>
+      <a href="https://coursera.org/share/fcbaec57aaf8e88fe18a1a3ae7722ec5"><button class="btn bg-blue-700 rounded-none text-white">View Certificate</button></a>
     </div>
   </div>
 </div>
@@ -86,7 +86,7 @@ return(
 
 
 <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="700">
-<div class="card bg-gray-900 glass card-compact md:w-fit  lg:w-80  bg-neutral 00 shadow-xl ">
+<div class="card rounded-none card-compact md:w-fit  lg:w-80  bg-neutral 00 shadow-xl ">
   <figure><img src="https://img-c.udemycdn.com/course/750x422/3795420_bad2.jpg" alt="Web development" /></figure>
   
   <div class="card-body ">
@@ -94,7 +94,7 @@ return(
  // Udemy</h2>
     <p class="text-neutral-content">Raymond Andrade</p>
     <div class="card-actions justify-end">
-      <a href="https://www.udemy.com/certificate/UC-0b588aa1-970c-42f5-abbb-b9f4e7687001/"><button class="btn bg-blue-700 text-white">View Certificate</button></a>
+      <a href="https://www.udemy.com/certificate/UC-0b588aa1-970c-42f5-abbb-b9f4e7687001/"><button class="btn rounded-none bg-blue-700 text-white">View Certificate</button></a>
     </div>
   </div>
 </div>

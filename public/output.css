@@ -1,3 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 
 *,
 ::before,
@@ -76,7 +81,7 @@ body {
   background-color: #191b1f ;
   font-weight: 800;
   overflow-x: hidden; 
-  font-family: "Merriweather Sans";
+  font-family: "Mukta";
   width: 100vw;
 
 }
@@ -84,6 +89,50 @@ body {
 * {
   scrollbar-width: thin;
 }
+
+
+/* Container for the card */
+/* Container for the card */
+.card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px; /* Optional: Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Shadow for depth */
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease; /* Smooth transition */
+  background: #fff; /* Default background color */
+}
+
+/* Add gradient background on hover */
+.card:hover {
+  transform: scale(1.05); /* Zoom effect on hover */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Deeper shadow on hover */
+  background: linear-gradient(-45deg, #0d86f79d, #021a4d); /* Gradient background */
+}
+
+/* Image within the card */
+.card img {
+  width: 100%; /* Make image fit the card */
+  border-radius: 8px 8px 0 0; /* Rounded top corners */
+  transition: filter 0.3s ease; /* Smooth transition for filter effects */
+  display: block;
+  transform: scale(1.05);
+  filter: grayscale(100%);
+}
+
+/* Zoom effect on image inside the card */
+.card:hover img {
+  /* Zoom effect on image */
+  filter: none;
+}
+
+/* Optional: Adding some padding and a nice background color for content */
+.card-content {
+  padding: 16px; /* Adjust padding as needed */
+  background-color: transparent; /* Transparent to see the gradient background */
+  position: relative;
+  z-index: 1; /* Ensure content is above the gradient */
+}
+
 
 
 .gloom{
