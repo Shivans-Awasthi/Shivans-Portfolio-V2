@@ -12,12 +12,12 @@ return(
 <div class="hero min-h-screen min-w-full">
       <iframe
           className="hero-video"
-          src="https://www.youtube.com/embed/X-HL-r5TOiU?autoplay=1&loop=1&controls=0&mute=1&list=PL4jjgxHdfmYabCPLJQCRwOw4oZ0TXuz1k"
+          src="https://www.youtube.com/embed/7Pj5NlnrxNQ?autoplay=1&loop=1&controls=0&mute=1"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           title="YouTube Video"
           disabled
         ></iframe>
-<div className="hero-overlay z-10 bg-black bg-opacity-60"></div>
+<div className="hero-overlay z-10 bg-black bg-opacity-40"></div>
 
   <div class="hero-content text-center min-w-full z-10">
 
