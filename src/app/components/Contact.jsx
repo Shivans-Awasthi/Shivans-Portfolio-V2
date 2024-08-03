@@ -85,14 +85,14 @@ return(
     
     <div data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200">
     <br/><br/><br/><br/>
-    <div class=" rounded-none bg-neutral w-80 min-w-sm shadow-2xl ">
+    <div class="glass1 rounded-none w-80 min-w-sm shadow-2xl ">
       <form class="card-body " id="contact-form" name="contact-form" onSubmit={sendmail}>
 
         <div class="form-control ">
           <label for="from_name " class="label">
             <span class="label-text text-white">--Name</span>
           </label>
-          <input onChange={handleChange} type="text" name="from_name" id="from_name" placeholder="// What should I call you" class=" input rounded-none input-bordered h-10 w-full text-sm" required />
+          <input onChange={handleChange} type="text" name="from_name" id="from_name" placeholder="// What should I call you" class=" input input-bordered rounded-none h-10 w-full text-sm" required />
         </div>
 
         <div class="form-control">

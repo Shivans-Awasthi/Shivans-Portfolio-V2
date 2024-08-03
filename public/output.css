@@ -75,6 +75,9 @@ html,
 }
 
 
+
+
+
 body {
   margin: 0;
   line-height: inherit;
@@ -100,6 +103,16 @@ body {
   pointer-events: none; /* Disable user interaction with the video */
 }
 
+.glass1 {
+  background: rgba(255, 255, 255, 0.3); /* White with transparency */
+  backdrop-filter: blur(10px); /* Blur for glass effect */
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  overflow: hidden; /* Ensures child elements are clipped to fit */
+  color: #fff; /* Default text color */
+  position: relative; /* Position relative for stacking context */
+  z-index: 0; /* Default z-index */
+}
+
 
 /* Container for the card */
 /* Container for the card */
@@ -116,7 +129,7 @@ body {
 .card:hover {
   transform: scale(1.05); /* Zoom effect on hover */
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Deeper shadow on hover */
-  background: linear-gradient(-45deg, #6283a09d, #242b3a); /* Gradient background */
+  background: linear-gradient(-60deg, #3446559d, #747475); /* Gradient background */
 }
 
 /* Image within the card */

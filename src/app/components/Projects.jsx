@@ -27,7 +27,7 @@ return(
 <div class="flex md:flex-col flex-col lg:flex-row">
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="200">
-<div class="card zoom-container rounded-none bg-neutral md:w-fit lg:w-80 text-neutral-content text-white">
+<div class="card rounded-none md:w-fit bg-neutral lg:w-80 text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ Portfolio-Website-V2</h2>
     <p>/* My Personal Website that showcases my skills and projects */</p><br/>
@@ -51,7 +51,7 @@ return(
 <div class=" p-3"></div>
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="300">
-<div class="card rounded-none md:w-fit lg:w-80 bg-neutral text-neutral-content text-white">
+<div class="card rounded-none bg-neutral md:w-fit lg:w-80 text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ QueryLinker</h2>
     <p>/* An intelligent seach engine aimed at providing efficient and relevant search results to users within a perticular domain.  */</p><br/>

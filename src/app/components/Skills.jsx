@@ -15,7 +15,7 @@ return(
 
 <div class="hero min-h-screen gloomskill ">
 <div class="hero-content">
-<div class="text-center w-fit ">
+<div class="text-center ">
 <br/><br/><br/><br/>
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="50">
 <h1 class="text-3xl font-extrabold text-left text-white" >Skills</h1>
@@ -25,7 +25,7 @@ return(
 </div>
 <br/><br/>
 
-  <table class="table table-md text-white text-center">
+  <table class="table table-sm text-white text-center">
   
     <thead>
    

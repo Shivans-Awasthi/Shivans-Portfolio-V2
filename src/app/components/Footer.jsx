@@ -8,7 +8,7 @@ return(
  
 
 
-<footer class="footer p-10 bg-gray-900 glass w-full text-base-content text-white">
+<footer class="footer p-10 glass1 w-full text-base-content text-white">
 
 
   <nav>
