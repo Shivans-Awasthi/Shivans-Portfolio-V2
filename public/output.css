@@ -1,9 +1,3 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-
-
 
 *,
 ::before,
@@ -94,51 +88,68 @@ body {
 }
 
 .bg {
-  animation:slide 3s ease-in-out infinite alternate;
-  background-image: linear-gradient(-60deg, rgb(48, 48, 48) 50%, rgb(32, 32, 32) 50%, rgb(64, 64, 70) 50% );
-  bottom:0;
-  left:-50%;
-  opacity:.5;
-  position:fixed;
-  right:-50%;
-  top:0;
-  z-index:-1;
+  animation: slide 7s ease-in-out infinite alternate, colorShift 14s ease-in-out infinite alternate;
+  background-image: linear-gradient(-60deg, rgb(29, 29, 29) 50%, rgb(0, 0, 0) 50%, rgb(51, 55, 58) 50%);
+  bottom: 0;
+  left: -50%;
+  opacity: 0.5;
+  position: fixed;
+  right: -50%;
+  top: 0;
+  z-index: -1;
 }
 
 .bg2 {
-  animation-direction:alternate-reverse;
-  animation-duration:4s;
+  animation-direction: alternate-reverse;
+  animation-duration: 8s, 16s;
 }
 
 .bg3 {
-  animation-duration:5s;
+  animation-duration: 9s, 18s;
 }
-
-.content {
-  background-color:rgba(255,255,255,.8);
-  border-radius:.25em;
-  box-shadow:0 0 .25em rgba(0,0,0,.25);
-  box-sizing:border-box;
-  left:50%;
-  padding:10vmin;
-  position:fixed;
-  text-align:center;
-  top:50%;
-  transform:translate(-50%, -50%);
-}
-
 
 @keyframes slide {
   0% {
-    transform:translateX(-25%);
+    transform: translateX(-25%);
   }
   100% {
-    transform:translateX(25%);
+    transform: translateX(25%);
   }
 }
 
+@keyframes colorShift {
+  0% {
+    filter: hue-rotate(0deg);
+  }
+  100% {
+    filter: hue-rotate(360deg);
+  }
+}
 
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg) scale(1);
+  }
+  50% {
+    transform: rotate(180deg) scale(1.1);
+  }
+  100% {
+    transform: rotate(360deg) scale(1);
+  }
+}
 
+.extra-layer {
+  animation: rotation 20s linear infinite;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.1), transparent);
+  bottom: 0;
+  left: -50%;
+  opacity: 0.3;
+  position: fixed;
+  right: -50%;
+  top: 0;
+  z-index: -2;
+  mix-blend-mode: overlay;
+}
 
 
 * {

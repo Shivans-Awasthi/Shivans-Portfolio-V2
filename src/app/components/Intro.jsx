@@ -13,7 +13,8 @@ return(
 <div class="hero min-h-screen w-full">
 <div class="bg"></div>
 <div class="bg bg2"></div>
-<div class="bg bg3"></div>
+<div class="bg bg2 bg3"></div>
+
   <div class="hero-content text-center min-w-full z-10">
 
     <div class="text-center w-fit">

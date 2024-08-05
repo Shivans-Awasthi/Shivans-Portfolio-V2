@@ -6,7 +6,7 @@ function Navigation(){
 return(
 
 <div class="navbar navbar-sm glass fixed z-20 h-1">
-  <div class="navbar-start">
+  <div class="navbar-start w-96">
   <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="0">
 
     <div class="dropdown z-100">
