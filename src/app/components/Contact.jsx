@@ -20,7 +20,7 @@ return(
 
 <section id="contact">
  
-<div class="hero min-h-screen gloomedu ">
+<div class="hero min-h-screen ">
   
   <div class="hero-content flex-col lg:flex-row-reverse w-full">
     

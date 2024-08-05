@@ -8,21 +8,15 @@ function Intro(){
 return(
 
 <section id="intro">
+  
 
 <div class="hero min-h-screen w-full">
-      <iframe
-          className="hero-video w-full h-screen"
-          src="https://www.youtube.com/embed/7Pj5NlnrxNQ?autoplay=1&loop=1&controls=0&mute=1&rel=0&playlist=7Pj5NlnrxNQ"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          title="YouTube Video"
-          disabled
-        ></iframe>
-<div className="hero-overlay z-10 bg-black bg-opacity-40"></div>
-
+<div class="bg"></div>
+<div class="bg bg2"></div>
+<div class="bg bg3"></div>
   <div class="hero-content text-center min-w-full z-10">
 
     <div class="text-center w-fit">
-    <br/><br/><br/><br/>
     <div data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">
       <h1 class="text-xl text-white text-center">Hello there, I am</h1> <span class="text-center text-3xl font-extrabold text-white"><h1 className="rainbow-text">Shivans Awasthi.</h1></span>
       <br/>

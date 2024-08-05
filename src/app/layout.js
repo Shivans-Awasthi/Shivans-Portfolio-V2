@@ -97,9 +97,11 @@ export default function RootLayout({ children }) {
     type="text/javascript"
     src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"
   ></script>
+ 
 </head>
 
 <body>
+
   <div id="root">{children}</div>
 
   <script src="https://cdn.tailwindcss.com"></script>
@@ -116,6 +118,7 @@ export default function RootLayout({ children }) {
     async
     src="https://platform.twitter.com/widgets.js"
   ></script>
+  
 </body>
 </html>
 
