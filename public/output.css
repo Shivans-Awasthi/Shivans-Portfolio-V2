@@ -87,6 +87,15 @@ body {
   margin:0;
 }
 
+@media (max-width: 768px) {
+  .aos-element {
+      /* Mobile-specific styles */
+      transform: none; /* Adjust transformations if necessary */
+      transition-duration: 0.3s; /* Adjust animation duration */
+  }
+}
+
+
 .bg {
   animation: slide 7s ease-in-out infinite alternate, colorShift 14s ease-in-out infinite alternate;
   background-image: linear-gradient(-60deg, rgb(29, 29, 29) 50%, rgb(0, 0, 0) 50%, rgb(51, 55, 58) 50%);
