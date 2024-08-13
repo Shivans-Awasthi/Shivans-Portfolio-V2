@@ -85,20 +85,19 @@ html {
 
 body {
   margin:0;
+
 }
 
-@media (max-width: 768px) {
-  .aos-element {
-      /* Mobile-specific styles */
-      transform: none; /* Adjust transformations if necessary */
-      transition-duration: 0.3s; /* Adjust animation duration */
-  }
+
+.aos-animate {
+  /* Override styles here */
+  transform: none !important;
 }
 
 
 .bg {
   animation: slide 7s ease-in-out infinite alternate, colorShift 14s ease-in-out infinite alternate;
-  background-image: linear-gradient(-60deg, rgb(29, 29, 29) 50%, rgb(0, 0, 0) 50%, rgb(51, 55, 58) 50%);
+  background-image: linear-gradient(-60deg, rgb(83, 83, 83) 50%, rgb(63, 63, 63) 50%, rgb(36, 36, 36)50%);
   bottom: 0;
   left: -50%;
   opacity: 0.5;
@@ -106,15 +105,18 @@ body {
   right: -50%;
   top: 0;
   z-index: -1;
+  filter: blur(10px);
 }
 
 .bg2 {
   animation-direction: alternate-reverse;
   animation-duration: 8s, 16s;
+  filter: blur(10px);
 }
 
 .bg3 {
   animation-duration: 9s, 18s;
+  filter: blur(10px);
 }
 
 @keyframes slide {
@@ -197,14 +199,16 @@ body {
   border-radius: 8px; /* Optional: Rounded corners */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Shadow for depth */
   transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease; /* Smooth transition */
-  background: #fff; /* Default background color */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  border: 2px solid transparent;
+
 }
 
 /* Add gradient background on hover */
 .card:hover {
   transform: scale(1.05); /* Zoom effect on hover */
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Deeper shadow on hover */
-  background: linear-gradient(-60deg, #3446559d, #747475); /* Gradient background */
+  border: 2px solid white;
 }
 
 /* Image within the card */
@@ -226,7 +230,6 @@ body {
 /* Optional: Adding some padding and a nice background color for content */
 .card-content {
   padding: 16px; /* Adjust padding as needed */
-  background-color: transparent; /* Transparent to see the gradient background */
   position: relative;
   z-index: 1; /* Ensure content is above the gradient */
 }
@@ -441,12 +444,11 @@ body {
 .rainbow-text {
   /* Create a conic gradient. */
   /* Double percentages to avoid blur (#000 10%, #fff 10%, #fff 20%, ...). */
-  background-color: #b33cff;
-  background-image: linear-gradient(270deg, #b33cff 0%, #823fff 33%, #379cff 66%, #3d67ff 100%);
-  
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-
+  background-image: linear-gradient(-130deg, #8800dd 0%, #4902ce 33%, #0164c7 66%, #012bc4 100%);
+  color: white;
+  filter: none;
+  /* Add shadow behind the text */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 

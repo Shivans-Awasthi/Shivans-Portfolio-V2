@@ -5,7 +5,7 @@ function Navigation(){
 
 return(
 
-<div class="navbar navbar-sm glass fixed z-20 h-1">
+<div class="navbar navbar-sm bg-black fixed z-20 h-1">
   <div class="navbar-start">
   <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="0">
 
@@ -27,7 +27,7 @@ return(
     </div>
 
     <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
-    <p class="px-5 text-xl text-white">Shivans Awasthi</p>
+    <p class="text-xl text-white">Shivans Awasthi</p>
     </div>
   </div>
 
@@ -47,7 +47,7 @@ return(
 </div>
 <div class="navbar-end">
 <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
-<a href="#contact"><button class="btn bg-blue-700 text-white rounded-none">Contact Me</button></a>
+<a href="#contact"><button class="btn bg-blue-700 text-white rounded-full border-2">Contact Me</button></a>
 </div>
 </div>
 

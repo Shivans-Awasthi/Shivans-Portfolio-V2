@@ -16,7 +16,7 @@ return(
 
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
 <h1 class="text-3xl font-extrabold text-left text-white">Education</h1>
-<h1 class="text-md text-left rainbow-text">Cultivating a lifelong love of learning through academic excellence and intellectual curiosity.</h1>
+<h1 class="text-md text-white text-left rainbow-text p-2 rounded-full">Cultivating a lifelong love of learning through academic excellence and intellectual curiosity.</h1>
 
 </div>
 <br/><br/>
@@ -29,7 +29,7 @@ return(
     </div>
     <div class="timeline-start text-end mb-10">
     <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="200"><time class="font-mono italic">2024</time></div>
-    <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="200"><div class="text-md font-black rainbow-text">B.Tech Computer Science and System Engineering</div>
+    <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="200"><div class="text-md font-black rainbow-text p-2 rounded-full">B.Tech Computer Science and System Engineering</div>
       Kalinga Institute of Industrial Technology(KIIT),<br/> Bhubaneshwar, Odisha, India
       <p class="text-accent text-sm">CGPA: 8.36</p>
     </div>
@@ -43,7 +43,7 @@ return(
     </div>
     <div class="timeline-end mb-10">
     <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="300"><time class="font-mono italic">2019</time></div>
-    <div data-aos="fade-left" data-aos-duration="500" data-aos-delay="300"><div class="text-md font-black rainbow-text">Class XII- Higher Secondary Education(CBSE)</div>
+    <div data-aos="fade-left" data-aos-duration="500" data-aos-delay="300"><div class="text-md font-black rainbow-text p-2 rounded-full">Class XII- Higher Secondary Education(CBSE)</div>
       Kendriya Vidyalaya No.1,<br/> Mumbai, Maharashtra, India
       <p class="text-accent text-sm">Percentage: 85%</p>
     </div>
