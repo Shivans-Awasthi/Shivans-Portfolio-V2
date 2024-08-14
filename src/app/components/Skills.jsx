@@ -23,7 +23,7 @@ return(
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="50">
 <h1 class="text-3xl font-extrabold text-left text-white" >Skills</h1>
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
-<h1 class="text-md text-white text-left rainbow-text p-2 rounded">I have diverse range of skills that can help you with any of your innovative projects.</h1>
+<h1 class="text-md text-white text-left rainbow-text p-2 rounded-md">I have diverse range of skills that can help you with any of your innovative projects.</h1>
 </div>
 </div>
 <br/><br/>

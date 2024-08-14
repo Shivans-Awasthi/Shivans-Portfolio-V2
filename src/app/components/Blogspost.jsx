@@ -18,7 +18,7 @@ return(
     <br/><br/><br/><br/>
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
     <h1 class="text-3xl font-extrabold text-left text-white">Blog Spot</h1>
-    <h1 class="text-md text-left rainbow-text text-white p-2 rounded">Blogs to Inspire and Inform.</h1>
+    <h1 class="text-md text-left rainbow-text text-white p-2 rounded-md">Blogs to Inspire and Inform.</h1>
     <br/>
     </div>
 <br/><br/>

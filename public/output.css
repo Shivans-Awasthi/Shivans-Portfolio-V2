@@ -97,7 +97,7 @@ body {
 
 .bg {
   animation: slide 7s ease-in-out infinite alternate, colorShift 14s ease-in-out infinite alternate;
-  background-image: linear-gradient(-60deg, rgb(83, 83, 83) 50%, rgb(63, 63, 63) 50%, rgb(36, 36, 36)50%);
+  background-image: linear-gradient(-60deg, rgb(83, 83, 83) 50%, rgb(63, 63, 63) 50%, rgb(46, 46, 46)50%);
   bottom: 0;
   left: -50%;
   opacity: 0.5;
@@ -445,8 +445,7 @@ body {
   /* Create a conic gradient. */
   /* Double percentages to avoid blur (#000 10%, #fff 10%, #fff 20%, ...). */
   background-image: linear-gradient(-130deg, #8800dd 0%, #4902ce 33%, #0164c7 66%, #012bc4 100%);
-  color: white;
-  filter: none;
+  backdrop-filter: blur(10px);
   /* Add shadow behind the text */
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
