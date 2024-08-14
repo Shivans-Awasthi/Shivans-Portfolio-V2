@@ -19,7 +19,7 @@ return(
 
     <div class="text-center w-fit">
     <div data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">
-      <h1 class="text-xl text-white text-center">Hello there, I am</h1> <span class="text-center text-3xl font-extrabold text-white"><h1 className="rainbow-text p-2 rounded-full">Shivans Awasthi.</h1></span>
+      <h1 class="text-xl text-white text-center">Hello there, I am</h1> <span class="text-center text-3xl font-extrabold text-white"><h1 className="rainbow-text p-2 rounded">Shivans Awasthi.</h1></span>
       <br/>
       </div>
       <div data-aos="fade-up" data-aos-duration="1000"   data-aos-delay="1000">

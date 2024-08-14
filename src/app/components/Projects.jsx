@@ -18,7 +18,7 @@ return(
     <br/><br/><br/><br/>
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
     <h1 class="text-3xl font-extrabold text-left text-white">Projects</h1>
-    <h1 class="text-md text-left rainbow-text text-white p-2 rounded-full">Showcasing My Passion for Problem-Solving and Design Excellence.</h1>
+    <h1 class="text-md text-left rainbow-text text-white p-2 rounded">Showcasing My Passion for Problem-Solving and Design Excellence.</h1>
     <br/>
     </div>
 <br/><br/>
