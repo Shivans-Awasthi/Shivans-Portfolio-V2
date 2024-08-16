@@ -30,7 +30,7 @@ return(
 
       <h1 class="text-3xl font-extrabold text-left text-white">Contact Me!</h1>
 
-      <h1 class="text-md rainbow-text text-left text-white p-4 rounded-md">Lets get connected, and start our next project with enthusiasm and a positive mindset.<br/> Contact me here, or reach out to me on my socials below!</h1>
+      <h1 class="text-md rainbow-text text-left text-white p-4">Lets get connected, and start our next project with enthusiasm and a positive mindset.<br/> Contact me here, or reach out to me on my socials below!</h1>
       
       <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=contact@shivansawasthi.info" target="_blank" rel="nofollow noopener"><h1 class="text-md text-white m-2 text-left text-sm">contact@shivansawasthi.info</h1></a>
 
@@ -40,7 +40,7 @@ return(
       <div class="chat chat-start text-left">
       <div class="chat-header text-white">Shivans Awasthi</div>
       <div class="chat-image avatar">
-    <div class="w-10 rounded-full">
+    <div class="w-10 rounded-lg">
       <img alt="Tailwind CSS chat bubble component" src="https://github.com/Shivans-Awasthi/Shivans-Portfolio-Website/blob/main/images/profilepic.jpeg?raw=true" />
     </div>
   </div>
@@ -54,7 +54,7 @@ return(
         <div class="chat chat-start hidden fade-in" id="success1">
         <div class="chat-header text-white">Shivans Awasthi</div>
         <div class="chat-image avatar">
-    <div class="w-10 rounded-full">
+    <div class="w-10 rounded-lg">
       <img alt="Tailwind CSS chat bubble component" src="https://github.com/Shivans-Awasthi/Shivans-Portfolio-Website/blob/main/images/profilepic.jpeg?raw=true" />
     </div>
   </div>
@@ -68,7 +68,7 @@ return(
       <div class="chat chat-start hidden fade-in " id="success2">
       <div class="chat-header text-white">Shivans Awasthi</div>
       <div class="chat-image avatar">
-    <div class="w-10 rounded-full">
+    <div class="w-10 rounded-lg">
       <img alt="Tailwind CSS chat bubble component" src="https://github.com/Shivans-Awasthi/Shivans-Portfolio-Website/blob/main/images/profilepic.jpeg?raw=true" />
     </div>
   </div>

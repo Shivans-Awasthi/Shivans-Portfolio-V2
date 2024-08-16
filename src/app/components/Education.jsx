@@ -16,7 +16,7 @@ return(
 
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
 <h1 class="text-3xl font-extrabold text-left text-white">Education</h1>
-<h1 class="text-md text-white text-left rainbow-text p-2 rounded-md">Cultivating a lifelong love of learning through academic excellence and intellectual curiosity.</h1>
+<h1 class="text-md text-white text-left rainbow-text p-2">Cultivating a lifelong love of learning through academic excellence and intellectual curiosity.</h1>
 
 </div>
 <br/><br/>
