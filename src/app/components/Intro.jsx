@@ -12,19 +12,19 @@ return(
 
 <div class="hero min-h-screen w-full">
 <div class="bg"></div>
-<div class="bg bg2"></div>
+{/* <div class="bg bg2"></div> */}
 <div class="bg bg2 bg3"></div>
 
   <div class="hero-content text-center min-w-full z-10">
 
     <div class="text-center w-fit">
     <div data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">
-      <h1 class="text-xl text-white text-center">Hello there, I am</h1> <span class="text-center text-3xl font-extrabold text-white"><h1 className="text-primary p-2 rounded-md">Shivans Awasthi.</h1></span>
+      <h1 class="text-xl text-white text-center">Hello there, I am</h1> <span class="text-center text-3xl font-extrabold text-white"><h1 className="text-white p-2 border-l-4 border-r-4 border-warning shadow-xl rounded">Shivans Awasthi<span className="text-warning rounded-md">.</span></h1></span>
       <br/>
       </div>
       <div data-aos="fade-up" data-aos-duration="1000"   data-aos-delay="1000">
       <div class="avatar">
-        <div class="w-24 rounded-full ring ring-info ring-offset-base-100 ring-offset-2">
+        <div class="w-24 rounded-full ring ring-accent ring-offset-base-100 ring-offset-2">
           <img src="https://github.com/Shivans-Awasthi/Shivans-Portfolio-Website/blob/main/images/profilepic.jpeg?raw=true" />
         </div>
       </div>
