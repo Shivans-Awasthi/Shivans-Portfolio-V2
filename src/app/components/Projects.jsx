@@ -12,13 +12,13 @@ return(
 <section id="projects">
 
 <div class="hero min-h-screen">
-  
+<div class="glowing-sphere2"></div>
   <div class="hero-content">
     <div class="w-fit">
     <br/><br/><br/><br/>
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
     <h1 class="text-3xl font-extrabold text-left text-white">Projects</h1>
-    <h1 class="text-md text-left border-b-4 rounded shadow-xl border-info text-white p-2">Showcasing My Passion for Problem-Solving and Design Excellence.</h1>
+    <h1 class="text-md text-left border-b shadow-xl border-info text-white p-2">Showcasing My Passion for Problem-Solving and Design Excellence.</h1>
     <br/>
     </div>
 <br/><br/>
@@ -42,8 +42,8 @@ return(
     </div>
     <div class="card-actions justify-end">
       
-      <button class="btn bg-blue-700 text-white rounded-xl border-2">Deployment</button> 
-      <a href="https://github.com/Shivans-Awasthi/Shivans-Portfolio-V2"><button class="btn btn-dark text-white rounded-xl border-2"><ion-icon name="logo-github"></ion-icon>Github</button></a>
+      <button class="btn bg-blue-700 text-white rounded-xl">Deployment</button> 
+      <a href="https://github.com/Shivans-Awasthi/Shivans-Portfolio-V2"><button class="btn btn-dark text-white rounded-xl"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
 </div>
@@ -67,7 +67,7 @@ return(
     </div>
     <div class="card-actions justify-end">
       {/* <a href="https://querylinker-web-app-querylinker.koyeb.app/"><button class="btn bg-blue-700 text-white ">Deployment</button></a> */}
-      <a href="https://github.com/Shivans-Awasthi/QueryLinker"><button class="btn btn-dark text-white rounded-xl border-2"><ion-icon name="logo-github"></ion-icon>Github</button></a>
+      <a href="https://github.com/Shivans-Awasthi/QueryLinker"><button class="btn btn-dark text-white rounded-xl"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
 </div>
@@ -90,7 +90,7 @@ return(
       <br/><br/>
     </div>
     <div class="card-actions justify-end">
-      <a href="https://github.com/Shivans-Awasthi/ChatSummation-Text-Summarization-of-conversational-data-using-google-Pegasus-model"><button class="btn rounded-xl border-2 btn-dark text-white"><ion-icon name="logo-github"></ion-icon>Github</button></a>
+      <a href="https://github.com/Shivans-Awasthi/ChatSummation-Text-Summarization-of-conversational-data-using-google-Pegasus-model"><button class="btn rounded-xl btn-dark text-white"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
 </div>
@@ -121,7 +121,7 @@ return(
       <br/><br/>
     </div>
     <div class="card-actions justify-end">
-     <a href="https://github.com/Shivans-Awasthi/College-Automation-using-IOT"><button class="btn rounded-xl border-2 btn-dark text-white"><ion-icon name="logo-github"></ion-icon>Github</button></a>
+     <a href="https://github.com/Shivans-Awasthi/College-Automation-using-IOT"><button class="btn rounded-xl btn-dark text-white"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
 </div>
@@ -148,7 +148,7 @@ return(
     </div>
     <div class="card-actions justify-end">
       
-      <a href="https://github.com/Shivans-Awasthi/Twitter-Sentiment-Analysis-using-TextBlob"><button class="btn rounded-xl border-2 btn-dark text-white"><ion-icon name="logo-github"></ion-icon>Github</button></a>
+      <a href="https://github.com/Shivans-Awasthi/Twitter-Sentiment-Analysis-using-TextBlob"><button class="btn rounded-xl btn-dark text-white"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
 </div>

@@ -5,8 +5,8 @@ function Navigation(){
 
 return(
 
-<div class="navbar navbar-sm bg-black fixed z-20 h-1">
-  <div class="navbar-start">
+<div class="navbar navbar-sm bg-black border-b border-gray-600 fixed z-20 h-`">
+  <div class="navbar-start px-10">
   <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="0">
 
     <div class="dropdown z-100">
@@ -25,16 +25,14 @@ return(
       </ul>
     </div>
     </div>
+    <p class="text-lg ps-5 text-white ">Shivans</p>
+    <p class="text-lg px-1 text-white ">Awasthi</p>
 
-    <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
-    <p class="text-xl text-white">Shivans Awasthi</p>
-    </div>
-  </div>
 
-  <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
-
-  <div class="navbar-center hidden lg:flex text-white text-center">
-    <ul class="menu menu-horizontal px-1">
+    
+    <div class="navbar-center px-5 hidden lg:flex text-white text-center">
+      
+    <ul class="menu menu-horizontal ms-5 px-1">
     <li><a href="#intro">Intro</a></li>
         <li><a href="#skills">Skills</a></li>
         <li><a href="#education">Education</a></li>
@@ -43,11 +41,18 @@ return(
         <li><a href="#blogs">Blogs</a></li>
 
     </ul>
+    
   </div>
+
+  </div>
+
+  <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
+
+  
 </div>
-<div class="navbar-end">
+<div class="navbar-end px-5">
 <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
-<a href="#contact"><button class="btn bg-blue-700 text-white rounded-full border-2">Contact Me</button></a>
+<a href="#contact"><button class="btn bg-blue-700 text-white rounded-2xl">Contact Me</button></a>
 </div>
 </div>
 

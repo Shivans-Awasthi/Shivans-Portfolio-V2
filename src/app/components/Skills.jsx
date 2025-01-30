@@ -15,7 +15,7 @@ return(
 
 <div class="hero min-h-screen w-full">
 
-
+<div class="glowing-sphere2"></div>
 
 <div class="hero-content">
 <div class="text-center ">
@@ -23,7 +23,7 @@ return(
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="50">
 <h1 class="text-3xl font-extrabold text-left text-white" >Skills</h1>
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
-<h1 class="text-md text-white text-left border-b-4 rounded shadow-xl border-info p-2">I have diverse range of skills that can help you with any of your innovative projects.</h1>
+<h1 class="text-md text-white text-left border-b shadow-xl border-info p-2">I have diverse range of skills that can help you with any of your innovative projects.</h1>
 </div>
 </div>
 <br/><br/>

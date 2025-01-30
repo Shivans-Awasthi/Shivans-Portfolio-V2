@@ -10,13 +10,15 @@ return(
 <section id="education" >
 
 <div class="hero min-h-screen ">  
+<div class="glowing-sphere"></div>
+
 <div class="hero-content">
 <div class="text-left w-fit">
 <br/><br/><br/><br/>
 
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
 <h1 class="text-3xl font-extrabold text-left text-white">Education</h1>
-<h1 class="text-md text-white text-left border-b-4 rounded shadow-xl border-info p-2">Cultivating a lifelong love of learning through academic excellence and intellectual curiosity.</h1>
+<h1 class="text-md text-white text-left border-b shadow-xl border-info p-2">Cultivating a lifelong love of learning through academic excellence and intellectual curiosity.</h1>
 
 </div>
 <br/><br/>

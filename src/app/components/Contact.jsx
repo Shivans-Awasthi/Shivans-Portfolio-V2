@@ -21,7 +21,8 @@ return(
 <section id="contact">
  
 <div class="hero min-h-screen ">
-  
+<div class="glowing-sphere2"></div>
+
   <div class="hero-content flex-col lg:flex-row-reverse w-full">
     
     <div class="text-center lg:text-left w-fit">
@@ -112,7 +113,7 @@ return(
         </div>
 
         <div class="form-control mt-6">
-          <button class="btn rounded-full border-2 bg-blue-700 text-white" type="submit">Send Email</button>
+          <button class="btn rounded-xl bg-blue-700 text-white" type="submit">Send Email</button>
         </div>
       </form>
     </div>

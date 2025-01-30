@@ -13,13 +13,13 @@ return(
 <section id="certificates">
 
 <div class="hero py-36 min-h-screen w-full ">
-  
+<div class="glowing-sphere"></div>
   <div class="hero-content w-full ">
     <div class="w-fit ">
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
 
     <h1 class="text-3xl font-extrabold text-left text-white">Certificates</h1>
-    <h1 class="text-md text-left border-b-4 rounded shadow-xl border-info text-white p-2">Certified Proficiencies that Validate My Expertise and Capabilities.</h1>
+    <h1 class="text-md text-left border-b shadow-xl border-info text-white p-2">Certified Proficiencies that Validate My Expertise and Capabilities.</h1>
     </div>
 <br/><br/>
   
@@ -36,7 +36,7 @@ return(
     <h2 class="card-title text-neutral-content text-white">The Complete 2024 Web Development Bootcamp // Udemy</h2>
     <p class="text-neutral-content">Dr. Angela Yu</p>
     <div class="card-actions justify-end">
-      <button class="btn bg-blue-700 text-white rounded-xl border-2">View Certificate</button>
+      <button class="btn bg-blue-700 text-white rounded-xl">View Certificate</button>
     </div>
   </div>
 </div>
@@ -55,7 +55,7 @@ return(
     <h2 class="card-title text-neutral-content text-white">Data Structures Course // Coursera</h2>
     <p class="text-neutral-content">University of California San Diego</p>
     <div class="card-actions justify-end">
-      <a href="https://coursera.org/share/f9ed8ecee2fd7acf64c4e18be240883c"><button class="btn bg-blue-700 text-white rounded-xl border-2">View Certificate</button></a>
+      <a href="https://coursera.org/share/f9ed8ecee2fd7acf64c4e18be240883c"><button class="btn bg-blue-700 text-white rounded-xl">View Certificate</button></a>
     </div>
   </div>
 </div>
@@ -73,7 +73,7 @@ return(
     <h2 class="card-title text-neutral-content text-white">Programming Foundations with JavaScript, HTML and CSS Course // Coursera</h2>
     <p class="text-neutral-content">Duke University</p>
     <div class="card-actions justify-end">
-      <a href="https://coursera.org/share/fcbaec57aaf8e88fe18a1a3ae7722ec5"><button class="btn bg-blue-700 rounded-xl border-2 text-white">View Certificate</button></a>
+      <a href="https://coursera.org/share/fcbaec57aaf8e88fe18a1a3ae7722ec5"><button class="btn bg-blue-700 rounded-xl text-white">View Certificate</button></a>
     </div>
   </div>
 </div>
@@ -95,7 +95,7 @@ return(
  // Udemy</h2>
     <p class="text-neutral-content">Raymond Andrade</p>
     <div class="card-actions justify-end">
-      <a href="https://www.udemy.com/certificate/UC-0b588aa1-970c-42f5-abbb-b9f4e7687001/"><button class="btn rounded-xl border-2 bg-blue-700 text-white">View Certificate</button></a>
+      <a href="https://www.udemy.com/certificate/UC-0b588aa1-970c-42f5-abbb-b9f4e7687001/"><button class="btn rounded-xl bg-blue-700 text-white">View Certificate</button></a>
     </div>
   </div>
 </div>
