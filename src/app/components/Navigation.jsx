@@ -33,7 +33,7 @@ return(
       </div>
       <div class="drawer-side">
       <label for="my-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
-      <ul class="menu bg-neutral text-white min-h-full w-80 p-10">
+      <ul class="menu bg-neutral menu-xl text-white min-h-full w-80 p-10">
         <li><a href="#intro">Intro</a></li>
         <li><a href="#skills">Skills</a></li>
         <li><a href="#education">Education</a></li>
