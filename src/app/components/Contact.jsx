@@ -113,7 +113,7 @@ return(
         </div>
 
         <div class="form-control mt-6">
-          <button class="btn rounded-xl bg-blue-700 text-white" type="submit">Send Email</button>
+          <button class="btn rounded-3xl btn-primary text-white" type="submit">Send Email</button>
         </div>
       </form>
     </div>

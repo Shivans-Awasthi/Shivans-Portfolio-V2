@@ -42,8 +42,8 @@ return(
     </div>
     <div class="card-actions justify-end">
       
-      <button class="btn bg-blue-700 text-white rounded-xl">Deployment</button> 
-      <a href="https://github.com/Shivans-Awasthi/Shivans-Portfolio-V2"><button class="btn btn-dark text-white rounded-xl"><ion-icon name="logo-github"></ion-icon>Github</button></a>
+      <button class="btn btn-primary text-white rounded-3xl">Deployment</button> 
+      <a href="https://github.com/Shivans-Awasthi/Shivans-Portfolio-V2"><button class="btn btn-neutral text-white rounded-3xl"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
 </div>
@@ -67,7 +67,7 @@ return(
     </div>
     <div class="card-actions justify-end">
       {/* <a href="https://querylinker-web-app-querylinker.koyeb.app/"><button class="btn bg-blue-700 text-white ">Deployment</button></a> */}
-      <a href="https://github.com/Shivans-Awasthi/QueryLinker"><button class="btn btn-dark text-white rounded-xl"><ion-icon name="logo-github"></ion-icon>Github</button></a>
+      <a href="https://github.com/Shivans-Awasthi/QueryLinker"><button class="btn btn-neutral text-white rounded-3xl"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
 </div>
@@ -90,7 +90,7 @@ return(
       <br/><br/>
     </div>
     <div class="card-actions justify-end">
-      <a href="https://github.com/Shivans-Awasthi/ChatSummation-Text-Summarization-of-conversational-data-using-google-Pegasus-model"><button class="btn rounded-xl btn-dark text-white"><ion-icon name="logo-github"></ion-icon>Github</button></a>
+      <a href="https://github.com/Shivans-Awasthi/ChatSummation-Text-Summarization-of-conversational-data-using-google-Pegasus-model"><button class="btn rounded-3xl btn-neutral text-white"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
 </div>
@@ -121,7 +121,7 @@ return(
       <br/><br/>
     </div>
     <div class="card-actions justify-end">
-     <a href="https://github.com/Shivans-Awasthi/College-Automation-using-IOT"><button class="btn rounded-xl btn-dark text-white"><ion-icon name="logo-github"></ion-icon>Github</button></a>
+     <a href="https://github.com/Shivans-Awasthi/College-Automation-using-IOT"><button class="btn rounded-3xl btn-neutral text-white"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
 </div>
@@ -148,7 +148,7 @@ return(
     </div>
     <div class="card-actions justify-end">
       
-      <a href="https://github.com/Shivans-Awasthi/Twitter-Sentiment-Analysis-using-TextBlob"><button class="btn rounded-xl btn-dark text-white"><ion-icon name="logo-github"></ion-icon>Github</button></a>
+      <a href="https://github.com/Shivans-Awasthi/Twitter-Sentiment-Analysis-using-TextBlob"><button class="btn rounded-3xl btn-neutral text-white"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
 </div>

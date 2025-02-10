@@ -19,7 +19,7 @@ return(
 
     <div class="text-center w-fit">
     <div data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">
-      <h1 class="text-xl mt-16 text-white text-center">Hello there, I am</h1> <span class="text-center text-3xl font-extrabold text-white"><h1 className="text-white p-2 shadow-xl rounded">Shivans Awasthi<span className="text-warning rounded-md">.</span></h1></span>
+      <h1 class="text-xl mt-16 text-white text-center">Hello there, I am</h1> <span class="text-center text-3xl font-extrabold text-white "><h1 className="text-white p-2 shadow-xl rounded">Shivans Awasthi<span className="text-warning rounded-md">.</span></h1></span>
       <br/>
       </div>
       <div data-aos="fade-up" data-aos-duration="1000"   data-aos-delay="1000">
@@ -52,7 +52,7 @@ return(
     <br/>
     </div>
     <div data-aos="zoom-in" data-aos-duration="500"  data-aos-delay="2000">
-      <a href="#contact"><button class="btn bg-blue-700 rounded-2xl text-white ">Contact Me</button></a> <a href="https://drive.google.com/file/d/1Ea5RInl8XkD6odlKjAKGS1Xmj88mrkf2/view?usp=drive_link"><button class="btn bg-gray-600 text-white rounded-2xl">Resume</button></a>
+      <a href="#contact"><button class="btn btn-primary rounded-3xl text-white ">Contact Me</button></a> <a href="https://drive.google.com/file/d/1Ea5RInl8XkD6odlKjAKGS1Xmj88mrkf2/view?usp=drive_link"><button class="btn btn-neutral btn-outline  text-white rounded-3xl">Resume</button></a>
     
     
     </div>
