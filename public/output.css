@@ -173,7 +173,7 @@ body {
 .card:hover {
   transform: scale(1.03); /* Zoom effect on hover */
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Deeper shadow on hover */
-  border: 1px solid rgb(140, 140, 140);
+  border: 1px solid rgb(255, 255, 255);
 }
 
 /* Image within the card */
