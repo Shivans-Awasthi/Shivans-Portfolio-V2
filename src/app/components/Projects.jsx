@@ -27,7 +27,7 @@ return(
 <div class="flex md:flex-col flex-col lg:flex-row">
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="200">
-<div class="card rounded-xl lg:w-80 sm:w-96 bg-neutral-800 text-neutral-content text-white">
+<div class="card rounded-xl lg:w-80 sm:w-96 bg-neutral text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ Portfolio-Website-V2</h2>
     <p>/* My Personal Website that showcases my skills and projects */</p><br/>
@@ -43,7 +43,7 @@ return(
     <div class="card-actions justify-end">
       
       <button class="btn btn-primary text-white rounded-3xl">Deployment</button> 
-      <a href="https://github.com/Shivans-Awasthi/Shivans-Portfolio-V2"><button class="btn btn-neutral text-white rounded-3xl"><ion-icon name="logo-github"></ion-icon>Github</button></a>
+      <a href="https://github.com/Shivans-Awasthi/Shivans-Portfolio-V2"><button class="btn btn-neutral-800 text-white rounded-3xl"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
 </div>
