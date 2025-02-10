@@ -66,7 +66,7 @@ return(
       <br/><br/>
     </div>
     <div class="card-actions justify-end">
-      {/* <a href="https://querylinker-web-app-querylinker.koyeb.app/"><button class="btn bg-blue-700 text-white ">Deployment</button></a> */}
+      <a href="https://querylinker-web-app-querylinker.koyeb.app/"><button class="btn bg-blue-700 text-white ">Deployment</button></a>
       <a href="https://github.com/Shivans-Awasthi/QueryLinker"><button class="btn btn-neutral-800 text-white rounded-3xl"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
