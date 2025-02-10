@@ -86,8 +86,8 @@ return(
     
     <div data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200">
     <br/><br/><br/><br/>
-    <div class="card bg-neutral-800 rounded-xl w-80 min-w-sm shadow-xl ">
-      <form class="card-body " id="contact-form" name="contact-form" onSubmit={sendmail}>
+    <div class="card rounded-xl w-80 min-w-sm shadow-xl ">
+      <form class="card-body bg-neutral" id="contact-form" name="contact-form" onSubmit={sendmail}>
 
         <div class="form-control ">
           <label for="from_name " class="label">

@@ -51,7 +51,7 @@ return(
 <div class=" p-3"></div>
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="300">
-<div class="card rounded-xl bg-neutral-800 lg:w-80 sm:w-96 text-neutral-content text-white">
+<div class="card rounded-xl bg-neutral lg:w-80 sm:w-96 text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ QueryLinker</h2>
     <p>/* An intelligent seach engine aimed at providing efficient and relevant search results to users within a perticular domain.  */</p><br/>
@@ -67,7 +67,7 @@ return(
     </div>
     <div class="card-actions justify-end">
       {/* <a href="https://querylinker-web-app-querylinker.koyeb.app/"><button class="btn bg-blue-700 text-white ">Deployment</button></a> */}
-      <a href="https://github.com/Shivans-Awasthi/QueryLinker"><button class="btn btn-neutral text-white rounded-3xl"><ion-icon name="logo-github"></ion-icon>Github</button></a>
+      <a href="https://github.com/Shivans-Awasthi/QueryLinker"><button class="btn btn-neutral-800 text-white rounded-3xl"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
 </div>
@@ -78,7 +78,7 @@ return(
 
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="400">
-<div class="card  lg:w-80 sm:w-96 rounded-xl bg-neutral-800 text-neutral-content text-white">
+<div class="card  lg:w-80 sm:w-96 rounded-xl bg-neutral text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ ChatSummation-Text-Summarization-of-conversational-data-using-google-Pegasus-model</h2>
     <p>/* A tool to summerize conversational data using google pagasus model trained on SamSum dataset */</p><br/>
@@ -90,7 +90,7 @@ return(
       <br/><br/>
     </div>
     <div class="card-actions justify-end">
-      <a href="https://github.com/Shivans-Awasthi/ChatSummation-Text-Summarization-of-conversational-data-using-google-Pegasus-model"><button class="btn rounded-3xl btn-neutral text-white"><ion-icon name="logo-github"></ion-icon>Github</button></a>
+      <a href="https://github.com/Shivans-Awasthi/ChatSummation-Text-Summarization-of-conversational-data-using-google-Pegasus-model"><button class="btn rounded-3xl btn-neutral-800 text-white"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
 </div>
@@ -107,7 +107,7 @@ return(
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="600">
 
-<div class="card rounded-xl lg:w-80 sm:w-96 bg-neutral-800 text-neutral-content text-white">
+<div class="card rounded-xl lg:w-80 sm:w-96 bg-neutral text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ College-Automation-using-IOT</h2>
     <p>/* An automation system using ESP32, Wifi, sensors for automatic control of Electric Appliances, Implemented Facial Recognition Attendance system */</p>
@@ -121,7 +121,7 @@ return(
       <br/><br/>
     </div>
     <div class="card-actions justify-end">
-     <a href="https://github.com/Shivans-Awasthi/College-Automation-using-IOT"><button class="btn rounded-3xl btn-neutral text-white"><ion-icon name="logo-github"></ion-icon>Github</button></a>
+     <a href="https://github.com/Shivans-Awasthi/College-Automation-using-IOT"><button class="btn rounded-3xl btn-neutral-800 text-white"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
 </div>
@@ -132,7 +132,7 @@ return(
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="700">
 
-<div class="card lg:w-80 sm:w-96 rounded-xl bg-neutral-800 text-neutral-content text-white">
+<div class="card lg:w-80 sm:w-96 rounded-xl bg-neutral text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent">$ Twitter-Sentiment-Analysis-using-TextBlob</h2>
     <p>/* Making a simple and efficient Sentiment analyzer to analyze twitter data for different purposes. */</p><br/>
@@ -148,7 +148,7 @@ return(
     </div>
     <div class="card-actions justify-end">
       
-      <a href="https://github.com/Shivans-Awasthi/Twitter-Sentiment-Analysis-using-TextBlob"><button class="btn rounded-3xl btn-neutral text-white"><ion-icon name="logo-github"></ion-icon>Github</button></a>
+      <a href="https://github.com/Shivans-Awasthi/Twitter-Sentiment-Analysis-using-TextBlob"><button class="btn rounded-3xl btn-neutral-800 text-white"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
 </div>
