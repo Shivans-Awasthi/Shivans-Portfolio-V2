@@ -6,7 +6,7 @@ function Navigation(){
 return(
 
 <div class="navbar navbar-sm bg-black border-b border-gray-600 fixed z-20 h-`">
-  <div class="navbar-start px-10">
+  <div class="navbar-start">
   <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="0">
 
     <div class="dropdown z-100">
@@ -50,7 +50,7 @@ return(
 
   
 </div>
-<div class="navbar-end px-5">
+<div class="navbar-end">
 <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
 <a href="#contact"><button class="btn btn-primary text-white rounded-3xl">Contact Me</button></a>
 </div>
