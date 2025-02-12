@@ -76,6 +76,7 @@ html {
 body {
   margin:0;
   background-color: #18191d;
+  color: #9ca3af;
 }
 
 
@@ -146,7 +147,7 @@ body {
 }
 
 .glass1 {
-  background: rgba(255, 255, 255, 0.3); /* White with transparency */
+  background: rgba(255, 255, 255, 0.083); /* White with transparency */
   backdrop-filter: blur(10px); /* Blur for glass effect */
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); /* Subtle shadow */
   overflow: hidden; /* Ensures child elements are clipped to fit */
@@ -165,13 +166,12 @@ body {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Shadow for depth */
   transition: transform 0.5s ease, box-shadow 0.5s ease, background 0.5s ease; /* Smooth transition */
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-  border: 1px solid transparent;
+  border: 1px solid rgba(255, 255, 255, 0.137);;
 
 }
 
 /* Add gradient background on hover */
 .card:hover {
-  transform: scale(1.03); /* Zoom effect on hover */
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Deeper shadow on hover */
   border: 1px solid rgb(255, 255, 255);
 }

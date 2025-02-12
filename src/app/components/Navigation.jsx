@@ -5,7 +5,7 @@ function Navigation(){
 
 return(
 
-<div class="navbar navbar-sm bg-black border-b border-gray-600 fixed z-20 h-1">
+<div class="navbar glass1 navbar-sm border-b border-gray-600 fixed z-20 h-1">
   <div class="navbar-start">
 
     {/* <div class="dropdown z-100">
@@ -24,7 +24,7 @@ return(
       </ul>
     </div> */}
 
-    <div class="drawer">
+    <div class="drawer glass1">
     <input id="my-drawer" type="checkbox" class="drawer-toggle" />
     <div class="drawer-content">
       <label for="my-drawer" class="btn btn-ghost drawer-button lg:hidden">
@@ -73,7 +73,7 @@ return(
 </div>
 <div class="navbar-end">
 <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
-<a href="#contact"><button class="btn btn-primary text-white rounded-3xl">Contact Me</button></a>
+<a href="#contact"><button class="btn btn-primary text-white rounded">Contact Me</button></a>
 </div>
 </div>
 
