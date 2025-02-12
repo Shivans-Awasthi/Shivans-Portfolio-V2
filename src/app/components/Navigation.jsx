@@ -5,7 +5,7 @@ function Navigation(){
 
 return(
 
-<div class="navbar glass1 navbar-sm border-b border-gray-600 fixed z-20 h-1">
+<div class="navbar navbar-sm border-b border-gray-700 bg-neutral fixed z-20 h-1">
   <div class="navbar-start">
 
     {/* <div class="dropdown z-100">
@@ -24,16 +24,16 @@ return(
       </ul>
     </div> */}
 
-    <div class="drawer glass1">
+    <div class="drawer">
     <input id="my-drawer" type="checkbox" class="drawer-toggle" />
     <div class="drawer-content">
       <label for="my-drawer" class="btn btn-ghost drawer-button lg:hidden">
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="white"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="white"><path stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
       </label>
       </div>
       <div class="drawer-side">
       <label for="my-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
-      <ul class="menu bg-neutral menu-xl text-white min-h-full w-80 p-10">
+      <ul class="menu glass1 bg-neutral menu-lg text-white w-80 p-10">
         <li><a href="#intro">Intro</a></li>
         <li><a href="#skills">Skills</a></li>
         <li><a href="#education">Education</a></li>

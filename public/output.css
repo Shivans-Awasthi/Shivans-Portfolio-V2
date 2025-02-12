@@ -152,8 +152,8 @@ body {
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); /* Subtle shadow */
   overflow: hidden; /* Ensures child elements are clipped to fit */
   color: #fff; /* Default text color */
-  position: relative; /* Position relative for stacking context */
-  z-index: 0; /* Default z-index */
+  position: fixed; /* Position relative for stacking context */
+  z-index: 10; /* Default z-index */
 }
 
 
