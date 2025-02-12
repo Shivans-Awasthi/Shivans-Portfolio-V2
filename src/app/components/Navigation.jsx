@@ -5,7 +5,7 @@ function Navigation(){
 
 return(
 
-<div class="navbar navbar-sm border-b border-gray-700 bg-neutral fixed z-20 h-1">
+<div class="navbar navbar-sm border-b border-gray-500 bg-neutral fixed z-20 h-1">
   <div class="navbar-start">
 
     {/* <div class="dropdown z-100">
