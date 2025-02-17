@@ -172,8 +172,8 @@ body {
 
 /* Add gradient background on hover */
 .card:hover {
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Deeper shadow on hover */
-  border: 2px solid rgba(0, 255, 191, 0.815);
+  box-shadow: 0 8px 16px rgba(0, 255, 191, 0.355);; /* Deeper shadow on hover */
+  border: 2px solid rgb(0, 255, 191);
 }
 
 /* Image within the card */
