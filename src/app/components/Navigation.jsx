@@ -5,7 +5,7 @@ function Navigation(){
 
 return(
 
-<div class="navbar border-b-4 border-black bg-white text-lg fixed z-20 h-1">
+<div class="navbar border-b border-gray-500 bg-white  fixed z-20 h-1">
   <div class="navbar-start">
 
     {/* <div class="dropdown z-100">
@@ -33,7 +33,7 @@ return(
       </div>
       <div class="drawer-side">
       <label for="my-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
-      <ul class="menu bg-white menu-lg text-black rounded-none font-bold w-80 p-10">
+      <ul class="menu bg-white menu-lg text-black rounded-none w-80 p-10">
         <li><a href="#intro">Intro</a></li>
         <li><a href="#skills">Skills</a></li>
         <li><a href="#education">Education</a></li>
@@ -46,14 +46,14 @@ return(
     </div>
 
 
-    <p class="text-2xl ps-5 text-black font-bold ">Shivans</p>
-    <p class="text-2xl px-1 text-black font-bold ">Awasthi</p>
+    <p class="text-xl ps-5 text-black font-bold ">Shivans</p>
+    <p class="text-xl px-1 text-black font-bold ">Awasthi</p>
 
 
     
-    <div class="navbar-center px-5 hidden lg:flex text-black font-bold text-center ">
+    <div class="navbar-center px-5 hidden lg:flex text-black text-center ">
       
-    <ul class="menu menu-horizontal text-lg ms-5 px-1">
+    <ul class="menu menu-horizontal  ms-5 px-1">
     <li><a href="#intro">Intro</a></li>
         <li><a href="#skills">Skills</a></li>
         <li><a href="#education">Education</a></li>
@@ -73,7 +73,7 @@ return(
 </div>
 <div class="navbar-end pe-5">
 <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
-<a href="#contact"><button class="btn btn-black border-2 text-white text-xl hover:bg-white hover:text-black rounded-none">Contact Me</button></a>
+<a href="#contact"><button class="btn btn-black text-white  hover:bg-white hover:text-black rounded-none">Contact Me</button></a>
 </div>
 </div>
 

@@ -18,7 +18,7 @@ return(
 
     <div class="text-center w-fit">
     <div data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">
-      <h1 class="text-2xl mt-16 text-black text-center font-bold">Hello there, I am</h1> <span class="text-center text-5xl myname font-extrabold text-black "><h1 className="p-2">Shivans Awasthi<span className="text-warning rounded-md">.</span></h1></span>
+      <h1 class="text-xl mt-16 text-black text-center font-bold">Hello there, I am</h1> <span class="text-center text-4xl myname font-extrabold text-black "><h1 className="p-2">Shivans Awasthi<span className="text-warning rounded-md">.</span></h1></span>
       <br/>
       </div>
       <div data-aos="fade-up" data-aos-duration="1000"   data-aos-delay="1000">
@@ -51,7 +51,7 @@ return(
     <br/>
     </div>
     <div data-aos="zoom-in" data-aos-duration="500"  data-aos-delay="2000">
-      <a href="#contact"><button class="btn btn-black text-white text-xl hover:bg-white hover:text-black rounded-none">Contact Me</button></a> <a href=" https://drive.google.com/file/d/19u352hdkuBJnx4zdossXcBFa7aPxkumS/view?usp=drivesdk "><button class="btn btn-outline bg-gray-200 text-black text-xl hover:bg-black hover:text-white rounded-none">Resume</button></a>
+      <a href="#contact"><button class="btn btn-black text-white  hover:bg-white hover:text-black rounded-none">Contact Me</button></a> <a href=" https://drive.google.com/file/d/19u352hdkuBJnx4zdossXcBFa7aPxkumS/view?usp=drivesdk "><button class="btn btn-outline bg-gray-200 text-black  hover:bg-black hover:text-white rounded-none">Resume</button></a>
     
     
     </div>

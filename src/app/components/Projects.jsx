@@ -12,12 +12,12 @@ return(
 <section id="projects">
 
 <div class="hero min-h-screen">
-  <div class="hero-content font-bold">
+  <div class="hero-content">
     <div class="w-fit">
     <br/><br/><br/><br/>
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
-    <h1 class="text-4xl font-bold text-left text-black myname">Projects</h1>
-    <h1 class="text-xl font-bold text-left border-b-4 shadow-xl border-black text-black p-2">Showcasing My Passion for Problem-Solving and Design Excellence.</h1>
+    <h1 class="text-2xl text-left text-black myname">Projects</h1>
+    <h1 class=" text-left border-b-4 shadow-xl border-black text-black p-2">Showcasing My Passion for Problem-Solving and Design Excellence.</h1>
     <br/>
     </div>
 <br/><br/>
@@ -41,8 +41,8 @@ return(
     </div>
     <div class="card-actions justify-end">
       
-      <button class="btn btn-outline bg-gray-200 text-black text-lg hover:bg-black hover:text-white rounded-none">You are here</button> 
-      <a href="https://github.com/Shivans-Awasthi/Shivans-Portfolio-V2"><button class="btn btn-black text-white text-lg hover:bg-white hover:text-black rounded-none"><ion-icon name="logo-github"></ion-icon>Github</button></a>
+      <button class="btn btn-outline bg-gray-200 text-black hover:bg-black hover:text-white rounded-none">You are here</button> 
+      <a href="https://github.com/Shivans-Awasthi/Shivans-Portfolio-V2"><button class="btn btn-black text-white  hover:bg-white hover:text-black rounded-none"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
 </div>
@@ -65,8 +65,8 @@ return(
       <br/><br/>
     </div>
     <div class="card-actions justify-end">
-      <a href="https://querylinker-web-app-querylinker.koyeb.app/"><button class="btn btn-outline bg-gray-200 text-black text-lg hover:bg-black hover:text-white rounded-none">Deployment</button></a>
-      <a href="https://github.com/Shivans-Awasthi/QueryLinker"><button class="btn btn-black text-white text-lg hover:bg-white hover:text-black rounded-none"><ion-icon name="logo-github"></ion-icon>Github</button></a>
+      <a href="https://querylinker-web-app-querylinker.koyeb.app/"><button class="btn btn-outline bg-gray-200 text-black  hover:bg-black hover:text-white rounded-none">Deployment</button></a>
+      <a href="https://github.com/Shivans-Awasthi/QueryLinker"><button class="btn btn-black text-white  hover:bg-white hover:text-black rounded-none"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
 </div>
@@ -89,7 +89,7 @@ return(
       <br/><br/>
     </div>
     <div class="card-actions justify-end">
-      <a href="https://github.com/Shivans-Awasthi/ChatSummation-Text-Summarization-of-conversational-data-using-google-Pegasus-model"><button class="btn btn-black text-white text-lg hover:bg-white hover:text-black rounded-none"><ion-icon name="logo-github"></ion-icon>Github</button></a>
+      <a href="https://github.com/Shivans-Awasthi/ChatSummation-Text-Summarization-of-conversational-data-using-google-Pegasus-model"><button class="btn btn-black text-white  hover:bg-white hover:text-black rounded-none"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
 </div>
@@ -120,7 +120,7 @@ return(
       <br/><br/>
     </div>
     <div class="card-actions justify-end">
-     <a href="https://github.com/Shivans-Awasthi/College-Automation-using-IOT"><button class="btn btn-black text-white text-lg hover:bg-white hover:text-black rounded-none"><ion-icon name="logo-github"></ion-icon>Github</button></a>
+     <a href="https://github.com/Shivans-Awasthi/College-Automation-using-IOT"><button class="btn btn-black text-white  hover:bg-white hover:text-black rounded-none"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
 </div>
@@ -147,7 +147,7 @@ return(
     </div>
     <div class="card-actions justify-end">
       
-      <a href="https://github.com/Shivans-Awasthi/Twitter-Sentiment-Analysis-using-TextBlob"><button class="btn btn-black text-white text-lg hover:bg-white hover:text-black rounded-none"><ion-icon name="logo-github"></ion-icon>Github</button></a>
+      <a href="https://github.com/Shivans-Awasthi/Twitter-Sentiment-Analysis-using-TextBlob"><button class="btn btn-black text-white  hover:bg-white hover:text-black rounded-none"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
 </div>

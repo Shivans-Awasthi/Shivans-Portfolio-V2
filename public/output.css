@@ -61,26 +61,25 @@ html,
 
 
 body {
-  margin: 0;
-  line-height: inherit;
-  font-weight: 400;
-  overflow-x: hidden; 
-  font-family: "Segoe UI light";
-  font-style: normal;
+    font-family: "Noto Sans";
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
 }
 
 .myfont{
   font-weight: 400;
-  font-family: "Segoe UI light";
+  font-family: "Noto Sans";
   font-style: normal;
-}
+} 
 
 .myname{
-  font-family: 'Segoe UI light';
+  font-family: 'Noto Sans';
   font-weight: 800;
   font-style: normal;
 
-}
+} */
 
 
 html {

@@ -20,20 +20,20 @@ return(
 <div class="text-center ">
 <br/><br/><br/><br/>
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="50">
-<h1 class="text-4xl font-extrabold text-left text-black myname" >Skills</h1>
+<h1 class="text-2xl text-left text-black myname" >Skills</h1>
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
-<h1 class="text-xl text-black font-bold text-left border-b-4 border-black p-2">I have diverse range of skills that can help you with any of your innovative projects.</h1>
+<h1 class=" text-black text-left border-b-4 border-black p-2">I have diverse range of skills that can help you with any of your innovative projects.</h1>
 </div>
 </div>
 <br/><br/>
 
-  <table class="table text-xl text-black text-center font-bold">
+  <table class="table text-black text-center">
   
     <thead>
    
       <tr>
-        <th><div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" class="text-black text-xl">Technology</div></th>
-        <th><div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" class="text-black text-xl">Proficency</div></th>
+        <th><div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" class="text-black ">Technology</div></th>
+        <th><div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" class="text-black ">Proficency</div></th>
       </tr>
       
     </thead>
