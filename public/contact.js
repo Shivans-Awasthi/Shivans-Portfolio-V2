@@ -18,7 +18,7 @@ export function sendmail(event) {
         
         setTimeout(() => {  document.getElementById('success2').classList.remove('hidden') ; }, 5000);
         
-
+        form.reset();
 
       })
       .catch(function(error) {

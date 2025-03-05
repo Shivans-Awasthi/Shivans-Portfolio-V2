@@ -108,7 +108,6 @@ return(
             <span class="label-text  text-black">Message</span>
           </label>          
           <textarea class="textarea rounded-none min-h-40 w-full border-b-4 border-black bg-transparent glass text-black " name="message" id="message" placeholder="Let me know your thoughts" required></textarea>
-
         </div>
 
         <div class="form-control mt-6">
