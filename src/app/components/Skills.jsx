@@ -15,26 +15,25 @@ return(
 
 <div class="hero min-h-screen w-full">
 
-<div class="glowing-sphere2"></div>
 
 <div class="hero-content">
 <div class="text-center ">
 <br/><br/><br/><br/>
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="50">
-<h1 class="text-3xl font-extrabold text-left text-white" >Skills</h1>
+<h1 class="text-4xl font-extrabold text-left text-black myname" >Skills</h1>
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
-<h1 class="text-md text-white text-left border-b shadow-xl border-info p-2">I have diverse range of skills that can help you with any of your innovative projects.</h1>
+<h1 class="text-xl text-black font-bold text-left border-b-4 border-black p-2">I have diverse range of skills that can help you with any of your innovative projects.</h1>
 </div>
 </div>
 <br/><br/>
 
-  <table class="table table-sm text-white text-center">
+  <table class="table text-xl text-black text-center font-bold">
   
     <thead>
    
       <tr>
-        <th><div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" class="text-accent ">Technology</div></th>
-        <th><div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" class="text-accent">Proficency</div></th>
+        <th><div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" class="text-black text-xl">Technology</div></th>
+        <th><div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" class="text-black text-xl">Proficency</div></th>
       </tr>
       
     </thead>
@@ -42,10 +41,10 @@ return(
     <tbody>
 
       <tr> 
-        <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="100">C++</div></td>
+        <td>C++</td>
         <td>
           <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="200">
-          <progress class="progress progress-secondary rounded bg-black md: w-48 lg:w-80" value="80" max="100"></progress>
+          <progress class="progress progress-secondary rounded bg-white md: w-48 lg:w-80" value="80" max="100"></progress>
           </div>
         </td>
         
@@ -58,7 +57,7 @@ return(
      
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="400">
-          <progress class="progress progress-secondary rounded bg-black md: w-48 lg:w-80" value="60" max="100"></progress></div></td>
+          <progress class="progress progress-secondary rounded bg-white md: w-48 lg:w-80" value="60" max="100"></progress></div></td>
       </tr>
 
       <tr>
@@ -66,7 +65,7 @@ return(
         <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="500">React JS</div></td>
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="600">
-          <progress class="progress progress-secondary rounded bg-black md: w-48 lg:w-80" value="80" max="100"></progress></div></td>
+          <progress class="progress progress-secondary rounded bg-white md: w-48 lg:w-80" value="80" max="100"></progress></div></td>
       </tr>
 
       <tr>
@@ -74,7 +73,7 @@ return(
         <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="700">Node JS</div></td>
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="800">
-          <progress class="progress progress-secondary rounded bg-black md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
+          <progress class="progress progress-secondary rounded bg-white md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
       </tr>
 
       <tr>
@@ -83,7 +82,7 @@ return(
 
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1000">
-          <progress class="progress progress-secondary rounded bg-black md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
+          <progress class="progress progress-secondary rounded bg-white md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
       </tr>
 
       <tr>
@@ -92,7 +91,7 @@ return(
 
       <td>
       <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1200">
-        <progress class="progress progress-secondary rounded bg-black md: w-48 lg:w-80" value="50" max="100"></progress></div></td>
+        <progress class="progress progress-secondary rounded bg-white md: w-48 lg:w-80" value="50" max="100"></progress></div></td>
     </tr>
 
       <tr>
@@ -101,7 +100,7 @@ return(
 
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1400">
-          <progress class="progress progress-secondary rounded bg-black md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
+          <progress class="progress progress-secondary rounded bg-white md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
       </tr>
 
       <tr>
@@ -110,7 +109,7 @@ return(
 
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1600">
-          <progress class="progress progress-secondary rounded bg-black md: w-48 lg:w-80" value="75" max="100"></progress></div></td>
+          <progress class="progress progress-secondary rounded bg-white md: w-48 lg:w-80" value="75" max="100"></progress></div></td>
       </tr>
 
       <tr>
@@ -119,7 +118,7 @@ return(
       
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1800">
-          <progress class="progress progress-secondary rounded bg-black md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
+          <progress class="progress progress-secondary rounded bg-white md: w-48 lg:w-80" value="70" max="100"></progress></div></td>
       </tr>
 
       <tr>
@@ -128,7 +127,7 @@ return(
 
         <td>
         <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="2000">
-          <progress class="progress progress-secondary rounded bg-black md: w-48 lg:w-80" value="60" max="100"></progress></div></td>
+          <progress class="progress progress-secondary rounded bg-white md: w-48 lg:w-80" value="60" max="100"></progress></div></td>
       </tr>
 
 
