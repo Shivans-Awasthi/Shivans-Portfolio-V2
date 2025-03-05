@@ -23,7 +23,7 @@ return(
       </div>
       <div data-aos="fade-up" data-aos-duration="1000"   data-aos-delay="1000">
       <div class="avatar">
-        <div class="w-36 rounded-full shadow-lg ring-4 ring-white ring-offset-base-100 ring-offset-0">
+        <div class="w-36 rounded-full shadow-lg ring-2 ring-white ring-offset-base-100 ring-offset-0">
           <img src="https://github.com/Shivans-Awasthi/Shivans-Portfolio-Website/blob/main/images/profilepic.jpeg?raw=true" />
         </div>
       </div>

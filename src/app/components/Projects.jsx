@@ -17,7 +17,7 @@ return(
     <br/><br/><br/><br/>
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
     <h1 class="text-2xl text-left text-black myname">Projects</h1>
-    <h1 class=" text-left border-b-4 shadow-xl border-black text-black p-2">Showcasing My Passion for Problem-Solving and Design Excellence.</h1>
+    <h1 class=" text-left border-b-2 shadow-xl border-glass text-black p-2">Showcasing My Passion for Problem-Solving and Design Excellence.</h1>
     <br/>
     </div>
 <br/><br/>

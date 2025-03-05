@@ -18,7 +18,7 @@ return(
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
 
     <h1 class="text-2xl font-bold myname text-left text-black">Certificates</h1>
-    <h1 class=" text-left border-b-4 shadow-xl border-white text-black p-2">Certified Proficiencies that Validate My Expertise and Capabilities.</h1>
+    <h1 class=" text-left border-b-2 shadow-xl border-glass text-black p-2">Certified Proficiencies that Validate My Expertise and Capabilities.</h1>
     </div>
 <br/><br/>
   
