@@ -21,7 +21,6 @@ return(
 <section id="contact">
  
 <div class="hero min-h-screen ">
-<div class="glowing-sphere2"></div>
 
   <div class="hero-content font-bold flex-col lg:flex-row-reverse w-full">
     

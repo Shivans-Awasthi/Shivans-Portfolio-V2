@@ -10,7 +10,6 @@ return(
 <section id="education" >
 
 <div class="hero min-h-screen">  
-<div class="glowing-sphere"></div>
 
 <div class="hero-content">
 <div class="text-left w-fit">

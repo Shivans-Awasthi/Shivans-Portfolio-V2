@@ -12,7 +12,6 @@ return(
 <section id="projects">
 
 <div class="hero min-h-screen">
-<div class="glowing-sphere2"></div>
   <div class="hero-content font-bold">
     <div class="w-fit">
     <br/><br/><br/><br/>

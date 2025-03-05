@@ -13,7 +13,6 @@ return(
 <section id="certificates">
 
 <div class="hero py-36 min-h-screen w-full ">
-<div class="glowing-sphere"></div>
   <div class="hero-content w-full font-bold">
     <div class="w-fit ">
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">

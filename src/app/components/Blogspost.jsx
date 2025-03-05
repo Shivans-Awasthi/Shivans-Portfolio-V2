@@ -13,7 +13,6 @@ return(
 
 
 <div class="hero min-h-screen w-full">
-<div class="glowing-sphere"></div>
   <div class="hero-content font-bold">
     <div class="min-h-screen w-fit ">
     <br/><br/><br/><br/>

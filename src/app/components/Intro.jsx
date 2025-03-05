@@ -18,7 +18,7 @@ return(
 
     <div class="text-center w-fit">
     <div data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">
-      <h1 class="text-xl mt-16 text-black text-center font-bold">Hello there, I am</h1> <span class="text-center text-5xl myname font-extrabold text-black "><h1 className="p-2">Shivans Awasthi<span className="text-warning rounded-md">.</span></h1></span>
+      <h1 class="text-2xl mt-16 text-black text-center font-bold">Hello there, I am</h1> <span class="text-center text-5xl myname font-extrabold text-black "><h1 className="p-2">Shivans Awasthi<span className="text-warning rounded-md">.</span></h1></span>
       <br/>
       </div>
       <div data-aos="fade-up" data-aos-duration="1000"   data-aos-delay="1000">

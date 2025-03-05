@@ -33,7 +33,7 @@ return(
       </div>
       <div class="drawer-side">
       <label for="my-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
-      <ul class="menu glass1 bg-white menu-lg text-black font-bold w-80 p-10">
+      <ul class="menu bg-white menu-lg text-black rounded-none font-bold w-80 p-10">
         <li><a href="#intro">Intro</a></li>
         <li><a href="#skills">Skills</a></li>
         <li><a href="#education">Education</a></li>
@@ -73,7 +73,7 @@ return(
 </div>
 <div class="navbar-end pe-5">
 <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
-<a href="#contact"><button class="btn btn-black text-white text-xl hover:bg-white hover:text-black rounded-none">Contact Me</button></a>
+<a href="#contact"><button class="btn btn-black border-2 text-white text-xl hover:bg-white hover:text-black rounded-none">Contact Me</button></a>
 </div>
 </div>
 
