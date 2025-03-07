@@ -30,9 +30,10 @@ return(
     </div>
     <div class="timeline-start text-end mb-10">
     <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="200"><time class="font-mono italic">2024</time></div>
-    <div class=" myname text-black">B.Tech Computer Science and System Engineering</div>
+    <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="300"><div class=" myname text-black">B.Tech Computer Science and System Engineering</div>
       Kalinga Institute of Industrial Technology(KIIT),<br/> Bhubaneshwar, Odisha, India
       <p class="text-black text-sm">CGPA: 8.36</p>
+    </div>
     </div>
     <hr class="bg-white"/>
   </li>

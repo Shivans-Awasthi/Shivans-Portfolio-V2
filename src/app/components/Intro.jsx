@@ -18,7 +18,7 @@ return(
 
     <div class="text-center w-fit">
     <div data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">
-      <h1 class="text-xl mt-16 text-black text-center font-bold">Hello there, I am</h1> <span class="text-center text-4xl myname font-extrabold text-black "><h1 className="p-2">Shivans Awasthi</h1></span>
+      <h1 class="text-xl text-black text-center font-bold">Hello there, I am</h1> <span class="text-center text-4xl myname font-extrabold text-black "><h1 className="p-2">Shivans Awasthi</h1></span>
       <br/>
       </div>
       <div data-aos="fade-up" data-aos-duration="1000"   data-aos-delay="1000">
@@ -33,7 +33,7 @@ return(
 <div data-aos="fade-up" data-aos-duration="1000"  data-aos-delay="1200">
 
       
-      <div class="mockup-code bg-white border border-blue-800 rounded-xl shadow-xl text-left text-black text-sm w-full">
+      <div class="mockup-code  bg-white border border-blue-800 rounded-xl shadow-xl text-left text-black text-sm w-full">
       <div data-aos="fade-right" data-aos-duration="1300"  data-aos-delay="1300">
         <pre data-prefix="$" ><code>Full Stack Software Engineer</code></pre> 
       </div>

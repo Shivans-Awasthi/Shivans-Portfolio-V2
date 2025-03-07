@@ -28,15 +28,15 @@ return(
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="200">
 <div class="card bg-white rounded-xl border border-blue-800 lg:w-80 sm:w-96  text-neutral-content text-black">
   <div class="card-body">
-    <h2 class="card-title text-black text-2xl">Portfolio-Website-V2</h2>
+    <h2 class="card-title text-black text-2xl">Portfolio Website</h2>
     <p>My Personal Website that showcases my skills and projects</p><br/>
     <div class="card-actions text-black w-full justify-end">
-      <div class="badge badge-outline rounded-xl">HTML</div> 
-      <div class="badge badge-outline rounded-xl">Tailwind CSS</div>
-      <div class="badge badge-outline rounded-xl">Daisy UI</div>
-      <div class="badge badge-outline rounded-xl">React JS</div>
-      <div class="badge badge-outline rounded-xl">Next JS</div>
-      <div class="badge badge-outline rounded-xl">Javascript</div>
+      <div class="badge badge-warning rounded">HTML</div> 
+      <div class="badge badge-warning rounded">Tailwind CSS</div>
+      <div class="badge badge-warning rounded">Daisy UI</div>
+      <div class="badge badge-warning rounded">React JS</div>
+      <div class="badge badge-warning rounded">Next JS</div>
+      <div class="badge badge-warning rounded">Javascript</div>
       <br/><br/>
     </div>
     <div class="card-actions justify-end">
@@ -56,12 +56,12 @@ return(
     <p>An intelligent search engine aimed at providing efficient and relevant search results to users within a perticular domain.</p><br/>
     <div class="card-actions w-full text-black justify-end">
     
-      <div class="badge badge-outline  rounded-xl">Python</div> 
-      <div class="badge badge-outline rounded-xl">WebCrawling</div>
-      <div class="badge badge-outline rounded-xl">TF-IDF</div>
-      <div class="badge badge-outline rounded-xl">Cosine Similarity</div>
-      <div class="badge badge-outline rounded-xl">Page Rank</div>
-      <div class="badge badge-outline rounded-xl">Cloud Deployment</div>
+      <div class="badge badge-warning  rounded">Python</div> 
+      <div class="badge badge-warning rounded">WebCrawling</div>
+      <div class="badge badge-warning rounded">TF-IDF</div>
+      <div class="badge badge-warning rounded">Cosine Similarity</div>
+      <div class="badge badge-warning rounded">Page Rank</div>
+      <div class="badge badge-warning rounded">Cloud Deployment</div>
       <br/><br/>
     </div>
     <div class="card-actions justify-end">
@@ -79,13 +79,13 @@ return(
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="400">
 <div class="card bg-white border border-blue-800 lg:w-80 sm:w-96 rounded-xl text-neutral-content text-black">
   <div class="card-body">
-    <h2 class="card-title text-black text-2xl">ChatSummation-Text-Summarization-of-conversational-data-using-google-Pegasus-model</h2>
+    <h2 class="card-title text-black text-2xl">ChatSummation</h2>
     <p>A tool to summerize conversational data using google pagasus model trained on SamSum dataset</p><br/>
     <div class="card-actions w-full text-black justify-end">
     
-      <div class="badge badge-outline rounded-xl">Python</div> 
-      <div class="badge badge-outline rounded-xl">NLP</div>
-      <div class="badge badge-outline rounded-xl">Transformers</div>
+      <div class="badge badge-warning rounded">Python</div> 
+      <div class="badge badge-warning rounded">NLP</div>
+      <div class="badge badge-warning rounded">Transformers</div>
       <br/><br/>
     </div>
     <div class="card-actions justify-end">
@@ -108,15 +108,14 @@ return(
 
 <div class="card bg-white border border-blue-800 rounded-xl lg:w-80 sm:w-96 text-neutral-content text-black">
   <div class="card-body">
-    <h2 class="card-title text-black text-2xl">College-Automation-using-IOT</h2>
+    <h2 class="card-title text-black text-2xl">College Automation using IOT</h2>
     <p>An automation system using ESP32, Wifi, sensors for automatic control of Electric Appliances, Implemented Facial Recognition Attendance system</p>
-    <br/>
-    <div class="card-actions w-fit text-black justify-end">
-      <div class="badge badge-outline rounded-xl">C++</div> 
-      <div class="badge badge-outline rounded-xl">Arduino IOT Cloud</div>
-      <div class="badge badge-outline rounded-xl">Python</div>
-      <div class="badge badge-outline rounded-xl">OpenCV</div>
-      <div class="badge badge-outline rounded-xl">Google API</div>
+    <div class="card-actions  w-fit text-black justify-end">
+      <div class="badge badge-warning rounded">C++</div> 
+      <div class="badge badge-warning rounded">Arduino IOT Cloud</div>
+      <div class="badge badge-warning rounded">Python</div>
+      <div class="badge badge-warning rounded">OpenCV</div>
+      <div class="badge badge-warning rounded">Google API</div>
       <br/><br/>
     </div>
     <div class="card-actions justify-end">
@@ -133,16 +132,16 @@ return(
 
 <div class="card bg-white border border-blue-800 lg:w-80 sm:w-96 rounded-xl text-neutral-content text-black">
   <div class="card-body">
-    <h2 class="card-title text-black text-2xl">Twitter-Sentiment-Analysis-using-TextBlob</h2>
-    <p>Making a simple and efficient Sentiment analyzer to analyze twitter data for different purposes.</p><br/>
+    <h2 class="card-title text-black text-2xl">Twitter Sentiment Analysis using TextBlob</h2>
+    <p>Making a simple and efficient Sentiment analyzer to analyze twitter data for different purposes.</p>
     <div class="card-actions text-black justify-end">
-      <div class="badge badge-outline rounded-xl">Python</div> 
-      <div class="badge badge-outline rounded-xl">NLP</div>
-      <div class="badge badge-outline rounded-xl">Textblob</div>
-      <div class="badge badge-outline rounded-xl">Wordcloud</div>
-      <div class="badge badge-outline rounded-xl">Numpy</div>
-      <div class="badge badge-outline rounded-xl">Pandas</div>
-      <div class="badge badge-outline rounded-xl">Matplotlib</div>
+      <div class="badge badge-warning rounded">Python</div> 
+      <div class="badge badge-warning rounded">NLP</div>
+      <div class="badge badge-warning rounded">Textblob</div>
+      <div class="badge badge-warning rounded">Wordcloud</div>
+      <div class="badge badge-warning rounded">Numpy</div>
+      <div class="badge badge-warning rounded">Pandas</div>
+      <div class="badge badge-warning rounded">Matplotlib</div>
       <br/><br/>
     </div>
     <div class="card-actions justify-end">

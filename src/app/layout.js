@@ -74,6 +74,8 @@ export default function RootLayout({ children }) {
     src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"
   ></script>
  
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
 </head>
 
 <body>
