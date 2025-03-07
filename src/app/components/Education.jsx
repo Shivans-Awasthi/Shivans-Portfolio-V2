@@ -16,8 +16,8 @@ return(
 <br/><br/><br/><br/>
 
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
-<h1 class="text-2xl myname text-left text-black">Education</h1>
-<h1 class=" text-black text-left border-b-2 shadow-xl border-glass p-2">Cultivating a lifelong love of learning through academic excellence and intellectual curiosity.</h1>
+<h1 class="text-3xl myname text-center text-black">Education</h1>
+<h1 class=" text-black text-center p-2">Cultivating a lifelong love of learning through academic excellence and intellectual curiosity.</h1>
 
 </div>
 <br/><br/>

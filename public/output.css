@@ -120,14 +120,12 @@ body {
   overflow: hidden;
   border-radius: 1px; /* Optional: Rounded corners */
   transition: transform 0.5s ease, box-shadow 0.5s ease, background 0.5s ease; /* Smooth transition */
-  border: 2px solid rgba(255, 255, 255, 0.314);
 
 }
 
 /* Add gradient background on hover */
 .card:hover {
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.355);; /* Deeper shadow on hover */
-  border: 2px solid rgb(255, 255, 255);
 }
 
 /* Image within the card */

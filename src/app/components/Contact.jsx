@@ -28,9 +28,9 @@ return(
       
     <div data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200">
 
-      <h1 class="text-4xl font-bold myname text-left text-black">Contact Me!</h1>
+      <h1 class="text-3xl font-bold myname text-left text-black">Contact Me!</h1>
 
-      <h1 class=" border-b-2 shadow-xl border-glass text-left text-black p-4">Lets get connected, and start our next project with enthusiasm and a positive mindset.<br/> Contact me here, or reach out to me on my socials below!</h1>
+      <h1 class="text-left text-black p-2">Lets get connected, and start our next project with enthusiasm and a positive mindset.<br/> Contact me here, or reach out to me on my socials below!</h1>
       
       <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=contact@shivansawasthi.info" target="_blank" rel="nofollow noopener"><h1 class="text-md text-black m-2 text-left text-sm">contact@shivansawasthi.info</h1></a>
 
@@ -85,7 +85,7 @@ return(
     
     <div data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200">
     <br/><br/><br/><br/>
-    <div class="card glass1 rounded-none w-80 min-w-sm shadow-xl ">
+    <div class="card bg-white rounded-xl w-80 min-w-sm shadow-xl ">
       <form class="card-body" id="contact-form" name="contact-form" onSubmit={sendmail}>
 
         <div class="form-control ">
@@ -111,7 +111,7 @@ return(
         </div>
 
         <div class="form-control mt-6">
-          <button class="btn btn-black text-white  hover:bg-white hover:text-black rounded-none" type="submit">Send Email</button>
+          <button class="btn bg-blue-800 text-white hover:bg-white hover:text-black rounded" type="submit">Send Email</button>
         </div>
       </form>
     </div>

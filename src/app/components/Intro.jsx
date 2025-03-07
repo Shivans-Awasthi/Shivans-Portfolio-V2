@@ -23,7 +23,7 @@ return(
       </div>
       <div data-aos="fade-up" data-aos-duration="1000"   data-aos-delay="1000">
       <div class="avatar">
-        <div class="w-36 rounded-full shadow-lg ring-2 ring-white ring-offset-base-100 ring-offset-0">
+        <div class="w-36 glass rounded-full shadow-lg ">
           <img src="https://github.com/Shivans-Awasthi/Shivans-Portfolio-Website/blob/main/images/profilepic.jpeg?raw=true" />
         </div>
       </div>
@@ -33,25 +33,28 @@ return(
 <div data-aos="fade-up" data-aos-duration="1000"  data-aos-delay="1200">
 
       
-      <div class="mockup-code bg-transparent glass1 border-none border-black rounded shadow-xl text-left text-black text-sm w-full">
+      <div class="mockup-code bg-white border border-blue-800 rounded-xl shadow-xl text-left text-black text-sm w-full">
       <div data-aos="fade-right" data-aos-duration="1300"  data-aos-delay="1300">
-        <pre data-prefix="$" ><code>Software Engineer</code></pre> 
+        <pre data-prefix="$" ><code>Full Stack Software Engineer</code></pre> 
       </div>
       <div data-aos="fade-right" data-aos-duration="1400"  data-aos-delay="1400">
-        <pre data-prefix=">" ><code>MERN Stack Web Developer</code></pre> 
+        <pre data-prefix=">" ><code>MERN Stack Developer</code></pre> 
+      </div>  
+      <div data-aos="fade-right" data-aos-duration="1400"  data-aos-delay="1400">
+        <pre data-prefix=">" ><code>.NET Developer</code></pre> 
       </div>  
       <div data-aos="fade-right" data-aos-duration="1500"  data-aos-delay="1500">
-        <pre data-prefix=">" ><code>AI Developer</code></pre>
+        <pre data-prefix=">" ><code>Data Scientist</code></pre>
       </div>
       <div data-aos="fade-right" data-aos-duration="1600"  data-aos-delay="1600">
-        <pre data-prefix=">"  ><code>Robotics Engineer</code></pre>
+        <pre data-prefix=">"  ><code>Machine Learning & Artificial Intelligence</code></pre>
       </div>
     </div>
 
     <br/>
     </div>
     <div data-aos="zoom-in" data-aos-duration="500"  data-aos-delay="2000">
-      <a href="#contact"><button class="btn btn-black text-white  hover:bg-white hover:text-black rounded-none">Contact Me</button></a> <a href=" https://drive.google.com/file/d/19u352hdkuBJnx4zdossXcBFa7aPxkumS/view?usp=drivesdk "><button class="btn btn-outline bg-gray-200 text-black  hover:bg-black hover:text-white rounded-none">Resume</button></a>
+      <a href="#contact"><button class="btn bg-blue-800 text-white hover:bg-white hover:text-black rounded">Contact Me</button></a> <a href=" https://drive.google.com/file/d/19u352hdkuBJnx4zdossXcBFa7aPxkumS/view?usp=drivesdk "><button class="btn bg-black text-white hover:bg-white hover:text-black rounded">Resume</button></a>
     
     
     </div>
