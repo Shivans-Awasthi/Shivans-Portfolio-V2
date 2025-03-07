@@ -6,7 +6,7 @@ function Navigation(){
 return(
 
 <div class="navbar border-b border-gray-500 bg-white fixed z-20 h-1 shadow-xl">
-  <div class="navbar-start lg:ps-20 md: ps-5">
+  <div class="navbar-start lg:ps-20 md: ps-0">
 
     <div class="drawer">
     <input id="my-drawer" type="checkbox" class="drawer-toggle" />
@@ -55,7 +55,7 @@ return(
 
   
 </div>
-<div class="navbar-end lg:pe-20 md: pe-5">
+<div class="navbar-end lg:pe-20 md: pe-0">
 <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
 <a href="#contact"><button class="btn bg-blue-800 text-white hover:bg-white hover:text-black rounded">Contact Me</button></a>
 </div>
