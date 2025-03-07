@@ -18,12 +18,12 @@ return(
 
     <div class="text-center w-fit">
     <div data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">
-      <h1 class="text-xl mt-16 text-black text-center font-bold">Hello there, I am</h1> <span class="text-center text-4xl myname font-extrabold text-black "><h1 className="p-2">Shivans Awasthi<span className="text-warning rounded-md">.</span></h1></span>
+      <h1 class="text-xl mt-16 text-black text-center font-bold">Hello there, I am</h1> <span class="text-center text-4xl myname font-extrabold text-black "><h1 className="p-2">Shivans Awasthi</h1></span>
       <br/>
       </div>
       <div data-aos="fade-up" data-aos-duration="1000"   data-aos-delay="1000">
       <div class="avatar">
-        <div class="w-36 glass rounded-full shadow-lg ">
+        <div class="w-36 glass rounded-full ring-1 ring-white ring-offset-base-100 ring-offset-0">
           <img src="https://github.com/Shivans-Awasthi/Shivans-Portfolio-Website/blob/main/images/profilepic.jpeg?raw=true" />
         </div>
       </div>
@@ -45,9 +45,6 @@ return(
       </div>  
       <div data-aos="fade-right" data-aos-duration="1500"  data-aos-delay="1500">
         <pre data-prefix=">" ><code>Data Scientist</code></pre>
-      </div>
-      <div data-aos="fade-right" data-aos-duration="1600"  data-aos-delay="1600">
-        <pre data-prefix=">"  ><code>Machine Learning & Artificial Intelligence</code></pre>
       </div>
     </div>
 
