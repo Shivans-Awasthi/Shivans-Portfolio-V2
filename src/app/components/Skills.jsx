@@ -27,7 +27,7 @@ return(
 </div>
 <br/><br/>
 
-  <table class="table table-sm text-black text-left">
+  <table class="table text-black text-left">
   
     <thead>
    
