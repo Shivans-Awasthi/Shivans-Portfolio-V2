@@ -51,7 +51,7 @@ return(
     <br/>
     </div>
     <div data-aos="zoom-in" data-aos-duration="500"  data-aos-delay="2000">
-      <a href="#contact"><button class="btn bg-blue-800 text-white hover:bg-white hover:text-black rounded">Contact Me</button></a> <a href=" https://drive.google.com/file/d/19u352hdkuBJnx4zdossXcBFa7aPxkumS/view?usp=drivesdk "><button class="btn bg-black text-white hover:bg-white hover:text-black rounded">Resume</button></a>
+      <a href="#contact"><button class="btn bg-blue-800 text-white hover:bg-white hover:text-black rounded">Contact Me</button></a> <a href="https://drive.google.com/file/d/145bDbNfh3jkwZS-Ha_IvZjPXOgW356HD/view?usp=sharing"><button class="btn bg-black text-white hover:bg-white hover:text-black rounded">Resume</button></a>
     
     
     </div>

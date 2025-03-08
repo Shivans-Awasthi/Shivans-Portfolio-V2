@@ -30,7 +30,7 @@ return(
 
       <h1 class="text-3xl font-bold myname text-left text-black">Contact Me!</h1>
 
-      <h1 class="text-left text-black p-2">Lets get connected, and start our next project with enthusiasm and a positive mindset.<br/> Contact me here, or reach out to me on my socials below!</h1>
+      <p class="text-left test-sm text-black p-2">Lets get connected, and start our next project with enthusiasm and a positive mindset.<br/> Contact me here, or reach out to me on my socials below!</p>
       
       <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=contact@shivansawasthi.info" target="_blank" rel="nofollow noopener"><h1 class="text-md text-black m-2 text-left text-sm">contact@shivansawasthi.info</h1></a>
 

@@ -32,8 +32,8 @@ return(
     <thead>
    
       <tr>
-        <th><div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" class="text-black ">Technology</div></th>
-        <th><div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" class="text-black ">Proficency</div></th>
+        <th>Technology</th>
+        <th>Proficency</th>
       </tr>
       
     </thead>
@@ -43,92 +43,98 @@ return(
       <tr> 
         <td>C++</td>
         <td>
-          <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="200">
           <progress class="progress progress-secondary rounded bg-white w-full" value="80" max="100"></progress>
-          </div>
-        </td>
-        
-          
+        </td>     
+      </tr>
+
+      <tr> 
+        <td>C#</td>
+        <td>
+          <progress class="progress progress-secondary rounded bg-white w-full" value="80" max="100"></progress>
+        </td>     
       </tr>
    
       <tr>
       
-        <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="300">Python</div></td>
-     
+        <td>Python</td>
         <td>
-        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="400">
-          <progress class="progress progress-secondary bg-white rounded w-full" value="60" max="100"></progress></div></td>
+          <progress class="progress progress-secondary bg-white rounded w-full" value="60" max="100"></progress></td>
+      </tr>
+
+      <tr>
+        <td>React JS</td>
+        <td>
+          <progress class="progress progress-secondary rounded bg-white w-full" value="80" max="100"></progress></td>
       </tr>
 
       <tr>
       
-        <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="500">React JS</div></td>
+        <td>Node JS</td>
         <td>
-        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="600">
-          <progress class="progress progress-secondary rounded bg-white w-full" value="80" max="100"></progress></div></td>
+          <progress class="progress progress-secondary rounded bg-white w-full" value="70" max="100"></progress></td>
       </tr>
 
       <tr>
       
-        <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="700">Node JS</div></td>
+        <td>Express JS</td>
+
         <td>
-        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="800">
-          <progress class="progress progress-secondary rounded bg-white w-full" value="70" max="100"></progress></div></td>
+          <progress class="progress progress-secondary rounded bg-white w-full" value="70" max="100"></progress></td>
+      </tr>
+      <tr>
+      
+        <td>Flask</td>
+
+        <td>
+          <progress class="progress progress-secondary rounded bg-white w-full" value="70" max="100"></progress></td>
       </tr>
 
       <tr>
       
-        <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="900">Express JS</div></td>
+        <td>PostgreSQL | MySQL</td>
 
         <td>
-        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1000">
-          <progress class="progress progress-secondary rounded bg-white w-full" value="70" max="100"></progress></div></td>
+          <progress class="progress progress-secondary rounded bg-white w-full" value="75" max="100"></progress></td>
       </tr>
 
       <tr>
       
-      <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1100">Next JS</div></td>
+        <td>Bootstrap | Tailwind CSS</td>
+      
+        <td>
+          <progress class="progress progress-secondary rounded bg-white w-full" value="70" max="100"></progress></td>
+      </tr>
 
+      <tr>
+      <td>.Net Framework</td>
       <td>
-      <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1200">
-        <progress class="progress progress-secondary rounded bg-white w-full" value="50" max="100"></progress></div></td>
-    </tr>
-
-      <tr>
-      
-        <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1300">Flask</div></td>
-
-        <td>
-        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1400">
-          <progress class="progress progress-secondary rounded bg-white w-full" value="70" max="100"></progress></div></td>
+        <progress class="progress progress-secondary rounded bg-white w-full" value="60" max="100"></progress></td>
       </tr>
 
       <tr>
-      
-        <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1500">PostgreSQL | MySQL</div></td>
-
-        <td>
-        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1600">
-          <progress class="progress progress-secondary rounded bg-white w-full" value="75" max="100"></progress></div></td>
+      <td>ASP.NET Core</td>
+      <td>
+        <progress class="progress progress-secondary rounded bg-white w-full" value="60" max="100"></progress></td>
       </tr>
 
       <tr>
-      
-        <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1700">Bootstrap | Tailwind CSS</div></td>
-      
-        <td>
-        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1800">
-          <progress class="progress progress-secondary rounded bg-white w-full" value="70" max="100"></progress></div></td>
+      <td>Entity Framework Core</td>
+      <td>
+        <progress class="progress progress-secondary rounded bg-white w-full" value="60" max="100"></progress></td>
       </tr>
 
       <tr>
-      
-        <td><div data-aos="fade-right" data-aos-duration="500" data-aos-delay="1900">ROS 2</div></td>
-
-        <td>
-        <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="2000">
-          <progress class="progress progress-secondary rounded bg-white w-full" value="60" max="100"></progress></div></td>
+      <td>Machine Learning & AI</td>
+      <td>
+        <progress class="progress progress-secondary rounded bg-white w-full" value="80" max="100"></progress></td>
       </tr>
+
+      <tr>
+      <td>AWS & Microsoft Azure</td>
+      <td>
+        <progress class="progress progress-secondary rounded bg-white w-full" value="50" max="100"></progress></td>
+      </tr>
+
 
 
     </tbody>
