@@ -14,9 +14,9 @@ return(
 
 
 
-  <div class="hero-content mt-10 min-w-full z-10 flex-col lg:flex-row md: mt-14">
+  <div class="hero-content mt-10 min-w-full z-10 flex-col lg:flex-row md: mt-10">
   <div class="avatar">
-        <div class="max-w-sm rounded-lg border-8 border-glass">
+        <div class="max-w-sm rounded-lg border-8 border-white">
           <img src="https://github.com/Shivans-Awasthi/Shivans-Portfolio-Website/blob/main/images/profilepic.jpeg?raw=true" />
         </div>
       </div>
@@ -27,7 +27,7 @@ return(
 
 
       
-      <div class="mockup-code py-6  bg-transparent rounded-lg text-left text-black text-sm w-full">
+      <div class="mockup-code py-8  bg-transparent rounded-lg text-left text-black text-sm w-full">
       <div data-aos="fade-right" data-aos-duration="1300"  data-aos-delay="1300">
         <pre data-prefix="$" ><code>Full Stack Software Engineer</code></pre> 
       </div>

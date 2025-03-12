@@ -26,7 +26,7 @@ return(
 <div class="flex md:flex-col flex-col lg:flex-row">
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="200">
-<div class="card glassblue  rounded-lg border-8 border-glass lg:w-80 sm:w-96  text-neutral-content text-black">
+<div class="card glassblue  rounded-lg border-8 border-white shadow lg:w-80 sm:w-96  text-neutral-content text-black">
   <div class="card-body">
     <h2 class="card-title text-black text-2xl">Portfolio Website</h2>
     <p class="text-black text-sm">My Personal Website that showcases my skills and projects</p><br/>
@@ -50,7 +50,7 @@ return(
 <div class=" p-3"></div>
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="300">
-<div class="card glassblue  rounded-lg border-8 border-glass lg:w-80 sm:w-96 text-neutral-content text-black">
+<div class="card glassblue  rounded-lg border-8 border-white shadow lg:w-80 sm:w-96 text-neutral-content text-black">
   <div class="card-body">
     <h2 class="card-title text-black text-2xl">QueryLinker</h2>
     <p class="text-black text-sm">An intelligent search engine aimed at providing efficient and relevant search results to users within a perticular domain.</p><br/>
@@ -77,7 +77,7 @@ return(
 
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="400">
-<div class="card glassblue border-8 border-glass lg:w-80 sm:w-96  rounded-lg text-neutral-content text-black">
+<div class="card glassblue border-8 border-white shadow lg:w-80 sm:w-96  rounded-lg text-neutral-content text-black">
   <div class="card-body">
     <h2 class="card-title text-black text-2xl">ChatSummation</h2>
     <p class="text-black text-sm">A tool to summerize conversational data using google pagasus model trained on SamSum dataset</p><br/>
@@ -106,7 +106,7 @@ return(
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="600">
 
-<div class="card glassblue border-8 border-glass  rounded-lg lg:w-80 sm:w-96 text-neutral-content text-black">
+<div class="card glassblue border-8 border-white shadow  rounded-lg lg:w-80 sm:w-96 text-neutral-content text-black">
   <div class="card-body">
     <h2 class="card-title text-black text-2xl">College Automation using IOT</h2>
     <p class="text-black text-sm">An automation system using ESP32, Wifi, sensors for automatic control of Electric Appliances, Implemented Facial Recognition Attendance system</p>
@@ -130,7 +130,7 @@ return(
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="700">
 
-<div class="card glassblue border-8 border-glass lg:w-80 sm:w-96  rounded-lg text-neutral-content text-black">
+<div class="card glassblue border-8 border-white shadow lg:w-80 sm:w-96  rounded-lg text-neutral-content text-black">
   <div class="card-body">
     <h2 class="card-title text-black text-2xl">Twitter Sentiment Analysis using TextBlob</h2>
     <p class="text-black text-sm">Making a simple and efficient Sentiment analyzer to analyze twitter data for different purposes.</p>

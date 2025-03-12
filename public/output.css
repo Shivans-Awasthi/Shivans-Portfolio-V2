@@ -164,7 +164,6 @@ body {
 /* Image within the card */
 .card img {
   width: 100%; /* Make image fit the card */
-  border-radius: 8px 8px 0 0; /* Rounded top corners */
   transition: filter 0.3s ease; /* Smooth transition for filter effects */
   display: block;
   transform: scale(1.05);
