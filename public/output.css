@@ -136,6 +136,15 @@ body {
   z-index: 10; /* Default z-index */
 }
 
+.glassbluetext {
+
+  background: linear-gradient(270deg, #1e90ff, #000000);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
 .glassgreen {
   background: linear-gradient(35deg, #bc13f939, #ffffffdc);
   backdrop-filter: blur(20px); /* Blur for glass effect */
