@@ -39,7 +39,7 @@ return(
       <div class="badge bg-white text-black rounded">Javascript</div>
       <br/><br/>
     </div>
-    <div class="card-actions justify-end">
+    <div class="card-actions justify-end pt-6">
       
       <button class="btn bg-blue-800 text-white hover:bg-white hover:text-black rounded-lg">You are here</button> 
       <a href="https://github.com/Shivans-Awasthi/Shivans-Portfolio-V2"><button class="btn bg-black text-white hover:bg-white hover:text-black rounded-lg"><ion-icon name="logo-github"></ion-icon>Github</button></a>
@@ -64,7 +64,7 @@ return(
       <div class="badge bg-white text-black rounded">Cloud Deployment</div>
       <br/><br/>
     </div>
-    <div class="card-actions justify-end">
+    <div class="card-actions justify-end pt-6">
       <a href="https://querylinker-web-app-querylinker.koyeb.app/"><button class="btn bg-blue-800 text-white hover:bg-white hover:text-black rounded-lg">Deployment</button></a>
       <a href="https://github.com/Shivans-Awasthi/QueryLinker"><button class="btn bg-black text-white hover:bg-white hover:text-black rounded-lg"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
@@ -88,7 +88,7 @@ return(
       <div class="badge bg-white text-black rounded">Transformers</div>
       <br/><br/>
     </div>
-    <div class="card-actions justify-end">
+    <div class="card-actions justify-end pt-6">
       <a href="https://github.com/Shivans-Awasthi/ChatSummation-Text-Summarization-of-conversational-data-using-google-Pegasus-model"><button class="btn bg-black text-white hover:bg-white hover:text-black rounded-lg"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
@@ -118,7 +118,7 @@ return(
       <div class="badge bg-white text-black rounded">Google API</div>
       <br/><br/>
     </div>
-    <div class="card-actions justify-end">
+    <div class="card-actions justify-end pt-6">
      <a href="https://github.com/Shivans-Awasthi/College-Automation-using-IOT"><button class="btn bg-black text-white hover:bg-white hover:text-black rounded-lg"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>
   </div>
@@ -144,7 +144,7 @@ return(
       <div class="badge bg-white text-black rounded">Matplotlib</div>
       <br/><br/>
     </div>
-    <div class="card-actions justify-end">
+    <div class="card-actions justify-end pt-6">
       
       <a href="https://github.com/Shivans-Awasthi/Twitter-Sentiment-Analysis-using-TextBlob"><button class="btn bg-black text-white hover:bg-white hover:text-black rounded-lg"><ion-icon name="logo-github"></ion-icon>Github</button></a>
     </div>

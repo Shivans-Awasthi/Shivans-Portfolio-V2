@@ -34,7 +34,7 @@ return(
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-black">The Complete 2024 Web Development Bootcamp | <br/> Udemy</h2>
     <p class="text-black">Dr. Angela Yu</p>
-    <div class="card-actions justify-end">
+    <div class="card-actions justify-end pt-6">
       <button class="btn bg-black text-white hover:bg-white hover:text-black rounded-lg" disabled>View Certificate</button>
     </div>
   </div>
@@ -53,7 +53,7 @@ return(
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-black">Data Structures | <br/> Coursera</h2>
     <p class="text-black">University of California San Diego</p>
-    <div class="card-actions justify-end">
+    <div class="card-actions justify-end pt-6">
       <a href="https://coursera.org/share/f9ed8ecee2fd7acf64c4e18be240883c"><button class="btn bg-black text-white hover:bg-white hover:text-black rounded-lg">View Certificate</button></a>
     </div>
   </div>
@@ -71,7 +71,7 @@ return(
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-black">Programming Foundations with JavaScript, HTML and CSS | <br/> Coursera</h2>
     <p class="text-black">Duke University</p>
-    <div class="card-actions justify-end">
+    <div class="card-actions justify-end pt-6">
       <a href="https://coursera.org/share/fcbaec57aaf8e88fe18a1a3ae7722ec5"><button class="btn bg-black text-white hover:bg-white hover:text-black rounded-lg">View Certificate</button></a>
     </div>
   </div>
@@ -92,7 +92,7 @@ return(
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-black">ROS2 Robotics Developer - Using ROS2 In Python | <br/> Udemy</h2>
     <p class="text-black">Raymond Andrade</p>
-    <div class="card-actions justify-end">
+    <div class="card-actions justify-end pt-6">
       <a href="https://www.udemy.com/certificate/UC-0b588aa1-970c-42f5-abbb-b9f4e7687001/"><button class="btn bg-black text-white hover:bg-white hover:text-black rounded-lg">View Certificate</button></a>
     </div>
   </div>

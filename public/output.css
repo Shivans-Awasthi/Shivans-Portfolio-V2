@@ -128,7 +128,7 @@ body {
 }
 
 .glassblue {
-  background: linear-gradient(40deg, #0e9dfc31, #ffffffab);
+  background: linear-gradient(40deg, #0e9dfc31, #b4a1bb98);
   backdrop-filter: blur(20px); /* Blur for glass effect */
   overflow: hidden; /* Ensures child elements are clipped to fit */
   color: black; /* Default text color */

@@ -92,14 +92,14 @@ return(
           <label for="from_name " class="label">
             <span class="label-text  text-black">Name</span>
           </label>
-          <input onChange={handleChange} type="text" name="from_name" id="from_name" placeholder="What should I call you" class=" input input-bordered bg-transparent glass text-black rounded-lg h-10 w-full " required />
+          <input onChange={handleChange} type="text" name="from_name" id="from_name" placeholder="What should I call you" class=" input input-bordered bg-white text-black rounded-lg h-10 w-full " required />
         </div>
 
         <div class="form-control">
           <label for="reply_to" class="label">
             <span class="label-text  text-black">Email</span>
           </label>
-          <input type="email" name="reply_to" id="reply_to" placeholder="Enter your Email" class="input rounded-lg text-black input-bordered bg-transparent glass h-10 w-full " required />
+          <input type="email" name="reply_to" id="reply_to" placeholder="Enter your Email" class="input rounded-lg text-black input-bordered bg-white glass h-10 w-full " required />
 
         </div>
 
@@ -107,7 +107,7 @@ return(
           <label for="message" class="label">
             <span class="label-text  text-black">Message</span>
           </label>          
-          <textarea class="textarea rounded-lg min-h-40 w-full bg-transparent glass text-black " name="message" id="message" placeholder="Let me know your thoughts" required></textarea>
+          <textarea class="textarea rounded-lg min-h-40 w-full bg-white glass text-black " name="message" id="message" placeholder="Let me know your thoughts" required></textarea>
         </div>
 
         <div class="form-control mt-6">
