@@ -89,10 +89,26 @@ html {
 
 
 body {
-  background: url('./leone-venter-VieM9BdZKFo-unsplash.jpg') no-repeat center center fixed ;
+  background-color: whitesmoke;
   position: relative;
   background-size: cover;
 }
+
+.gradbgblue {
+  background: linear-gradient(135deg, hwb(210 36% 0% / 0.362), #ffffff);
+  backdrop-filter: blur(10px);
+}
+
+.gradbgbluepink {
+  background: linear-gradient(135deg, #84c0fc6b, #fe86fc71);
+  backdrop-filter: blur(20px);
+}
+
+.gradbgpurple {
+  background: linear-gradient(135deg, #ffffffa9, #af10f948);
+  backdrop-filter: blur(20px);
+}
+
 
 
 
@@ -102,15 +118,33 @@ body {
 }
 
 
-.glass1 {
-  background: rgba(255, 255, 255, 0.083); /* White with transparency */
+.glasspink {
+  background: linear-gradient(35deg, #84fcb66b, #f9f7f971);
   backdrop-filter: blur(10px); /* Blur for glass effect */
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); /* Subtle shadow */
   overflow: hidden; /* Ensures child elements are clipped to fit */
-  color: #fff; /* Default text color */
+  color: black; /* Default text color */
   position: fixed; /* Position relative for stacking context */
   z-index: 10; /* Default z-index */
 }
+
+.glassblue {
+  background: linear-gradient(40deg, #0e9dfc31, #ffffffab);
+  backdrop-filter: blur(20px); /* Blur for glass effect */
+  overflow: hidden; /* Ensures child elements are clipped to fit */
+  color: black; /* Default text color */
+  position: fixed; /* Position relative for stacking context */
+  z-index: 10; /* Default z-index */
+}
+
+.glassgreen {
+  background: linear-gradient(35deg, #bc13f939, #ffffffdc);
+  backdrop-filter: blur(20px); /* Blur for glass effect */
+  overflow: hidden; /* Ensures child elements are clipped to fit */
+  color: black; /* Default text color */
+  position: fixed; /* Position relative for stacking context */
+  z-index: 10; /* Default z-index */
+}
+
 
 
 /* Container for the card */
@@ -118,7 +152,6 @@ body {
 .card {
   position: fixed;
   overflow: hidden;
-  border-radius: 1px; /* Optional: Rounded corners */
   transition: transform 0.5s ease, box-shadow 0.5s ease, background 0.5s ease; /* Smooth transition */
 
 }
