@@ -28,7 +28,7 @@ return(
 
 
 
-<div class="card glassgreen border-2 border-glass rounded-lg card-compact lg:w-80 sm:w-96 shadow-xl ">
+<div class="card glassgreen border-8 border-glass rounded-lg card-compact lg:w-80 sm:w-96 shadow-xl ">
   <figure><img src="https://img-c.udemycdn.com/course/750x422/1565838_e54e_18.jpg" alt="Web development" /></figure>
   
   <div class="card-body">
@@ -48,7 +48,7 @@ return(
 
 <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="400">
 
-<div class="card glassgreen border-2 border-glass rounded-lg card-compact lg:w-80 sm:w-96 shadow-xl">
+<div class="card glassgreen border-8 border-glass rounded-lg card-compact lg:w-80 sm:w-96 shadow-xl">
   <figure><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~data-structures/XDP~COURSE!~data-structures.jpeg" alt="Data Structures" /></figure>
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-black">Data Structures | <br/> Coursera</h2>
@@ -66,7 +66,7 @@ return(
 <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="500">
 
 
-<div class="card glassgreen border-2 border-glass rounded-lg card-compact lg:w-80 sm:w-96 shadow-xl">
+<div class="card glassgreen border-8 border-glass rounded-lg card-compact lg:w-80 sm:w-96 shadow-xl">
   <figure><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~duke-programming-web/XDP~COURSE!~duke-programming-web.jpeg" alt="Fundamentals" /></figure>
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-black">Programming Foundations with JavaScript, HTML and CSS | <br/> Coursera</h2>
@@ -86,7 +86,7 @@ return(
 
 
 <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="700">
-<div class="card glassgreen border-2 border-glass rounded-lg card-compact lg:w-80 sm:w-96 shadow-xl ">
+<div class="card glassgreen border-8 border-glass rounded-lg card-compact lg:w-80 sm:w-96 shadow-xl ">
   <figure><img src="https://img-c.udemycdn.com/course/750x422/3795420_bad2.jpg" alt="Web development" /></figure>
   
   <div class="card-body">

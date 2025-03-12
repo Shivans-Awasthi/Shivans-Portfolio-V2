@@ -29,7 +29,7 @@ return(
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="200">
 
 <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="300">
-<div class="card glasspink border-2 border-glass rounded-lg card-compact lg:w-80 sm:w-96 00 ">
+<div class="card glasspink border-8 border-glass rounded-lg card-compact lg:w-80 sm:w-96 00 ">
   <figure><img src="https://www.hrkatha.com/wp-content/uploads/indian-flag-2644512_640.jpg" alt="OLQs" /></figure>
   
   <div class="card-body">

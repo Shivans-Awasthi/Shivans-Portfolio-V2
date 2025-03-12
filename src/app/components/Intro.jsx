@@ -16,7 +16,7 @@ return(
 
   <div class="hero-content mt-10 min-w-full z-10 flex-col lg:flex-row md: mt-14">
   <div class="avatar">
-        <div class="max-w-sm rounded-lg">
+        <div class="max-w-sm rounded-lg border-8 border-glass">
           <img src="https://github.com/Shivans-Awasthi/Shivans-Portfolio-Website/blob/main/images/profilepic.jpeg?raw=true" />
         </div>
       </div>
