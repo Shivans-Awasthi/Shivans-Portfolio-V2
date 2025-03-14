@@ -5,7 +5,7 @@ function Navigation(){
 
 return(
 
-<div class="navbar border-b border-gray-100 bg-black fixed z-20 h-1 shadow">
+<div class="navbar bg-black fixed z-20 h-1">
   <div class="navbar-start lg:ps-20">
 
     <div class="drawer">
@@ -55,7 +55,7 @@ return(
 </div>
 <div class="navbar-end lg:pe-20">
 <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
-<a href="#contact"><button class="btn bg-blue-800 text-white hover:bg-black hover:text-white rounded-lg">Contact Me</button></a>
+<a href="#contact"><button class="btn bg-white text-black hover:bg-blue-800 hover:text-white rounded">Contact Me</button></a>
 </div>
 </div>
 

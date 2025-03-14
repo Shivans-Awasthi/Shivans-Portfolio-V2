@@ -9,7 +9,7 @@ return(
 
 <section id="education" >
 
-<div class="hero gradbgbluepink min-h-screen">  
+<div class="hero mb-20 gradbggray min-h-screen">  
 
 <div class="hero-content">
 <div class="text-left w-fit">
@@ -30,7 +30,7 @@ return(
     </div>
     <div class="timeline-start text-end mb-10">
     <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="200"><time class="font-mono italic">2024</time></div>
-    <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="300"><div class="text-blue-800">B.Tech Computer Science and System Engineering</div>
+    <div data-aos="fade-right" data-aos-duration="500" data-aos-delay="300"><div class="text-blue-800 font-bold">B.Tech Computer Science and System Engineering</div>
       Kalinga Institute of Industrial Technology(KIIT),<br/> Bhubaneshwar, Odisha, India
       <p class="text-black text-sm">CGPA: 8.36</p>
     </div>
@@ -44,7 +44,7 @@ return(
     </div>
     <div class="timeline-end mb-10">
     <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="300"><time class="font-mono italic">2019</time></div>
-    <div data-aos="fade-left" data-aos-duration="500" data-aos-delay="300"><h1 class="text-md text-blue-800">Class XII- Higher Secondary Education(CBSE)</h1>
+    <div data-aos="fade-left" data-aos-duration="500" data-aos-delay="300"><h1 class="font-bold text-blue-800">Class XII- Higher Secondary Education(CBSE)</h1>
       Kendriya Vidyalaya No.1,<br/> Mumbai, Maharashtra, India
       <p class="text-black text-sm">Percentage: 85%</p>
     </div>

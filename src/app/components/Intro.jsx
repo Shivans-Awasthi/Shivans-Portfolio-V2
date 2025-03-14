@@ -9,25 +9,25 @@ return(
 <section id="intro">
   
 
-<div class="hero gradbgblue min-h-screen w-full">
+<div class="hero rounded-xl min-h-screen w-full">
 {/* <div class="glowing-sphere"></div> */}
 
 
 
-  <div class="hero-content mt-10 min-w-full z-10 flex-col lg:flex-row md: mt-10">
+  <div class="hero-content rounded-xl gradbgorange py-10 mx-5 mt-10 w-full z-10 flex-col lg:flex-row md: mt-10">
   <div class="avatar">
-        <div class="max-w-sm rounded-lg border-8 border-white">
+        <div class="max-w-lg rounded-xl">
           <img src="https://github.com/Shivans-Awasthi/Shivans-Portfolio-V2/blob/main/public/DSC_0724355.jpg?raw=true" />
         </div>
-      </div>
-    <div class="text-left">
-      <h1 class="text-xl text-black font-bold glassbluetext">Hello there, I am</h1> 
-      <h1 className="text-5xl font-bold text-black glassbluetext">Shivans Awasthi</h1>
-<br/>
+  </div>
+
+    <div class="rounded-xl bg-white p-10 ">
+    
+      <h1 class="text-4xl text-black font-bold">"Hello there, I am</h1> 
+      <h1 className="text-4xl font-bold text-black">Shivans Awasthi."</h1>
 
 
-      
-      <div class="mockup-code my-2 rounded-lg text-black bg-transparent text-left w-full">
+      <div class="mockup-code my-6 rounded-lg bg-white text-black text-left w-full">
       <div data-aos="fade-right" data-aos-duration="1300"  data-aos-delay="1300">
         <pre data-prefix="$" class="text-success"><code>Full Stack Software Engineer</code></pre> 
       </div>
@@ -43,11 +43,10 @@ return(
 
     <br/>
     </div>
-    <div data-aos="zoom-in" data-aos-duration="500"  data-aos-delay="2000">
-      <a href="#contact"><button class="btn my-8 bg-blue-800 text-white hover:bg-white hover:text-black rounded-lg">Contact Me</button></a> <a href="https://drive.google.com/file/d/145bDbNfh3jkwZS-Ha_IvZjPXOgW356HD/view?usp=sharing"><button class="btn bg-black my-8 text-white hover:bg-white hover:text-black rounded-lg">Resume</button></a>
+
+      <a href="#contact"><button class="btn bg-blue-800 text-white hover:bg-white hover:text-black rounded">Contact Me</button></a> <a href="https://drive.google.com/file/d/145bDbNfh3jkwZS-Ha_IvZjPXOgW356HD/view?usp=sharing"><button class="btn bg-black text-white hover:bg-white hover:text-black rounded">Resume</button></a>
     
-    
-    </div>
+  
     
     </div>
     

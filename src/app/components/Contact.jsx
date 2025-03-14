@@ -85,21 +85,21 @@ return(
     
     <div data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200">
     <br/><br/><br/><br/>
-    <div class="card border-8 border-white shadow glassblue rounded-lg w-80 min-w-sm shadow-xl ">
+    <div class="card shadow bg-white rounded-xl w-80 min-w-sm shadow-xl ">
       <form class="card-body" id="contact-form" name="contact-form" onSubmit={sendmail}>
 
         <div class="form-control ">
           <label for="from_name " class="label">
             <span class="label-text  text-black">Name</span>
           </label>
-          <input onChange={handleChange} type="text" name="from_name" id="from_name" placeholder="What should I call you" class=" input input-bordered bg-white text-black rounded-lg h-10 w-full " required />
+          <input onChange={handleChange} type="text" name="from_name" id="from_name" placeholder="What should I call you" class=" input input-bordered bg-white text-black rounded-full h-10 w-full " required />
         </div>
 
         <div class="form-control">
           <label for="reply_to" class="label">
             <span class="label-text  text-black">Email</span>
           </label>
-          <input type="email" name="reply_to" id="reply_to" placeholder="Enter your Email" class="input rounded-lg text-black input-bordered bg-white glass h-10 w-full " required />
+          <input type="email" name="reply_to" id="reply_to" placeholder="Enter your Email" class="input rounded-full text-black input-bordered border border-info bg-white glass h-10 w-full " required />
 
         </div>
 
@@ -107,11 +107,11 @@ return(
           <label for="message" class="label">
             <span class="label-text  text-black">Message</span>
           </label>          
-          <textarea class="textarea rounded-lg min-h-40 w-full bg-white glass text-black " name="message" id="message" placeholder="Let me know your thoughts" required></textarea>
+          <textarea class="textarea rounded-xl min-h-40 w-full bg-white glass text-black " name="message" id="message" placeholder="Let me know your thoughts" required></textarea>
         </div>
 
         <div class="form-control mt-6">
-          <button class="btn bg-blue-800 text-white hover:bg-white hover:text-black rounded-lg" type="submit">Send Email</button>
+          <button class="btn bg-blue-800 text-white hover:bg-white hover:text-black rounded" type="submit">Send Email</button>
         </div>
       </form>
     </div>

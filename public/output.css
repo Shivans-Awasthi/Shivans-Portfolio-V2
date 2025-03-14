@@ -61,9 +61,9 @@ html,
 
 
 body {
-    font-family: "Noto Sans";
+    font-family: "Space Grotesk";
     font-optical-sizing: auto;
-    font-weight: 400;
+    font-weight: 600;
     font-style: normal;
 
 }
@@ -95,17 +95,17 @@ body {
 }
 
 .gradbgblue {
-  background: linear-gradient(135deg, hwb(0 24% 76% / 0.362), #ffffff);
+  background: linear-gradient(90deg, hwb(207 57% 16%), #ffffff);
   backdrop-filter: blur(10px);
 }
 
-.gradbgbluepink {
-  background: linear-gradient(135deg, #5153556b, #514b5171);
+.gradbggray {
+  background: rgb(232, 232, 232) ;
   backdrop-filter: blur(20px);
 }
 
-.gradbgpurple {
-  background: linear-gradient(135deg, #7d7070a9, #5b535e48);
+.gradbgorange {
+  background: rgb(247, 230, 198) ;
   backdrop-filter: blur(20px);
 }
 
@@ -118,8 +118,8 @@ body {
 }
 
 
-.glasspink {
-  background: linear-gradient(35deg, #5e69636b, #f9f7f971);
+.glassgray {
+  background: rgb(221, 221, 221) ;
   backdrop-filter: blur(10px); /* Blur for glass effect */
   overflow: hidden; /* Ensures child elements are clipped to fit */
   color: black; /* Default text color */
@@ -128,7 +128,7 @@ body {
 }
 
 .glassblue {
-  background: linear-gradient(40deg, #4f525431, #544f5698);
+  background: #cee8ee ;
   backdrop-filter: blur(20px); /* Blur for glass effect */
   overflow: hidden; /* Ensures child elements are clipped to fit */
   color: black; /* Default text color */
@@ -145,8 +145,8 @@ body {
   font-weight: bold;
 }
 
-.glassgreen {
-  background: linear-gradient(35deg, #59515b39, #ffffffdc);
+.glassbrown {
+  background: rgb(247, 194, 165) ;
   backdrop-filter: blur(20px); /* Blur for glass effect */
   overflow: hidden; /* Ensures child elements are clipped to fit */
   color: black; /* Default text color */

@@ -13,7 +13,7 @@ return(
 
 
 
-<div class="hero min-h-screen w-full">
+<div class="hero mb-20 min-h-screen w-full">
 
 
 <div class="hero-content">
@@ -27,7 +27,7 @@ return(
 </div>
 <br/><br/>
 
-  <table class="table text-black text-left">
+  <table class="table rounded-xl p-10 text-black text-left">
   
     <thead>
    
@@ -43,14 +43,14 @@ return(
       <tr> 
         <td>C++</td>
         <td>
-          <progress class="progress progress-secondary rounded bg-white w-full" value="80" max="100"></progress>
+          <progress class="progress progress-success rounded bg-white w-full" value="80" max="100"></progress>
         </td>     
       </tr>
 
       <tr> 
         <td>C#</td>
         <td>
-          <progress class="progress progress-secondary rounded bg-white w-full" value="80" max="100"></progress>
+          <progress class="progress progress-success rounded bg-white w-full" value="80" max="100"></progress>
         </td>     
       </tr>
    
@@ -58,20 +58,20 @@ return(
       
         <td>Python</td>
         <td>
-          <progress class="progress progress-secondary bg-white rounded w-full" value="60" max="100"></progress></td>
+          <progress class="progress progress-success bg-white rounded w-full" value="60" max="100"></progress></td>
       </tr>
 
       <tr>
         <td>React JS</td>
         <td>
-          <progress class="progress progress-secondary rounded bg-white w-full" value="80" max="100"></progress></td>
+          <progress class="progress progress-success rounded bg-white w-full" value="80" max="100"></progress></td>
       </tr>
 
       <tr>
       
         <td>Node JS</td>
         <td>
-          <progress class="progress progress-secondary rounded bg-white w-full" value="70" max="100"></progress></td>
+          <progress class="progress progress-success rounded bg-white w-full" value="70" max="100"></progress></td>
       </tr>
 
       <tr>
@@ -79,14 +79,14 @@ return(
         <td>Express JS</td>
 
         <td>
-          <progress class="progress progress-secondary rounded bg-white w-full" value="70" max="100"></progress></td>
+          <progress class="progress progress-success rounded bg-white w-full" value="70" max="100"></progress></td>
       </tr>
       <tr>
       
         <td>Flask</td>
 
         <td>
-          <progress class="progress progress-secondary rounded bg-white w-full" value="70" max="100"></progress></td>
+          <progress class="progress progress-success rounded bg-white w-full" value="70" max="100"></progress></td>
       </tr>
 
       <tr>
@@ -94,7 +94,7 @@ return(
         <td>PostgreSQL | MySQL</td>
 
         <td>
-          <progress class="progress progress-secondary rounded bg-white w-full" value="75" max="100"></progress></td>
+          <progress class="progress progress-success rounded bg-white w-full" value="75" max="100"></progress></td>
       </tr>
 
       <tr>
@@ -102,37 +102,37 @@ return(
         <td>Bootstrap | Tailwind CSS</td>
       
         <td>
-          <progress class="progress progress-secondary rounded bg-white w-full" value="70" max="100"></progress></td>
+          <progress class="progress progress-success rounded bg-white w-full" value="70" max="100"></progress></td>
       </tr>
 
       <tr>
       <td>.Net Framework</td>
       <td>
-        <progress class="progress progress-secondary rounded bg-white w-full" value="60" max="100"></progress></td>
+        <progress class="progress progress-success rounded bg-white w-full" value="60" max="100"></progress></td>
       </tr>
 
       <tr>
       <td>ASP.NET Core</td>
       <td>
-        <progress class="progress progress-secondary rounded bg-white w-full" value="60" max="100"></progress></td>
+        <progress class="progress progress-success rounded bg-white w-full" value="60" max="100"></progress></td>
       </tr>
 
       <tr>
       <td>Entity Framework Core</td>
       <td>
-        <progress class="progress progress-secondary rounded bg-white w-full" value="60" max="100"></progress></td>
+        <progress class="progress progress-success rounded bg-white w-full" value="60" max="100"></progress></td>
       </tr>
 
       <tr>
       <td>Machine Learning & AI</td>
       <td>
-        <progress class="progress progress-secondary rounded bg-white w-full" value="80" max="100"></progress></td>
+        <progress class="progress progress-success rounded bg-white w-full" value="80" max="100"></progress></td>
       </tr>
 
       <tr>
       <td>AWS & Microsoft Azure</td>
       <td>
-        <progress class="progress progress-secondary rounded bg-white w-full" value="50" max="100"></progress></td>
+        <progress class="progress progress-success rounded bg-white w-full" value="50" max="100"></progress></td>
       </tr>
 
 
