@@ -5,19 +5,19 @@ function Navigation(){
 
 return(
 
-<div class="navbar border-b border-gray-100 bg-white fixed z-20 h-1 shadow">
+<div class="navbar border-b border-gray-100 bg-black fixed z-20 h-1 shadow">
   <div class="navbar-start lg:ps-20">
 
     <div class="drawer">
     <input id="my-drawer" type="checkbox" class="drawer-toggle" />
     <div class="drawer-content">
       <label for="my-drawer" class="btn btn-ghost drawer-button lg:hidden">
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="black"><path stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="white"><path stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
       </label>
       </div>
       <div class="drawer-side">
       <label for="my-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
-      <ul class="menu bg-white menu-lg p-10 text-black rounded-e-lg shadow h-full">
+      <ul class="menu bg-black menu-lg p-10 text-white rounded-e-lg shadow h-full">
         <li><a href="#intro">Intro</a></li>
         <li><a href="#skills">Skills</a></li>
         <li><a href="#education">Education</a></li>
@@ -29,11 +29,11 @@ return(
       </div>
     </div>
 
-    <p class="text-lg text-black font-bold ">Shivans</p>
-    <p class="text-lg px-1 text-black font-bold ">Awasthi</p>
+    <p class="text-lg text-white font-bold ">Shivans</p>
+    <p class="text-lg px-1 text-white font-bold ">Awasthi</p>
 
 
-    <div class="navbar-center hidden lg:flex text-black text-center ">
+    <div class="navbar-center hidden lg:flex text-white text-center ">
       
     <ul class="menu menu-horizontal">
     <li><a href="#intro">Intro</a></li>
@@ -55,7 +55,7 @@ return(
 </div>
 <div class="navbar-end lg:pe-20">
 <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
-<a href="#contact"><button class="btn bg-blue-800 text-white hover:bg-white hover:text-black rounded-lg">Contact Me</button></a>
+<a href="#contact"><button class="btn bg-blue-800 text-white hover:bg-black hover:text-white rounded-lg">Contact Me</button></a>
 </div>
 </div>
 
