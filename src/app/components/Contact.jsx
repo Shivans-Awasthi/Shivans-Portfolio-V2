@@ -45,7 +45,7 @@ return(
     </div>
   </div>
         <div class="chat-bubble chat-start rounded-xl chat-bubble-success px-1 pt-2 text-white text-left w-fit">
-          <p class="text-1xl" >Hello { Name } </p>
+          <p class="text-1xl px-2" >Hello { Name } </p>
         </div>
         </div>
       </div>
@@ -59,7 +59,7 @@ return(
     </div>
   </div>
         <div class="chat-bubble chat-bubble-success rounded-xl text-white px-1 pt-2 text-left w-fit">
-      <p class="text-1xl text-bold">Thanks for connecting!</p>
+      <p class="text-1xl px-2">Thanks for connecting!</p>
       </div>
       </div>
       </div>
@@ -73,7 +73,7 @@ return(
     </div>
   </div>
       <div class="chat chat-bubble chat-bubble-success rounded-xl px-1 pt-2 text-white text-left w-fit">
-      <p class="text-1xl text-bold">I Recieved Your message, will reach out to you soon.</p>
+      <p class="text-1xl px-2">I Recieved Your message, will reach out to you soon.</p>
       </div>
       </div>
       </div>
