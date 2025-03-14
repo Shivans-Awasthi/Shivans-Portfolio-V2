@@ -20,7 +20,7 @@ return(
 <div class="text-center ">
 <br/><br/><br/><br/>
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="50">
-<h1 class="text-5xl text-black myname text-center" >Skills</h1>
+<h1 class="text-5xl text-black font-bold text-center" >Skills</h1>
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
 <h1 class=" text-black text-center py-6">I have diverse range of skills that can help you with any of your innovative projects.</h1>
 </div>

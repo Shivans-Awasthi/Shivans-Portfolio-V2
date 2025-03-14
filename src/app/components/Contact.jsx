@@ -28,7 +28,7 @@ return(
       
     <div data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200">
 
-      <h1 class="text-5xl font-bold myname text-left text-black">Contact Me!</h1>
+      <h1 class="text-5xl font-bold text-left text-black">Contact Me!</h1>
 
       <p class="text-left test-sm text-black py-6">Lets get connected, and start our next project with enthusiasm and a positive mindset.<br/> Contact me here, or reach out to me on my socials below!</p>
       

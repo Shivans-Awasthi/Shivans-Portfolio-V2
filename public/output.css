@@ -61,7 +61,8 @@ html,
 
 
 body {
-    font-family: "Noto Sans";
+    /* font-family: "Noto Sans"; */
+    font-family: "Source Code Pro";
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;

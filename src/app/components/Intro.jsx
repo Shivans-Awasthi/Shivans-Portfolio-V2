@@ -22,7 +22,7 @@ return(
       </div>
     <div class="text-left">
       <h1 class="text-xl text-black font-bold glassbluetext">Hello there, I am</h1> 
-      <h1 className="text-5xl font-extrabold text-black glassbluetext">Shivans Awasthi</h1>
+      <h1 className="text-5xl font-bold text-black glassbluetext">Shivans Awasthi</h1>
 <br/>
 
 

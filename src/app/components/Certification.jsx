@@ -17,7 +17,7 @@ return(
     <div class="w-fit ">
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
 
-    <h1 class="text-5xl font-bold myname text-center text-black">Certificates</h1>
+    <h1 class="text-5xl font-bold text-center text-black">Certificates</h1>
     <h1 class=" text-center text-black py-6">Certified Proficiencies that Validate My Expertise and Capabilities.</h1>
     </div>
 <br/><br/>
