@@ -128,7 +128,7 @@ body {
 }
 
 .glassblue {
-  background: #cee8ee ;
+  background: #d3ebf0 ;
   backdrop-filter: blur(20px); /* Blur for glass effect */
   overflow: hidden; /* Ensures child elements are clipped to fit */
   color: black; /* Default text color */

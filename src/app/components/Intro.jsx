@@ -23,7 +23,7 @@ return(
 
     <div class="rounded-xl p-3 lg:p-10 bg-white">
     
-      <h1 class="text-4xl text-black font-bold"><q>Hello there,I am<br/>Shivans Awasthi.</q></h1> 
+      <h1 class="text-5xl text-black font-bold"><q>Hello there,I am<br/>Shivans Awasthi.</q></h1> 
 
 
 
