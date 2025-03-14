@@ -9,22 +9,22 @@ return(
 <section id="intro">
   
 
-<div class="hero rounded-xl min-h-screen w-full">
+<div class="hero gradbgorange py-10 min-h-screen w-full">
 {/* <div class="glowing-sphere"></div> */}
 
 
 
-  <div class="hero-content rounded-xl gradbgorange py-10 mx-5 mt-10 w-full z-10 flex-col lg:flex-row md: mt-10">
+  <div class="hero-content mt-10 w-full z-10 flex-col lg:flex-row md: mt-10">
   <div class="avatar">
-        <div class="max-w-lg rounded-xl">
+        <div class="max-w-sm rounded-xl">
           <img src="https://github.com/Shivans-Awasthi/Shivans-Portfolio-V2/blob/main/public/DSC_0724355.jpg?raw=true" />
         </div>
   </div>
 
-    <div class="rounded-xl bg-white p-10 ">
+    <div class="rounded-xl p-3 lg:p-10 bg-white">
     
-      <h1 class="text-4xl text-black font-bold">"Hello there, I am</h1> 
-      <h1 className="text-4xl font-bold text-black">Shivans Awasthi."</h1>
+      <h1 class="text-4xl text-black font-bold">Hello there, I am</h1> 
+      <h1 className="text-4xl font-bold text-black">Shivans Awasthi.</h1>
 
 
       <div class="mockup-code my-6 rounded-lg bg-white text-black text-left w-full">
