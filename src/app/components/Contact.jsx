@@ -34,7 +34,7 @@ return(
       
       <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=contact@shivansawasthi.info" target="_blank" rel="nofollow noopener"><h1 class="text-md text-black m-2 text-left text-sm">contact@shivansawasthi.info</h1></a>
 
-      <br/><br/>
+      <br/>
       
       <div data-aos="fade-down" data-aos-duration="500" data-aos-delay="1000">
       <div class="chat chat-start text-left">
@@ -84,7 +84,7 @@ return(
 
     
     <div data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200">
-    <br/><br/><br/><br/>
+    <br/>
     <div class="card shadow bg-white rounded-xl w-80 min-w-sm shadow-xl ">
       <form class="card-body" id="contact-form" name="contact-form" onSubmit={sendmail}>
 
