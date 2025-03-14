@@ -23,8 +23,8 @@ return(
 
     <div class="rounded-xl p-3 lg:p-10 bg-white">
     
-      <h1 class="text-4xl text-black font-bold">Hello there, I am</h1> 
-      <h1 className="text-4xl font-bold text-black">Shivans Awasthi.</h1>
+      <h1 class="text-4xl text-black font-bold"><q>Hello there, I am Shivans Awasthi.</q></h1> 
+
 
 
       <div class="mockup-code my-6 rounded-lg bg-white text-black text-left w-full">
