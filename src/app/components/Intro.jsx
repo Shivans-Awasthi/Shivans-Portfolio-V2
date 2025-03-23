@@ -9,25 +9,25 @@ return(
 <section id="intro">
   
 
-<div class="hero gradbgorange py-10 min-h-screen w-full">
+<div class="hero bg-base-100 py-10 min-h-screen w-full">
 {/* <div class="glowing-sphere"></div> */}
 
 
 
   <div class="hero-content mt-10 w-full z-10 flex-col lg:flex-row md: mt-10">
   <div class="avatar">
-        <div class="max-w-sm rounded-xl">
+        <div class="max-w-sm ring-primary ring-offset-base-100 rounded-full ring ring-offset-2 ">
           <img src="https://github.com/Shivans-Awasthi/Shivans-Portfolio-V2/blob/main/public/DSC_0724355.jpg?raw=true" />
         </div>
   </div>
 
-    <div class="rounded-xl p-5 lg:p-10 bg-white">
+    <div class="rounded-xl p-5 lg:p-10 bg-base-100">
     
-      <h1 class="text-4xl text-black font-bold"><q>Hello there,I am<br/>Shivans Awasthi.</q></h1> 
+      <h1 class="text-4xl text-white font-bold"><q>Hello there,I am<br/>Shivans Awasthi.</q></h1> 
 
 
 
-      <div class="mockup-code my-6 rounded-lg bg-white text-black text-left w-full">
+      <div class="mockup-code my-6 rounded-lg bg-base-100 text-white text-left w-full">
       <div data-aos="fade-right" data-aos-duration="1300"  data-aos-delay="1300">
         <pre data-prefix="$" class="text-success"><code>Full Stack Software Engineer</code></pre> 
       </div>
@@ -44,7 +44,7 @@ return(
     <br/>
     </div>
 
-      <a href="#contact"><button class="btn bg-blue-800 text-white hover:bg-white hover:text-black rounded">Contact Me</button></a> <a href="https://drive.google.com/file/d/145bDbNfh3jkwZS-Ha_IvZjPXOgW356HD/view?usp=sharing"><button class="btn bg-black text-white hover:bg-white hover:text-black rounded">Resume</button></a>
+      <a href="#contact"><button class="btn btn-primary text-white">Contact Me</button></a> <a href="https://drive.google.com/file/d/145bDbNfh3jkwZS-Ha_IvZjPXOgW356HD/view?usp=sharing"><button class="btn btn-secondary text-white">Resume</button></a>
     
   
     

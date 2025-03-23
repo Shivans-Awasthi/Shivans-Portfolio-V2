@@ -5,7 +5,7 @@ function Navigation(){
 
 return(
 
-<div class="navbar bg-black fixed z-20 h-1">
+<div class="navbar bg-base-100 fixed z-20 h-1">
   <div class="navbar-start lg:ps-20">
 
     <div class="drawer">
@@ -17,7 +17,7 @@ return(
       </div>
       <div class="drawer-side">
       <label for="my-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
-      <ul class="menu bg-black menu-lg p-10 text-white rounded-e-lg shadow h-full">
+      <ul class="menu bg-base-100 menu-lg p-10 text-white rounded-e-lg shadow h-full">
         <li><a href="#intro">Intro</a></li>
         <li><a href="#skills">Skills</a></li>
         <li><a href="#education">Education</a></li>
@@ -55,7 +55,7 @@ return(
 </div>
 <div class="navbar-end lg:pe-20">
 <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
-<a href="#contact"><button class="btn bg-white text-black hover:bg-blue-800 hover:text-white rounded">Contact Me</button></a>
+<a href="#contact"><button class="btn text-white btn-primary">Contact Me</button></a>
 </div>
 </div>
 
