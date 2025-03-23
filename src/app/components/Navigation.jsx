@@ -5,7 +5,7 @@ function Navigation(){
 
 return(
 
-<div class="navbar bg-base-100 fixed z-20 h-1">
+<div class="navbar bg-base-100 fixed z-20 h-1 shadow">
   <div class="navbar-start lg:ps-20">
 
     <div class="drawer">

@@ -6,7 +6,7 @@ export default function RootLayout({ children }) {
     return (
 <html lang="en">
 <Head>
-        <link rel="stylesheet" href="/output.css" />
+        <link rel="stylesheet" href="/styles.css" />
         <script src="/contact.js"></script>
 </Head>
 <head>

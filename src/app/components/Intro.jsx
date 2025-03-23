@@ -27,7 +27,7 @@ return(
 
 
 
-      <div class="mockup-code my-6 rounded-lg bg-base-100 text-white text-left w-full">
+      <div class="mockup-code my-6 bg-neutral text-white text-left w-full">
       <div data-aos="fade-right" data-aos-duration="1300"  data-aos-delay="1300">
         <pre data-prefix="$" class="text-success"><code>Full Stack Software Engineer</code></pre> 
       </div>
