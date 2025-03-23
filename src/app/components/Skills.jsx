@@ -19,9 +19,9 @@ return(
 <div class="hero-content">
 <div class="text-center ">
 <br/><br/><br/><br/>
-<div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="50">
+<div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="50">
 <h1 class="text-5xl text-white font-bold text-center" >Skills</h1>
-<div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
+<div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="100">
 <h1 class=" text-white text-center py-6">I have diverse range of skills that can help you with any of your innovative projects.</h1>
 </div>
 </div>
@@ -30,27 +30,30 @@ return(
   <table class="table rounded-xl p-10 text-white text-left">
   
     <thead>
-   
       <tr>
         <th>Technology</th>
         <th>Proficency</th>
       </tr>
-      
     </thead>
 
     <tbody>
 
       <tr> 
-        <td>C++</td>
+      
+        <td><div data-aos="fade-right" data-aos-duration="1000" data-aos-delay="150">C++</div></td>
         <td>
+        <div data-aos="fade-left" data-aos-duration="1000" data-aos-delay="150">
           <progress class="progress progress-success rounded bg-white w-full" value="80" max="100"></progress>
+        </div>
         </td>     
       </tr>
 
       <tr> 
-        <td>C#</td>
+        <td><div data-aos="fade-right" data-aos-duration="1200" data-aos-delay="300">C#</div></td>
         <td>
+        <div data-aos="fade-left" data-aos-duration="1200" data-aos-delay="300">
           <progress class="progress progress-success rounded bg-white w-full" value="80" max="100"></progress>
+        </div>
         </td>     
       </tr>
    
