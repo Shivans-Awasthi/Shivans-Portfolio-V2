@@ -9,7 +9,7 @@ return(
 <section id="intro">
   
 
-<div class="hero bg-base-100 py-10 min-h-screen w-full">
+<div class="hero bg-zinc-800 py-10 min-h-screen w-full">
 
 
 
@@ -22,9 +22,9 @@ return(
   </div>
 </div>
 <div data-aos="fade-down" data-aos-duration="1000"  data-aos-delay="1000">
-    <div class="rounded-xl p-5 lg:p-10 bg-base-100">
+    <div class="rounded-xl p-5 lg:p-10 bg-zinc-800">
     <div data-aos="fade-down" data-aos-duration="1000"  data-aos-delay="1100">
-      <h1 class="text-4xl text-white font-bold"><q>👋Hello there,I am<br/>Shivans Awasthi.</q></h1> 
+      <h1 class="text-4xl text-white font-bold">👋<q>Hello there,I am<br/>Shivans Awasthi.</q></h1> 
     </div>
 
 

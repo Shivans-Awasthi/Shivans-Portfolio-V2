@@ -160,28 +160,27 @@ body {
 .card {
   position: fixed;
   overflow: hidden;
-  transition: transform 0.5s ease, box-shadow 0.5s ease ; /* Smooth transition */
-
+  transition: transform 0.5s ease, box-shadow 0.5s ease, border 0.3s ease; /* Smooth transition */
+  border: 2px solid transparent; /* Initial transparent border */
 }
 
-/* Add gradient background on hover */
+/* Add gradient background and border on hover */
 .card:hover {
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.355);; /* Deeper shadow on hover */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.355); /* Deeper shadow on hover */
+  border: 2px solid #616161; /* Cyan border on hover */
 }
 
 /* Image within the card */
 .card img {
   width: 100%; /* Make image fit the card */
-  transition: filter 0.3s ease; /* Smooth transition for filter effects */
+  transition: filter 0.3s ease, transform 0.3s ease; /* Smooth transition for filter effects */
   display: block;
   transform: scale(1.05);
-  /* filter: grayscale(100%); */
 }
 
 /* Zoom effect on image inside the card */
 .card:hover img {
-  /* Zoom effect on image */
-  /* filter: none; */
+  /* Keep image zoom on hover */
 }
 
 /* Optional: Adding some padding and a nice background color for content */
@@ -190,6 +189,7 @@ body {
   position: fixed;
   z-index: 1; /* Ensure content is above the gradient */
 }
+
 
 
 hr {

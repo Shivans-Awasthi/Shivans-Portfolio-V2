@@ -12,7 +12,7 @@ return(
 
 <section id="certificates">
 
-<div class="hero bg-base-100  py-36 min-h-screen w-full ">
+<div class="hero bg-zinc-800  py-36 min-h-screen w-full ">
   <div class="hero-content w-full">
     <div class="w-fit ">
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
@@ -28,7 +28,7 @@ return(
 
 
 
-<div class="card bg-neutral shadow rounded-lg card-compact lg:w-96 sm:w-96  ">
+<div class="card bg-neutral shadow rounded-lg card-compact lg:lg:w-80 sm:w-96 sm:lg:w-80 sm:w-96  ">
   <figure><img src="https://img-c.udemycdn.com/course/750x422/1565838_e54e_18.jpg" alt="Web development" /></figure>
   
   <div class="card-body">
@@ -48,7 +48,7 @@ return(
 
 <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="400">
 
-<div class="card bg-neutral  shadow rounded-lg card-compact w-96 ">
+<div class="card bg-neutral  shadow rounded-lg card-compact lg:w-80 sm:w-96 ">
   <figure><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~data-structures/XDP~COURSE!~data-structures.jpeg" alt="Data Structures" /></figure>
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-white">Data Structures | <br/> Coursera</h2>
@@ -66,7 +66,7 @@ return(
 <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="500">
 
 
-<div class="card bg-neutral  shadow rounded-lg card-compact w-96 ">
+<div class="card bg-neutral  shadow rounded-lg card-compact lg:w-80 sm:w-96 ">
   <figure><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~duke-programming-web/XDP~COURSE!~duke-programming-web.jpeg" alt="Fundamentals" /></figure>
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-white">Programming Foundations with JavaScript, HTML and CSS | <br/> Coursera</h2>
@@ -86,7 +86,7 @@ return(
 
 
 <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="700">
-<div class="card bg-neutral  shadow rounded-lg card-compact w-96  ">
+<div class="card bg-neutral  shadow rounded-lg card-compact lg:w-80 sm:w-96  ">
   <figure><img src="https://img-c.udemycdn.com/course/750x422/3795420_bad2.jpg" alt="Web development" /></figure>
   
   <div class="card-body">

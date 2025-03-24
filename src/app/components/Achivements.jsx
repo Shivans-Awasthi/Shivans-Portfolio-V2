@@ -13,7 +13,7 @@ return(
 
 <section id="achievements">
 
-<div class="hero bg-base-100  py-36 min-h-screen w-full ">
+<div class="hero bg-zinc-800  py-36 min-h-screen w-full ">
   <div class="hero-content w-full">
     <div class="w-fit ">
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
@@ -27,7 +27,7 @@ return(
 
 <div class="flex md:flex-col flex-col lg:flex-row w-full ">
 
-<div class="card bg-neutral shadow rounded-lg card-compact h-fit w-96  ">
+<div class="card bg-neutral shadow rounded-lg card-compact h-fit lg:w-80 sm:lg:w-80 sm:w-96  ">
 <figure><img class="w-5/6 h-fit" src="https://www.adityaranjan.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Froboproj2.98111cbf.jpg&w=1200&q=75" alt="arm" /></figure>
 
   <div class="card-body">
@@ -50,7 +50,7 @@ return(
 
 <div class="p-3"></div>
 
-<div class="card bg-neutral shadow rounded-lg card-compact h-fit w-96  ">
+<div class="card bg-neutral shadow rounded-lg card-compact h-fit lg:w-80 sm:lg:w-80 sm:w-96  ">
 <div class="carousel carousel-center bg-neutral space-x-5 w-full h-fit">
     
     <div class="carousel-item w-5/6 h-fit">
@@ -80,7 +80,7 @@ return(
 <div class="p-3"></div>
 
 
-<div class="card bg-neutral shadow rounded-lg card-compact h-fit w-96  ">
+<div class="card bg-neutral shadow rounded-lg card-compact h-fit lg:w-80 sm:w-96  ">
 <figure><img class="w-5/6 h-fit" src="https://media.licdn.com/dms/image/v2/D562DAQF2ggFFEDExTQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1705512629096?e=1743411600&v=beta&t=R9I-TTcmGoet4a0a5qsWiaHY7phBG1-HiikkwMdE9Nc" alt="arm" /></figure>
 
   <div class="card-body">
@@ -106,7 +106,7 @@ return(
 <div class="flex md:flex-col flex-col lg:flex-row w-full ">
 
 
-<div class="card bg-neutral shadow rounded-lg card-compact h-fit w-96  ">
+<div class="card bg-neutral shadow rounded-lg card-compact h-fit lg:w-80 sm:w-96  ">
 <figure><img class="w-5/6 h-fit" src="https://media.licdn.com/dms/image/v2/C5622AQGLHtcKlHJCcA/feedshare-shrink_800/feedshare-shrink_800/0/1676215666868?e=1745452800&v=beta&t=ITzS_VAjn0sj2OHn7kck737k-Wd2FAyMBAMA1xN94N0" alt="konquest" /></figure>
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-white">Event Coordinator</h2>

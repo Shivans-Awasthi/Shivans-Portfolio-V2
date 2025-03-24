@@ -20,7 +20,7 @@ return(
 
 <section id="contact">
  
-<div class="hero bg-base-100 min-h-screen ">
+<div class="hero bg-zinc-800 min-h-screen ">
 
   <div class="hero-content py-10 flex-col lg:flex-row-reverse w-full">
     

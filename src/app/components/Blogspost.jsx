@@ -12,7 +12,7 @@ return(
 <section id="blogs">
 
 
-<div class="hero bg-base-100 min-h-screen w-full">
+<div class="hero bg-zinc-800 min-h-screen w-full">
   <div class="hero-content">
     <div class="min-h-screen w-fit ">
     <br/><br/><br/><br/>
@@ -29,7 +29,7 @@ return(
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="200">
 
 <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="300">
-<div class="card bg-neutral shadow rounded-lg card-compact lg:w-80 sm:w-96 00 ">
+<div class="card bg-neutral shadow rounded-lg card-compact lg:w-80 sm:w-96 ">
   <figure><img src="https://www.hrkatha.com/wp-content/uploads/indian-flag-2644512_640.jpg" alt="OLQs" /></figure>
   
   <div class="card-body">

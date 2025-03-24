@@ -13,7 +13,7 @@ return(
 
 
 
-<div class="hero bg-base-100 min-h-screen w-full">
+<div class="hero bg-zinc-800 min-h-screen w-full">
 
 
 <div class="hero-content">

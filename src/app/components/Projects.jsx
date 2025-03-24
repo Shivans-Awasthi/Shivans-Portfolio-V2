@@ -11,7 +11,7 @@ return(
 
 <section id="projects">
 
-<div class="hero bg-base-100 min-h-screen">
+<div class="hero bg-zinc-800 min-h-screen">
   <div class="hero-content">
     <div class="w-fit">
     <br/><br/><br/><br/>
@@ -26,7 +26,7 @@ return(
 <div class="flex md:flex-col flex-col lg:flex-row">
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="200">
-<div class="card bg-neutral shadow w-96 rounded-lg  text-neutral-content text-white">
+<div class="card bg-neutral shadow lg:w-80 sm:w-96 rounded-lg  text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent text-2xl"><ion-icon name="pricetag"></ion-icon> Portfolio Website</h2>
     <p class="text-white text-sm">My Personal Website that showcases my skills and projects</p><br/>
@@ -50,7 +50,7 @@ return(
 <div class=" p-3"></div>
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="300">
-<div class="card bg-neutral  rounded-lg shadow w-96 text-neutral-content text-white">
+<div class="card bg-neutral  rounded-lg shadow lg:w-80 sm:w-96 text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent text-2xl"><ion-icon name="pricetag"></ion-icon> QueryLinker</h2>
     <p class="text-white text-sm">An intelligent search engine aimed at providing efficient and relevant search results to users within a perticular domain.</p><br/>
@@ -77,7 +77,7 @@ return(
 
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="400">
-<div class="card bg-neutral rounded-lg  shadow w-96  text-neutral-content text-white">
+<div class="card bg-neutral rounded-lg  shadow lg:w-80 sm:w-96  text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent text-2xl"><ion-icon name="pricetag"></ion-icon> ChatSummation</h2>
     <p class="text-white text-sm">A tool to summerize conversational data using google pagasus model trained on SamSum dataset</p><br/>
@@ -106,7 +106,7 @@ return(
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="600">
 
-<div class="card bg-neutral rounded-lg  shadow  w-96 text-neutral-content text-white">
+<div class="card bg-neutral rounded-lg  shadow  lg:w-80 sm:w-96 text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent text-2xl"><ion-icon name="pricetag"></ion-icon> College Automation using IOT</h2>
     <p class="text-white text-sm">An automation system using ESP32, Wifi, sensors for automatic control of Electric Appliances, Implemented Facial Recognition Attendance system</p>
@@ -130,7 +130,7 @@ return(
 
 <div data-aos="zoom-in" data-aos-duration="500" data-aos-delay="700">
 
-<div class="card bg-neutral rounded-lg shadow w-96  text-neutral-content text-white">
+<div class="card bg-neutral rounded-lg shadow lg:w-80 sm:w-96  text-neutral-content text-white">
   <div class="card-body">
     <h2 class="card-title text-accent text-2xl"><ion-icon name="pricetag"></ion-icon> Twitter Sentiment Analysis using TextBlob</h2>
     <p class="text-white text-sm">Making a simple and efficient Sentiment analyzer to analyze twitter data for different purposes.</p>

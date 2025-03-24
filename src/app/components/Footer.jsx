@@ -8,7 +8,7 @@ return(
  
 
 
-<footer class="footer p-10 bg-base-100 w-full  text-white">
+<footer class="footer p-10 bg-zinc-800 w-full  text-white">
   <nav>
     <h6 class="footer-title">Services</h6> 
     <a class="link link-hover">Web Design</a>

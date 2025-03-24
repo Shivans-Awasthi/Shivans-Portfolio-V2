@@ -9,7 +9,7 @@ return(
 
 <section id="education" >
 
-<div class="hero bg-base-100  min-h-screen">  
+<div class="hero bg-zinc-800  min-h-screen">  
 
 <div class="hero-content">
 <div class="text-left w-fit">
