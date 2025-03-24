@@ -27,6 +27,10 @@ return(
       <h1 class="text-4xl text-white font-bold">👋<q>Hello there,I am<br/>Shivans Awasthi.</q></h1> 
     </div>
 
+<br/>
+
+<div className="badge bg-green-500 badge-xs"></div> Available to work
+
 
       <div class="mockup-code my-6 bg-neutral text-white text-left w-full">
       <div data-aos="fade-right" data-aos-duration="1300"  data-aos-delay="1300">
