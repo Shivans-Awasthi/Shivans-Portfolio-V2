@@ -160,7 +160,7 @@ body {
 .card {
   position: fixed;
   overflow: hidden;
-  transition: transform 0.5s ease, box-shadow 0.5s ease, background 0.5s ease; /* Smooth transition */
+  transition: transform 0.5s ease, box-shadow 0.5s ease ; /* Smooth transition */
 
 }
 
@@ -175,13 +175,13 @@ body {
   transition: filter 0.3s ease; /* Smooth transition for filter effects */
   display: block;
   transform: scale(1.05);
-  filter: grayscale(100%);
+  /* filter: grayscale(100%); */
 }
 
 /* Zoom effect on image inside the card */
 .card:hover img {
   /* Zoom effect on image */
-  filter: none;
+  /* filter: none; */
 }
 
 /* Optional: Adding some padding and a nice background color for content */

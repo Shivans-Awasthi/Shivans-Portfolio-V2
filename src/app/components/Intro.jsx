@@ -24,7 +24,7 @@ return(
 <div data-aos="fade-down" data-aos-duration="1000"  data-aos-delay="1000">
     <div class="rounded-xl p-5 lg:p-10 bg-base-100">
     <div data-aos="fade-down" data-aos-duration="1000"  data-aos-delay="1100">
-      <h1 class="text-4xl text-white font-bold"><q>Hello there,I am<br/>Shivans Awasthi.</q></h1> 
+      <h1 class="text-4xl text-white font-bold"><q>👋Hello there,I am<br/>Shivans Awasthi.</q></h1> 
     </div>
 
 
@@ -45,8 +45,8 @@ return(
     <br/>
     </div>
     <div data-aos="fade-up" data-aos-duration="1300"  data-aos-delay="1300">
-      <a href="#contact"><button class="btn btn-primary text-white">Contact Me</button></a> 
-      <a href="https://drive.google.com/file/d/145bDbNfh3jkwZS-Ha_IvZjPXOgW356HD/view?usp=sharing"><button class="btn ms-3 btn-outline btn-warning text-white">Resume</button></a>
+      <a href="#contact"><button class="btn btn-primary text-white"><ion-icon name="mail"></ion-icon>Contact Me</button></a> 
+      <a href="https://drive.google.com/file/d/145bDbNfh3jkwZS-Ha_IvZjPXOgW356HD/view?usp=sharing"><button class="btn ms-3 btn-outline btn-warning text-white"><ion-icon name="link"></ion-icon>Resume</button></a>
     </div>
   
     

@@ -36,7 +36,7 @@ return(
     <h2 class="card-title text-neutral-content text-white">Essential Requisite Qualities of an Officer</h2>
     <p class="text-black badge badge-secondary rounded-lg">Blogger</p>
     <div class="card-actions justify-end pt-6"> 
-      <a href="https://shivansawasthi.blogspot.com/2024/04/essential-requisite-qualities-of-officer.html"><button class="btn btn-primary text-white">Open Blog</button></a>
+      <a href="https://shivansawasthi.blogspot.com/2024/04/essential-requisite-qualities-of-officer.html"><button class="btn btn-primary text-white">Open Blog<ion-icon name="open"></ion-icon></button></a>
     </div>
   </div>
 </div>

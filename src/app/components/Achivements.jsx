@@ -11,15 +11,15 @@ function Achievements(){
 
 return(
 
-<section id="certificates">
+<section id="achievements">
 
 <div class="hero bg-base-100  py-36 min-h-screen w-full ">
   <div class="hero-content w-full">
     <div class="w-fit ">
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
 
-    <h1 class="text-5xl font-bold text-center text-white">Achievements</h1>
-    <h1 class=" text-center text-white py-6">Certified Proficiencies that Validate My Expertise and Capabilities.</h1>
+    <h1 class="text-5xl font-bold text-center text-white"><ion-icon name="trophy"></ion-icon> Achievements</h1>
+    <h1 class=" text-center text-white py-6">Milestones that mark the journey, not just the destination.</h1>
     </div>
 <br/><br/>
   
@@ -27,32 +27,22 @@ return(
 
 <div class="flex md:flex-col flex-col lg:flex-row w-full ">
 
-<div class="card bg-neutral shadow rounded-lg card-compact h-fit lg:w-80 sm:w-96  ">
+<div class="card bg-neutral shadow rounded-lg card-compact h-fit w-96  ">
+<figure><img class="w-5/6 h-fit" src="https://www.adityaranjan.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Froboproj2.98111cbf.jpg&w=1200&q=75" alt="arm" /></figure>
+
   <div class="card-body">
-    <h2 class="card-title text-neutral-content text-white">ROBOCON 2022 - National Level Qualified</h2>
+    <h2 class="card-title text-neutral-content text-white">ROBOCON 2022 - National Level Participation</h2>
+    
     <p class="text-black badge badge-warning rounded-lg">IIT Delhi</p>
     <p class="text-black badge badge-accent rounded-lg">KIIT Robotics Society</p>
     <p>Led the development of R1 and R2 robots for Robocon 2022, overseeing design, implementation, and strategy execution to meet competition objectives. Engineered advanced features including standard and H drive trains, linear actuators, stepper motors, and conveyor belt systems, resulting in competitive performance at the national round in Tyagraj Stadium, New Delhi.</p>
+  
+  <div class="card-actions justify-end">
+  <a href="https://youtu.be/Rr0jtMOpmVw"><button class="btn btn-primary text-white"><ion-icon name="logo-youtube"></ion-icon> Watch Video</button></a>
+  </div>
   </div>
   
-  <div class="carousel carousel-center bg-neutral w-full h-fit space-x-3">
-    
-  <div class="carousel-item w-5/6 h-fit">
-    <img
-      src="https://www.adityaranjan.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Froboproj2.98111cbf.jpg&w=1200&q=75"
-      class="rounded-none" />
-  </div>
-  <div class="carousel-item w-full h-fit">
-  <div className="w-full h-fit">
-        <ReactPlayer 
-          url="https://youtu.be/Rr0jtMOpmVw" 
-          controls
-          width="100%" 
-          height="245px"
-        />
-      </div>
-  </div>
-</div>
+  
 
 
 </div>
@@ -60,27 +50,29 @@ return(
 
 <div class="p-3"></div>
 
-<div class="card bg-neutral shadow rounded-lg card-compact h-fit lg:w-80 sm:w-96  ">
+<div class="card bg-neutral shadow rounded-lg card-compact h-fit w-96  ">
+<div class="carousel carousel-center bg-neutral space-x-5 w-full h-fit">
+    
+    <div class="carousel-item w-5/6 h-fit">
+      <img
+        src="https://media.licdn.com/dms/image/v2/D562DAQGxsW0xWD_eJg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1696472074678?e=1743408000&v=beta&t=R7yKV6v3aq0Iq7ULr1laEfF8SXAY0ofIeTTjDsCNfUo"
+        class="rounded-none" />
+    </div>
+    <div class="carousel-item w-5/6 h-fit">
+      <img
+        src="https://media.licdn.com/dms/image/v2/D562DAQHBWyrd2C_o0g/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1696251485154?e=1743408000&v=beta&t=sgK1xT74IfMz6-VauRf-f33lvcfHL12SdUhhdQq8lck"
+        class="rounded-none" />
+    </div>
+  </div>
+ 
   <div class="card-body">
-    <h2 class="card-title text-neutral-content text-white">1st position Fast and Precise LineFollower</h2>
+    <h2 class="card-title text-neutral-content text-white">1st position Fast and Precise LineFollower Robot</h2>
     <p class="text-black badge badge-warning rounded-lg">IIIT Bhubaneshwar</p>
     <p class="text-black badge badge-accent rounded-lg">KIIT Robotics Society</p>
     <p>Securing the coveted top spot in the Intercollege Fastest and Most Precise Line Follower Robot Competition, hosted at the prestigious Advaita event held at IIIT Bhubaneswar, stands as a testament to our achievement.</p>
   </div>
   
-  <div class="carousel carousel-center bg-neutral space-x-5 w-full h-fit">
-    
-  <div class="carousel-item w-5/6 h-fit">
-    <img
-      src="https://media.licdn.com/dms/image/v2/D562DAQGxsW0xWD_eJg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1696472074678?e=1743408000&v=beta&t=R7yKV6v3aq0Iq7ULr1laEfF8SXAY0ofIeTTjDsCNfUo"
-      class="rounded-none" />
-  </div>
-  <div class="carousel-item w-5/6 h-fit">
-    <img
-      src="https://media.licdn.com/dms/image/v2/D562DAQHBWyrd2C_o0g/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1696251485154?e=1743408000&v=beta&t=sgK1xT74IfMz6-VauRf-f33lvcfHL12SdUhhdQq8lck"
-      class="rounded-none" />
-  </div>
-</div>
+
   
 </div>
 
@@ -88,18 +80,19 @@ return(
 <div class="p-3"></div>
 
 
-<div class="card bg-neutral shadow rounded-lg card-compact h-fit lg:w-80 sm:w-96  ">
+<div class="card bg-neutral shadow rounded-lg card-compact h-fit w-96  ">
+<figure><img class="w-5/6 h-fit" src="https://media.licdn.com/dms/image/v2/D562DAQF2ggFFEDExTQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1705512629096?e=1743411600&v=beta&t=R9I-TTcmGoet4a0a5qsWiaHY7phBG1-HiikkwMdE9Nc" alt="arm" /></figure>
+
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-white">Flipkart Grid 5.0 Robotics Challenge</h2>
     <p class="text-black badge badge-accent rounded-lg">KIIT Robotics Society</p>
     <p>Team KRS presents FlipKart 5.0 solution with a custom robotic picking arm inspired by BCN 3D's Moveo 5DOF</p>
+  <div class="card-actions justify-end">
+      <a href="https://youtu.be/jfH2_FlXqxc"><button class="btn btn-primary text-white"><ion-icon name="logo-youtube"></ion-icon> Watch Video</button></a>
+  </div>
   </div>
   
-  <figure><img class="w-5/6 h-fit" src="https://media.licdn.com/dms/image/v2/D562DAQF2ggFFEDExTQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1705512629096?e=1743411600&v=beta&t=R9I-TTcmGoet4a0a5qsWiaHY7phBG1-HiikkwMdE9Nc" alt="arm" /></figure>
   
-  <div class="card-actions justify-end p-6">
-      <button class="btn btn-primary text-white">Demonstration Video</button>
-  </div>
   
 </div>
 
@@ -113,18 +106,19 @@ return(
 <div class="flex md:flex-col flex-col lg:flex-row w-full ">
 
 
-<div class="card bg-neutral shadow rounded-lg card-compact h-fit lg:w-80 sm:w-96  ">
+<div class="card bg-neutral shadow rounded-lg card-compact h-fit w-96  ">
+<figure><img class="w-5/6 h-fit" src="https://media.licdn.com/dms/image/v2/C5622AQGLHtcKlHJCcA/feedshare-shrink_800/feedshare-shrink_800/0/1676215666868?e=1745452800&v=beta&t=ITzS_VAjn0sj2OHn7kck737k-Wd2FAyMBAMA1xN94N0" alt="konquest" /></figure>
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-white">Event Coordinator</h2>
     <p class="text-black badge badge-accent rounded-lg">KIIT Robotics Society</p>
     <p>KONQUEST - LINE CRAWLER along with 2 more hosted by KIIT Robotics Society
         A 4 day event well executed bravo KRS - 
-        Me as an Event Coordinator 🙂</p>
+        Me as an Event Coordinator</p>
+        <div class="card-actions justify-end">
+     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7030558084833955840/"><button class="btn btn-primary text-white"><ion-icon name="logo-linkedin"></ion-icon> View Post</button></a>
   </div>
-  <figure><img class="w-5/6 h-fit" src="https://media.licdn.com/dms/image/v2/C5622AQGLHtcKlHJCcA/feedshare-shrink_800/feedshare-shrink_800/0/1676215666868?e=1745452800&v=beta&t=ITzS_VAjn0sj2OHn7kck737k-Wd2FAyMBAMA1xN94N0" alt="konquest" /></figure>
-  <div class="card-actions justify-end p-6">
-      <button class="btn btn-primary text-white">View Post</button>
   </div>
+
 
 </div>
 

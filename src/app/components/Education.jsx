@@ -16,7 +16,7 @@ return(
 <br/><br/><br/><br/>
 
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
-<h1 class="text-5xl font-bold text-center text-white">Education</h1>
+<h1 class="text-5xl font-bold text-center text-white"><ion-icon name="school"></ion-icon> Education</h1>
 <h1 class=" text-white text-center py-6">Cultivating a lifelong love of learning through academic excellence and intellectual curiosity.</h1>
 
 </div>

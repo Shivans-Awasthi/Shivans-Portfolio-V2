@@ -28,7 +28,7 @@ return(
       
     <div data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200">
 
-      <h1 class="text-5xl font-bold text-left text-white">Contact Me!</h1>
+      <h1 class="text-5xl font-bold text-left text-white"><ion-icon name="mail"></ion-icon> Contact Me!</h1>
 
       <p class="text-left test-sm text-white py-6">Lets get connected, and start our next project with enthusiasm and a positive mindset.<br/> Contact me here, or reach out to me on my socials below!</p>
       
@@ -90,28 +90,28 @@ return(
 
         <div class="form-control ">
           <label for="from_name " class="label">
-            <span class="label-text  text-white">Name</span>
+            <span class="label-text  text-white"><ion-icon name="person"></ion-icon> Name</span>
           </label>
           <input onChange={handleChange} type="text" name="from_name" id="from_name" placeholder="What should I call you" class=" input input-bordered bg-neutral text-white rounded-lg h-10 w-full " required />
         </div>
 
         <div class="form-control">
           <label for="reply_to" class="label">
-            <span class="label-text  text-white">Email</span>
+            <span class="label-text  text-white"><ion-icon name="at"></ion-icon> Email Address</span>
           </label>
-          <input type="email" name="reply_to" id="reply_to" placeholder="Enter your Email" class="input rounded-lg text-white input-bordered bg-neutral h-10 w-full " required />
+          <input type="email" name="reply_to" id="reply_to" placeholder="Enter your Email Address" class="input rounded-lg text-white input-bordered bg-neutral h-10 w-full " required />
 
         </div>
 
         <div class="form-control">
           <label for="message" class="label">
-            <span class="label-text  text-white">Message</span>
+            <span class="label-text  text-white"><ion-icon name="mail"></ion-icon> Message</span>
           </label>          
           <textarea class="textarea textarea-bordered rounded-lg min-h-40 w-full bg-neutral text-white " name="message" id="message" placeholder="Let me know your thoughts" required></textarea>
         </div>
 
         <div class="form-control mt-6">
-          <button class="btn btn-primary text-white" type="submit">Send Email</button>
+          <button class="btn btn-primary text-white" type="submit">Send Email<ion-icon name="send"></ion-icon></button>
         </div>
       </form>
     </div>

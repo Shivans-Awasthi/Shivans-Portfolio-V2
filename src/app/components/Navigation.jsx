@@ -21,6 +21,7 @@ return(
         <li><a href="#intro">Intro</a></li>
         <li><a href="#skills">Skills</a></li>
         <li><a href="#education">Education</a></li>
+        <li><a href="#achievements">Achievements</a></li>
         <li><a href="#projects">Projects</a></li>
         <li><a href="#certificates">Certifications</a></li>
         <li><a href="#blogs">Blogs</a></li>
@@ -39,6 +40,7 @@ return(
     <li><a href="#intro">Intro</a></li>
         <li><a href="#skills">Skills</a></li>
         <li><a href="#education">Education</a></li>
+        <li><a href="#achievements">Achievements</a></li>
         <li><a href="#projects">Projects</a></li>
         <li><a href="#certificates">Certifications</a></li>
         <li><a href="#blogs">Blogs</a></li>
@@ -55,7 +57,7 @@ return(
 </div>
 <div class="navbar-end lg:pe-20">
 <div data-aos="fade-down" data-aos-duration="500"   data-aos-delay="100">
-<a href="#contact"><button class="btn text-white btn-primary">Contact Me</button></a>
+<a href="#contact"><button class="btn text-white btn-primary"><ion-icon name="mail"></ion-icon>Contact Me</button></a>
 </div>
 </div>
 
