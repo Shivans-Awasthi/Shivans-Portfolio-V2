@@ -12,16 +12,15 @@ return(
 <section id="blogs">
 
 
-<div class="hero bg-zinc-800 min-h-screen w-full">
+<div class="hero bg-zinc-800 h-fill w-full">
   <div class="hero-content">
     <div class="min-h-screen w-fit ">
-    <br/><br/><br/><br/>
+    <br/><br/>
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
     <h1 class="text-5xl font-bold text-center text-white">Blog Spot</h1>
     <h1 class=" text-center text-white py-6">Blogs to Inspire and Inform.</h1>
     <br/>
     </div>
-<br/><br/>
 
 <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">
 <div class="flex md:flex-col flex-col lg:flex-row w-full">

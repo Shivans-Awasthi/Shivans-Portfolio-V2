@@ -7,9 +7,7 @@ return(
 <section id="about">
 
 
-<div class="hero bg-zinc-800 min-h-screen w-full">
-
-
+<div class="hero bg-zinc-800 h-fill w-full">
 
   <div class="hero-content w-full z-10 flex-col lg:flex-row md: mt-10">
  
@@ -28,7 +26,7 @@ return(
   <div class="collapse-content  bg-zinc-800 text-white peer-checked:bg-secondary peer-checked:text-white">
 <p class="text-white">  
 From building scalable web applications 🌍 to crafting intelligent data-driven models 🧠, I love working on projects that challenge my technical prowess while delivering meaningful user experiences. My journey through engineering has been marked by a blend of creativity 🎨, persistence 🔑, and a relentless pursuit of excellence 🏅.
-<br/>
+<br/><br/>
 Whether it's collaborating on high-performance software 🤝, contributing to robotics competitions 🤖, or mentoring aspiring developers 🎤, I believe in the power of technology to shape a better future.
 <br/>
 <p class="py-5 font-bold">What Drives Me?</p>

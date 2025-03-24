@@ -12,7 +12,7 @@ return(
 
 <section id="certificates">
 
-<div class="hero bg-zinc-800  py-36 min-h-screen w-full ">
+<div class="hero bg-zinc-800  py-36 h-fill w-full ">
   <div class="hero-content w-full">
     <div class="w-fit ">
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
@@ -20,7 +20,6 @@ return(
     <h1 class="text-5xl font-bold text-center text-white"><ion-icon name="ribbon"></ion-icon> Certificates</h1>
     <h1 class=" text-center text-white py-6">Certified Proficiencies that Validate My Expertise and Capabilities.</h1>
     </div>
-<br/><br/>
   
 <div data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200">
 

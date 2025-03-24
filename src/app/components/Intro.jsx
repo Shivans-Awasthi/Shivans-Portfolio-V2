@@ -9,7 +9,7 @@ return(
 <section id="intro">
   
 
-<div class="hero bg-zinc-800 py-10 min-h-screen w-full">
+<div class="hero bg-zinc-800 py-10 h-fill w-full">
 
 
 

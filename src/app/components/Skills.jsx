@@ -13,19 +13,18 @@ return(
 
 
 
-<div class="hero bg-zinc-800 min-h-screen w-full">
+<div class="hero bg-zinc-800 h-fill w-full">
 
 
 <div class="hero-content">
 <div class="text-center ">
-<br/><br/><br/><br/>
+<br/><br/>
 <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="50">
 <h1 class="text-5xl text-white font-bold text-center" ><ion-icon name="construct"></ion-icon> Skills</h1>
 <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="100">
 <h1 class=" text-white text-center py-6">I have diverse range of skills that can help you with any of your innovative projects.</h1>
 </div>
 </div>
-<br/><br/>
 
   <table class="table rounded-xl p-10 text-white text-left">
   
