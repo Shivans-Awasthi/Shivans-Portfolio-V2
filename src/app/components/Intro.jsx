@@ -16,7 +16,7 @@ return(
   <div class="hero-content mt-10 w-full z-10 flex-col lg:flex-row md: mt-10">
   <div data-aos="fade-top" data-aos-duration="1000"  data-aos-delay="500">
   <div class="avatar">
-        <div class="max-w-sm ring-primary ring-offset-base-100 rounded-full ring ring-offset-2 ">
+        <div class="max-w-sm ring-accent ring-offset-base-100 rounded-full ring ring-offset-2 ">
           <img src="https://github.com/Shivans-Awasthi/Shivans-Portfolio-V2/blob/main/public/DSC_0724355.jpg?raw=true" />
         </div>
   </div>
