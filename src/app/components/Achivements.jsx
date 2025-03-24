@@ -13,7 +13,7 @@ return(
 
 <section id="achievements">
 
-<div class="hero bg-zinc-800  py-36 h-fill w-full ">
+<div class="hero bg-zinc-800 max-h-fill py-10 w-full ">
   <div class="hero-content w-full">
     <div class="w-fit ">
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">

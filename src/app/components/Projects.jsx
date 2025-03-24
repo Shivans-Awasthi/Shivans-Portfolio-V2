@@ -11,7 +11,7 @@ return(
 
 <section id="projects">
 
-<div class="hero bg-zinc-800 h-fill w-full">
+<div class="hero bg-zinc-800 py-10 h-fill w-full">
   <div class="hero-content">
     <div class="w-fit">
     <br/><br/>

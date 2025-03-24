@@ -12,10 +12,9 @@ return(
 <section id="blogs">
 
 
-<div class="hero bg-zinc-800 h-fill w-full">
+<div class="hero bg-zinc-800 py-10 h-fill w-full">
   <div class="hero-content">
     <div class="min-h-screen w-fit ">
-    <br/><br/>
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
     <h1 class="text-5xl font-bold text-center text-white">Blog Spot</h1>
     <h1 class=" text-center text-white py-6">Blogs to Inspire and Inform.</h1>
