@@ -28,13 +28,32 @@ return(
 <div class="flex md:flex-col flex-col lg:flex-row w-full ">
 
 <div class="card bg-neutral shadow rounded-lg card-compact h-fit lg:w-80 sm:lg:w-80 sm:w-96  ">
-<figure><img class="w-5/6 h-fit" src="https://www.adityaranjan.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Froboproj2.98111cbf.jpg&w=1200&q=75" alt="arm" /></figure>
 
+<div class="carousel carousel-center bg-neutral space-x-4 w-full h-fit overscroll-contain">
+    
+    <div class="carousel-item w-5/6 h-auto">
+      <img
+        src="https://krs.kiit.ac.in/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Fkrs%2Fachivements%2FWhatsApp_Image_2022-07-17_at_6.25.43_PM_HOIu6E-O9.jpeg%3Fik-sdk-version%3Djavascript-1.4.3%26updatedAt%3D1660047834938&w=1920&q=75"
+        class="rounded-none" />
+    </div>
+    <div class="carousel-item w-3/6 h-auto">
+      <img
+        src="https://krs.kiit.ac.in/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Fkrs%2Fachivements%2FRobo2_jsZxLZuuw.jpg%3Fik-sdk-version%3Djavascript-1.4.3%26updatedAt%3D1660047579494&w=1920&q=75"
+        class="rounded-none" />
+    </div>
+    <div class="carousel-item w-full h-auto">
+      <img
+        src="https://krs.kiit.ac.in/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Fkrs%2Fachivements%2Frobo1_X0AnNRBiY.jpeg%3Fik-sdk-version%3Djavascript-1.4.3%26updatedAt%3D1660047578311&w=1920&q=75"
+        class="rounded-none" />
+    </div>
+  </div>
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-white">ROBOCON 2022 - National Level Participation</h2>
-    
-    <p class="text-black badge badge-warning rounded-lg">IIT Delhi</p>
-    <p class="text-black badge badge-accent rounded-lg">KIIT Robotics Society</p>
+    <div class="card-actions w-full justify-start">
+    <div class="text-black badge badge-warning rounded-lg">IIT Delhi</div>
+    <div class="text-black badge badge-error rounded-lg">2022</div>
+    <div class="text-black badge badge-accent rounded-lg">KIIT Robotics Society</div>
+    </div>
     <p>Led the development of R1 and R2 robots for Robocon 2022, overseeing design, implementation, and strategy execution to meet competition objectives. Engineered advanced features including standard and H drive trains, linear actuators, stepper motors, and conveyor belt systems, resulting in competitive performance at the national round in Tyagraj Stadium, New Delhi.</p>
   
   <div class="card-actions justify-end">
@@ -51,7 +70,7 @@ return(
 <div class="p-3"></div>
 
 <div class="card bg-neutral shadow rounded-lg card-compact h-fit lg:w-80 sm:lg:w-80 sm:w-96  ">
-<div class="carousel carousel-center bg-neutral space-x-5 w-full h-fit">
+<div class="carousel carousel-center bg-neutral space-x-4 w-full h-fit">
     
     <div class="carousel-item w-5/6 h-fit">
       <img
@@ -67,8 +86,11 @@ return(
  
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-white">1st position Fast and Precise LineFollower Robot</h2>
-    <p class="text-black badge badge-warning rounded-lg">IIIT Bhubaneshwar</p>
-    <p class="text-black badge badge-accent rounded-lg">KIIT Robotics Society</p>
+    <div class="card-actions justify-start">
+    <div class="text-black badge badge-warning rounded-lg">IIIT Bhubaneshwar</div>
+    <div class="text-black badge badge-error rounded-lg">2023</div>
+    <div class="text-black badge badge-accent rounded-lg">KIIT Robotics Society</div>
+    </div>
     <p>Securing the coveted top spot in the Intercollege Fastest and Most Precise Line Follower Robot Competition, hosted at the prestigious Advaita event held at IIIT Bhubaneswar, stands as a testament to our achievement.</p>
   </div>
   
@@ -85,7 +107,10 @@ return(
 
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-white">Flipkart Grid 5.0 Robotics Challenge</h2>
-    <p class="text-black badge badge-accent rounded-lg">KIIT Robotics Society</p>
+    <div class="card-actions justify-start">
+    <div class="text-black badge badge-accent rounded-lg">KIIT Robotics Society</div>
+    <div class="text-black badge badge-error rounded-lg">2023</div>
+    </div>
     <p>Team KRS presents FlipKart 5.0 solution with a custom robotic picking arm inspired by BCN 3D's Moveo 5DOF</p>
   <div class="card-actions justify-end">
       <a href="https://youtu.be/jfH2_FlXqxc"><button class="btn btn-primary text-white"><ion-icon name="logo-youtube"></ion-icon> Watch Video</button></a>
@@ -110,7 +135,10 @@ return(
 <figure><img class="w-5/6 h-fit" src="https://media.licdn.com/dms/image/v2/C5622AQGLHtcKlHJCcA/feedshare-shrink_800/feedshare-shrink_800/0/1676215666868?e=1745452800&v=beta&t=ITzS_VAjn0sj2OHn7kck737k-Wd2FAyMBAMA1xN94N0" alt="konquest" /></figure>
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-white">Event Coordinator</h2>
-    <p class="text-black badge badge-accent rounded-lg">KIIT Robotics Society</p>
+    <div class="card-actions justify-start">
+    <div class="text-black badge badge-accent rounded-lg">KIIT Robotics Society</div>
+    <div class="text-black badge badge-error rounded-lg">2023</div>
+    </div>
     <p>KONQUEST - LINE CRAWLER along with 2 more hosted by KIIT Robotics Society
         A 4 day event well executed bravo KRS - 
         Me as an Event Coordinator</p>
