@@ -9,6 +9,7 @@ import Footer from "./Footer";
 import Contact from "./Contact";
 import Certification from "./Certification";
 import Blogspost from "./Blogspost";
+import Achievements from "./Achivements";
 import { useEffect } from "react";
 import Aos from "aos";
 
@@ -37,6 +38,7 @@ return(
 <About />
 <Skills />
 <Education />
+<Achievements/>
 <Project />
 <Certification />
 <Blogspost/>
