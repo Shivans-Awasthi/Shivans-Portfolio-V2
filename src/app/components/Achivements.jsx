@@ -1,4 +1,5 @@
 import React from "react";
+import ReactPlayer from "react-player";
 
 
 
@@ -26,9 +27,93 @@ return(
 
 <div class="flex md:flex-col flex-col lg:flex-row w-full ">
 
+<div class="card bg-neutral shadow rounded-lg card-compact h-fit lg:w-80 sm:w-96  ">
+  <div class="card-body">
+    <h2 class="card-title text-neutral-content text-white">ROBOCON 2022 - National Level Qualified</h2>
+    <p class="text-black badge badge-warning rounded-lg">IIT Delhi</p>
+    <p class="text-black badge badge-accent rounded-lg">KIIT Robotics Society</p>
+    <p>Led the development of R1 and R2 robots for Robocon 2022, overseeing design, implementation, and strategy execution to meet competition objectives. Engineered advanced features including standard and H drive trains, linear actuators, stepper motors, and conveyor belt systems, resulting in competitive performance at the national round in Tyagraj Stadium, New Delhi.</p>
+  </div>
+  
+  <div class="carousel carousel-center bg-neutral w-full h-fit space-x-3">
+    
+  <div class="carousel-item w-5/6 h-fit">
+    <img
+      src="https://www.adityaranjan.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Froboproj2.98111cbf.jpg&w=1200&q=75"
+      class="rounded-none" />
+  </div>
+  <div class="carousel-item w-full h-fit">
+  <div className="w-full h-fit">
+        <ReactPlayer 
+          url="https://youtu.be/Rr0jtMOpmVw" 
+          controls
+          width="100%" 
+          height="245px"
+        />
+      </div>
+  </div>
+</div>
 
 
-<div class="card bg-neutral shadow rounded-lg card-compact lg:w-80 sm:w-96  ">
+</div>
+
+
+<div class="p-3"></div>
+
+<div class="card bg-neutral shadow rounded-lg card-compact h-fit lg:w-80 sm:w-96  ">
+  <div class="card-body">
+    <h2 class="card-title text-neutral-content text-white">1st position Fast and Precise LineFollower</h2>
+    <p class="text-black badge badge-warning rounded-lg">IIIT Bhubaneshwar</p>
+    <p class="text-black badge badge-accent rounded-lg">KIIT Robotics Society</p>
+    <p>Securing the coveted top spot in the Intercollege Fastest and Most Precise Line Follower Robot Competition, hosted at the prestigious Advaita event held at IIIT Bhubaneswar, stands as a testament to our achievement.</p>
+  </div>
+  
+  <div class="carousel carousel-center bg-neutral space-x-5 w-full h-fit">
+    
+  <div class="carousel-item w-5/6 h-fit">
+    <img
+      src="https://media.licdn.com/dms/image/v2/D562DAQGxsW0xWD_eJg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1696472074678?e=1743408000&v=beta&t=R7yKV6v3aq0Iq7ULr1laEfF8SXAY0ofIeTTjDsCNfUo"
+      class="rounded-none" />
+  </div>
+  <div class="carousel-item w-5/6 h-fit">
+    <img
+      src="https://media.licdn.com/dms/image/v2/D562DAQHBWyrd2C_o0g/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1696251485154?e=1743408000&v=beta&t=sgK1xT74IfMz6-VauRf-f33lvcfHL12SdUhhdQq8lck"
+      class="rounded-none" />
+  </div>
+</div>
+  
+</div>
+
+
+<div class="p-3"></div>
+
+
+<div class="card bg-neutral shadow rounded-lg card-compact h-fit lg:w-80 sm:w-96  ">
+  <div class="card-body">
+    <h2 class="card-title text-neutral-content text-white">Flipkart Grid 5.0 Robotics Challenge</h2>
+    <p class="text-black badge badge-accent rounded-lg">KIIT Robotics Society</p>
+    <p>Team KRS presents FlipKart 5.0 solution with a custom robotic picking arm inspired by BCN 3D's Moveo 5DOF</p>
+  </div>
+  
+  <figure><img class="w-5/6 h-fit" src="https://media.licdn.com/dms/image/v2/D562DAQF2ggFFEDExTQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1705512629096?e=1743411600&v=beta&t=R9I-TTcmGoet4a0a5qsWiaHY7phBG1-HiikkwMdE9Nc" alt="arm" /></figure>
+  
+  <div class="card-actions justify-end p-6">
+      <button class="btn btn-primary text-white">Demonstration Video</button>
+  </div>
+  
+</div>
+
+
+
+
+</div>
+
+<div class="p-3"></div>
+
+<div class="flex md:flex-col flex-col lg:flex-row w-full ">
+
+
+<div class="card bg-neutral shadow rounded-lg card-compact h-fit lg:w-80 sm:w-96  ">
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-white">Event Coordinator</h2>
     <p class="text-black badge badge-accent rounded-lg">KIIT Robotics Society</p>
@@ -36,53 +121,11 @@ return(
         A 4 day event well executed bravo KRS - 
         Me as an Event Coordinator 🙂</p>
   </div>
-  <figure><img src="https://media.licdn.com/dms/image/v2/C5622AQGLHtcKlHJCcA/feedshare-shrink_800/feedshare-shrink_800/0/1676215666868?e=1745452800&v=beta&t=ITzS_VAjn0sj2OHn7kck737k-Wd2FAyMBAMA1xN94N0" alt="konquest" /></figure>
+  <figure><img class="w-5/6 h-fit" src="https://media.licdn.com/dms/image/v2/C5622AQGLHtcKlHJCcA/feedshare-shrink_800/feedshare-shrink_800/0/1676215666868?e=1745452800&v=beta&t=ITzS_VAjn0sj2OHn7kck737k-Wd2FAyMBAMA1xN94N0" alt="konquest" /></figure>
   <div class="card-actions justify-end p-6">
       <button class="btn btn-primary text-white">View Post</button>
-    </div>
-</div>
-
-
-
-
-
-<div class="p-3"></div>
-
-<div class="card bg-neutral shadow rounded-lg card-compact lg:w-80 sm:w-96  ">
-  <div class="card-body">
-    <h2 class="card-title text-neutral-content text-white">1st position</h2>
-    <p class="text-black badge badge-warning rounded-lg">IIIT Bhubaneshwar</p>
-    <p class="text-black badge badge-accent rounded-lg">KIIT Robotics Society</p>
-    <p>Securing the coveted top spot in the Intercollege Fastest and Most Precise Line Follower Robot Competition, hosted at the prestigious Advaita event held at IIIT Bhubaneswar, stands as a testament to our achievement.</p>
-  </div>
-  
-  <div class="carousel">
-  <div id="slide1" class="carousel-item relative w-full">
-    <img
-      src="https://media.licdn.com/dms/image/v2/D562DAQGxsW0xWD_eJg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1696472074678?e=1743408000&v=beta&t=R7yKV6v3aq0Iq7ULr1laEfF8SXAY0ofIeTTjDsCNfUo"
-      class="w-full" />
-    <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
-      <a href="#slide4" class="btn btn-circle">❮</a>
-      <a href="#slide2" class="btn btn-circle">❯</a>
-    </div>
-  </div>
-  <div id="slide2" class="carousel-item relative w-full">
-    <img
-      src="https://media.licdn.com/dms/image/v2/D562DAQHBWyrd2C_o0g/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1696251485154?e=1743408000&v=beta&t=sgK1xT74IfMz6-VauRf-f33lvcfHL12SdUhhdQq8lck"
-      class="w-full" />
-    <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
-      <a href="#slide1" class="btn btn-circle">❮</a>
-      <a href="#slide3" class="btn btn-circle">❯</a>
-    </div>
   </div>
 
-</div>  
-  
-  
-  
-  <div class="card-actions justify-end p-6">
-      <button class="btn btn-primary text-white">View Post</button>
-    </div>
 </div>
 
 
@@ -90,23 +133,10 @@ return(
 
 
 
-<div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="500">
-
-
-
-</div>
-</div>
-
-<div class="p-3"></div>
-<div data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="600">
-
-<div class="flex md:flex-col flex-col lg:flex-row w-full ">
 
 
 
 
-
-</div>
 </div>
 </div>
 </div>
