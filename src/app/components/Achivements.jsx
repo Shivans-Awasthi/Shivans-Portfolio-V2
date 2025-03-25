@@ -30,17 +30,17 @@ return(
 
 <div class="carousel carousel-center bg-neutral space-x-4 w-full h-fit overscroll-contain">
     
-    <div class="carousel-item w-5/6 h-auto">
+    <div class="carousel-item w-5/6 h-68">
       <img
         src="https://krs.kiit.ac.in/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Fkrs%2Fachivements%2FWhatsApp_Image_2022-07-17_at_6.25.43_PM_HOIu6E-O9.jpeg%3Fik-sdk-version%3Djavascript-1.4.3%26updatedAt%3D1660047834938&w=1920&q=75"
         class="rounded-none" />
     </div>
-    <div class="carousel-item w-3/6 h-auto">
+    <div class="carousel-item w-36 h-fit">
       <img
         src="https://krs.kiit.ac.in/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Fkrs%2Fachivements%2FRobo2_jsZxLZuuw.jpg%3Fik-sdk-version%3Djavascript-1.4.3%26updatedAt%3D1660047579494&w=1920&q=75"
         class="rounded-none" />
     </div>
-    <div class="carousel-item w-full h-auto">
+    <div class="carousel-item w-80 h-68">
       <img
         src="https://krs.kiit.ac.in/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Fkrs%2Fachivements%2Frobo1_X0AnNRBiY.jpeg%3Fik-sdk-version%3Djavascript-1.4.3%26updatedAt%3D1660047578311&w=1920&q=75"
         class="rounded-none" />
