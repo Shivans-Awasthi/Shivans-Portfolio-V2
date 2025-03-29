@@ -17,7 +17,7 @@ return(
       </div>
       <div class="drawer-side">
       <label for="my-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
-      <ul class="menu bg-zinc-800 menu-lg p-10 text-white rounded-e-lg shadow h-full">
+      <ul class="menu bg-neutral-800 menu-lg p-10 text-white rounded-e-lg shadow h-full">
         <li><a href="#intro">Intro</a></li>
         <li><a href="#about">About Me</a></li>
         <li><a href="#skills">Skills</a></li>
