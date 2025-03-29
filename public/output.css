@@ -168,6 +168,8 @@ body {
 .card:hover {
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.355); /* Deeper shadow on hover */
   border: 2px solid #616161; /* Cyan border on hover */
+  background: linear-gradient(270deg, #1e2c40, #1c1a1a);
+  
 }
 
 /* Image within the card */
