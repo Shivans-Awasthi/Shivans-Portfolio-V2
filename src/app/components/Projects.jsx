@@ -42,7 +42,7 @@ return(
     <div class="card-actions justify-end pt-6">
       
       <button class="btn btn-primary text-white">You are here<ion-icon name="rocket"></ion-icon></button> 
-      <a href="https://github.com/Shivans-Awasthi/Shivans-Portfolio-V2"><button class="btn btn- neutral text-white"><ion-icon name="logo-github"></ion-icon>Github<ion-icon name="trending-up"></ion-icon></button></a>
+      <a href="https://github.com/Shivans-Awasthi/Shivans-Portfolio-V2"><button class="btn btn-neutral text-white"><ion-icon name="logo-github"></ion-icon>Github<ion-icon name="trending-up"></ion-icon></button></a>
     </div>
   </div>
 </div>
@@ -66,7 +66,7 @@ return(
     </div>
     <div class="card-actions justify-end pt-6">
       <a href="https://querylinker-web-app-querylinker.koyeb.app/"><button class="btn btn-primary text-white">Deployment<ion-icon name="rocket"></ion-icon></button></a>
-      <a href="https://github.com/Shivans-Awasthi/QueryLinker"><button class="btn btn- neutral text-white"><ion-icon name="logo-github"></ion-icon>Github<ion-icon name="trending-up"></ion-icon></button></a>
+      <a href="https://github.com/Shivans-Awasthi/QueryLinker"><button class="btn btn-neutral text-white"><ion-icon name="logo-github"></ion-icon>Github<ion-icon name="trending-up"></ion-icon></button></a>
     </div>
   </div>
 </div>
@@ -89,7 +89,7 @@ return(
       <br/><br/>
     </div>
     <div class="card-actions justify-end pt-6">
-      <a href="https://github.com/Shivans-Awasthi/ChatSummation-Text-Summarization-of-conversational-data-using-google-Pegasus-model"><button class="btn btn- neutral text-white"><ion-icon name="logo-github"></ion-icon>Github<ion-icon name="trending-up"></ion-icon></button></a>
+      <a href="https://github.com/Shivans-Awasthi/ChatSummation-Text-Summarization-of-conversational-data-using-google-Pegasus-model"><button class="btn btn-neutral text-white"><ion-icon name="logo-github"></ion-icon>Github<ion-icon name="trending-up"></ion-icon></button></a>
     </div>
   </div>
 </div>
@@ -119,7 +119,7 @@ return(
       <br/><br/>
     </div>
     <div class="card-actions justify-end pt-6">
-     <a href="https://github.com/Shivans-Awasthi/College-Automation-using-IOT"><button class="btn btn- neutral text-white"><ion-icon name="logo-github"></ion-icon>Github<ion-icon name="trending-up"></ion-icon></button></a>
+     <a href="https://github.com/Shivans-Awasthi/College-Automation-using-IOT"><button class="btn btn-neutral text-white"><ion-icon name="logo-github"></ion-icon>Github<ion-icon name="trending-up"></ion-icon></button></a>
     </div>
   </div>
 </div>
@@ -146,7 +146,7 @@ return(
     </div>
     <div class="card-actions justify-end pt-6">
       
-      <a href="https://github.com/Shivans-Awasthi/Twitter-Sentiment-Analysis-using-TextBlob"><button class="btn btn- neutral text-white"><ion-icon name="logo-github"></ion-icon>Github<ion-icon name="trending-up"></ion-icon></button></a>
+      <a href="https://github.com/Shivans-Awasthi/Twitter-Sentiment-Analysis-using-TextBlob"><button class="btn btn-neutral text-white"><ion-icon name="logo-github"></ion-icon>Github<ion-icon name="trending-up"></ion-icon></button></a>
     </div>
   </div>
 </div>

@@ -12,7 +12,7 @@ return(
 <section id="blogs">
 
 
-<div class="hero bg-zinc-800 py-10 h-fill w-full">
+<div class="hero bg-neutral-800 py-10 h-fill w-full">
   <div class="hero-content">
     <div class="min-h-screen w-fit ">
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">

@@ -13,7 +13,7 @@ return(
 
 <section id="achievements">
 
-<div class="hero bg-zinc-800 max-h-fill py-10 w-full ">
+<div class="hero bg-neutral-800 max-h-fill text-white py-10 w-full ">
   <div class="hero-content w-full">
     <div class="w-fit ">
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
@@ -28,14 +28,14 @@ return(
 
 <div class="card bg-neutral shadow rounded-lg card-compact h-fit lg:w-80 sm:lg:w-80 sm:w-96  ">
 
-<div class="carousel carousel-center bg-neutral space-x-4 w-full h-fit overscroll-contain">
+<div class="carousel carousel-center bg-neutral space-x-3 w-full h-fit overscroll-contain">
     
-    <div class="carousel-item w-full h-auto">
+    <div class="carousel-item w-5/6 h-fit">
       <img
         src="https://krs.kiit.ac.in/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Fkrs%2Fachivements%2FWhatsApp_Image_2022-07-17_at_6.25.43_PM_HOIu6E-O9.jpeg%3Fik-sdk-version%3Djavascript-1.4.3%26updatedAt%3D1660047834938&w=1920&q=75"
         class="rounded-none" />
     </div>
-    <div class="carousel-item w-3/6 h-fit">
+    <div class="carousel-item w-2/6 h-fit">
       <img
         src="https://krs.kiit.ac.in/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Fkrs%2Fachivements%2FRobo2_jsZxLZuuw.jpg%3Fik-sdk-version%3Djavascript-1.4.3%26updatedAt%3D1660047579494&w=1920&q=75"
         class="rounded-none" />
