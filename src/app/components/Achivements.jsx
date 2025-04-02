@@ -73,12 +73,12 @@ return(
     
     <div class="carousel-item w-5/6 h-fit">
       <img
-        src="https://drive.google.com/file/d/1zxND7pePL0z0OgnR0qeN5KxsrWQY7JRe/view?usp=sharing"
+        src="line1.jpeg"
         class="rounded-none" />
     </div>
     <div class="carousel-item w-5/6 h-fit">
       <img
-        src="https://drive.google.com/file/d/18CsQ5YJNYUCXCFSUgmXUw63cTOw7dGfX/view?usp=sharing"
+        src="line2.jpeg"
         class="rounded-none" />
     </div>
   </div>
@@ -102,7 +102,7 @@ return(
 
 
 <div class="card bg-zinc-950 shadow rounded-lg card-compact h-fit lg:w-80 sm:w-96  ">
-<figure><img class="w-5/6 h-fit" src="https://media.licdn.com/dms/image/v2/D562DAQF2ggFFEDExTQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1705512629096?e=1743411600&v=beta&t=R9I-TTcmGoet4a0a5qsWiaHY7phBG1-HiikkwMdE9Nc" alt="arm" /></figure>
+<figure><img class="w-5/6 h-fit" src="arm.jpeg" alt="arm" /></figure>
 
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-white">Flipkart Grid 5.0 Robotics Challenge</h2>
