@@ -13,7 +13,7 @@ return(
 
 
 
-<div class="hero bg-neutral-800 py-10 h-fill w-full">
+<div class="hero bg-zinc-950 py-10 h-fill w-full">
 
 
 <div class="hero-content">
@@ -42,7 +42,7 @@ return(
         <td><div data-aos="fade-right" data-aos-duration="1000" data-aos-delay="150">C++</div></td>
         <td>
         <div data-aos="fade-left" data-aos-duration="1000" data-aos-delay="150">
-          <progress class="progress progress-success rounded bg-white w-full" value="80" max="100"></progress>
+          <progress class="progress progress-info border-2 border-black rounded bg-black w-full" value="80" max="100"></progress>
         </div>
         </td>     
       </tr>
@@ -51,7 +51,7 @@ return(
         <td><div data-aos="fade-right" data-aos-duration="1200" data-aos-delay="300">C#</div></td>
         <td>
         <div data-aos="fade-left" data-aos-duration="1200" data-aos-delay="300">
-          <progress class="progress progress-success rounded bg-white w-full" value="80" max="100"></progress>
+          <progress class="progress progress-info border-2 border-black rounded bg-black w-full" value="80" max="100"></progress>
         </div>
         </td>     
       </tr>
@@ -60,20 +60,20 @@ return(
       
         <td>Python</td>
         <td>
-          <progress class="progress progress-success bg-white rounded w-full" value="60" max="100"></progress></td>
+          <progress class="progress progress-info border-2 border-black bg-black rounded w-full" value="60" max="100"></progress></td>
       </tr>
 
       <tr>
         <td>React JS</td>
         <td>
-          <progress class="progress progress-success rounded bg-white w-full" value="80" max="100"></progress></td>
+          <progress class="progress progress-info border-2 border-black rounded bg-black w-full" value="80" max="100"></progress></td>
       </tr>
 
       <tr>
       
         <td>Node JS</td>
         <td>
-          <progress class="progress progress-success rounded bg-white w-full" value="70" max="100"></progress></td>
+          <progress class="progress progress-info border-2 border-black rounded bg-black w-full" value="70" max="100"></progress></td>
       </tr>
 
       <tr>
@@ -81,14 +81,14 @@ return(
         <td>Express JS</td>
 
         <td>
-          <progress class="progress progress-success rounded bg-white w-full" value="70" max="100"></progress></td>
+          <progress class="progress progress-info border-2 border-black rounded bg-black w-full" value="70" max="100"></progress></td>
       </tr>
       <tr>
       
         <td>Flask</td>
 
         <td>
-          <progress class="progress progress-success rounded bg-white w-full" value="70" max="100"></progress></td>
+          <progress class="progress progress-info border-2 border-black rounded bg-black w-full" value="70" max="100"></progress></td>
       </tr>
 
       <tr>
@@ -96,7 +96,7 @@ return(
         <td>PostgreSQL | MySQL</td>
 
         <td>
-          <progress class="progress progress-success rounded bg-white w-full" value="75" max="100"></progress></td>
+          <progress class="progress progress-info border-2 border-black rounded bg-black w-full" value="75" max="100"></progress></td>
       </tr>
 
       <tr>
@@ -104,37 +104,37 @@ return(
         <td>Bootstrap | Tailwind CSS</td>
       
         <td>
-          <progress class="progress progress-success rounded bg-white w-full" value="70" max="100"></progress></td>
+          <progress class="progress progress-info border-2 border-black rounded bg-black w-full" value="70" max="100"></progress></td>
       </tr>
 
       <tr>
       <td>.Net Framework</td>
       <td>
-        <progress class="progress progress-success rounded bg-white w-full" value="60" max="100"></progress></td>
+        <progress class="progress progress-info border-2 border-black rounded bg-black w-full" value="60" max="100"></progress></td>
       </tr>
 
       <tr>
       <td>ASP.NET Core</td>
       <td>
-        <progress class="progress progress-success rounded bg-white w-full" value="60" max="100"></progress></td>
+        <progress class="progress progress-info border-2 border-black rounded bg-black w-full" value="60" max="100"></progress></td>
       </tr>
 
       <tr>
       <td>Entity Framework Core</td>
       <td>
-        <progress class="progress progress-success rounded bg-white w-full" value="60" max="100"></progress></td>
+        <progress class="progress progress-info border-2 border-black rounded bg-black w-full" value="60" max="100"></progress></td>
       </tr>
 
       <tr>
       <td>Machine Learning & AI</td>
       <td>
-        <progress class="progress progress-success rounded bg-white w-full" value="80" max="100"></progress></td>
+        <progress class="progress progress-info border-2 border-black rounded bg-black w-full" value="80" max="100"></progress></td>
       </tr>
 
       <tr>
       <td>AWS & Microsoft Azure</td>
       <td>
-        <progress class="progress progress-success rounded bg-white w-full" value="50" max="100"></progress></td>
+        <progress class="progress progress-info border-2 border-black rounded bg-black w-full" value="50" max="100"></progress></td>
       </tr>
 
 

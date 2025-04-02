@@ -20,7 +20,7 @@ return(
 
 <section id="contact">
  
-<div class="hero bg-neutral-800 h-fill py-10 w-full ">
+<div class="hero bg-zinc-950 h-fill py-10 w-full ">
 
   <div class="hero-content py-10 flex-col lg:flex-row-reverse w-full">
     
@@ -85,21 +85,21 @@ return(
     
     <div data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200">
     <br/>
-    <div class="card shadow bg-neutral rounded-lg w-80 min-w-sm ">
+    <div class="card shadow bg-zinc-800 rounded-lg w-80 min-w-sm ">
       <form class="card-body" id="contact-form" name="contact-form" onSubmit={sendmail}>
 
         <div class="form-control ">
           <label for="from_name " class="label">
             <span class="label-text  text-white"><ion-icon name="person"></ion-icon> Name</span>
           </label>
-          <input onChange={handleChange} type="text" name="from_name" id="from_name" placeholder="What should I call you" class=" input input-bordered bg-neutral text-white rounded-lg h-10 w-full " required />
+          <input onChange={handleChange} type="text" name="from_name" id="from_name" placeholder="What should I call you" class=" input input-bordered bg-zinc-800 text-white rounded-lg h-10 w-full " required />
         </div>
 
         <div class="form-control">
           <label for="reply_to" class="label">
             <span class="label-text  text-white"><ion-icon name="at"></ion-icon> Email Address</span>
           </label>
-          <input type="email" name="reply_to" id="reply_to" placeholder="Enter your Email Address" class="input rounded-lg text-white input-bordered bg-neutral h-10 w-full " required />
+          <input type="email" name="reply_to" id="reply_to" placeholder="Enter your Email Address" class="input rounded-lg text-white input-bordered bg-zinc-800 h-10 w-full " required />
 
         </div>
 
@@ -107,11 +107,11 @@ return(
           <label for="message" class="label">
             <span class="label-text  text-white"><ion-icon name="mail"></ion-icon> Message</span>
           </label>          
-          <textarea class="textarea textarea-bordered rounded-lg min-h-40 w-full bg-neutral text-white " name="message" id="message" placeholder="Let me know your thoughts" required></textarea>
+          <textarea class="textarea textarea-bordered rounded-lg min-h-40 w-full bg-zinc-800 text-white " name="message" id="message" placeholder="Let me know your thoughts" required></textarea>
         </div>
 
         <div class="form-control mt-6">
-          <button class="btn btn-primary text-white" type="submit">Send Email<ion-icon name="send"></ion-icon></button>
+          <button class="btn bg-zinc-200 text-black hover:bg-gray-300 text-black" type="submit">Send Email<ion-icon name="send"></ion-icon></button>
         </div>
       </form>
     </div>

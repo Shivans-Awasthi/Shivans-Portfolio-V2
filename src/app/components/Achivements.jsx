@@ -13,7 +13,7 @@ return(
 
 <section id="achievements">
 
-<div class="hero bg-neutral-800 max-h-fill text-white py-10 w-full ">
+<div class="hero bg-zinc-950 max-h-fill text-white py-10 w-full ">
   <div class="hero-content w-full">
     <div class="w-fit ">
     <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
@@ -26,9 +26,9 @@ return(
 
 <div class="flex md:flex-col flex-col lg:flex-row w-full ">
 
-<div class="card bg-neutral shadow rounded-lg card-compact h-fit lg:w-80 sm:lg:w-80 sm:w-96  ">
+<div class="card bg-zinc-950 shadow rounded-lg card-compact h-fit lg:w-80 sm:lg:w-80 sm:w-96  ">
 
-<div class="carousel carousel-center bg-neutral space-x-3 w-full h-fit overscroll-contain">
+<div class="carousel carousel-center bg-zinc-950 space-x-3 w-full h-fit overscroll-contain">
     
     <div class="carousel-item w-5/6 h-fit">
       <img
@@ -56,7 +56,7 @@ return(
     <p>Led the development of R1 and R2 robots for Robocon 2022, overseeing design, implementation, and strategy execution to meet competition objectives. Engineered advanced features including standard and H drive trains, linear actuators, stepper motors, and conveyor belt systems, resulting in competitive performance at the national round in Tyagraj Stadium, New Delhi.</p>
   
   <div class="card-actions justify-end">
-  <a href="https://youtu.be/Rr0jtMOpmVw"><button class="btn btn-primary text-white"><ion-icon name="logo-youtube"></ion-icon> Watch Video</button></a>
+  <a href="https://youtu.be/Rr0jtMOpmVw"><button class="btn bg-zinc-700 border-none text-white hover:bg-zinc-500 hover:text-white"><ion-icon name="logo-youtube"></ion-icon> Watch Video</button></a>
   </div>
   </div>
   
@@ -68,8 +68,8 @@ return(
 
 <div class="p-3"></div>
 
-<div class="card bg-neutral shadow rounded-lg card-compact h-fit lg:w-80 sm:lg:w-80 sm:w-96  ">
-<div class="carousel carousel-center bg-neutral space-x-4 w-full h-fit">
+<div class="card bg-zinc-950 shadow rounded-lg card-compact h-fit lg:w-80 sm:lg:w-80 sm:w-96  ">
+<div class="carousel carousel-center bg-zinc-950 space-x-4 w-full h-fit">
     
     <div class="carousel-item w-5/6 h-fit">
       <img
@@ -101,7 +101,7 @@ return(
 <div class="p-3"></div>
 
 
-<div class="card bg-neutral shadow rounded-lg card-compact h-fit lg:w-80 sm:w-96  ">
+<div class="card bg-zinc-950 shadow rounded-lg card-compact h-fit lg:w-80 sm:w-96  ">
 <figure><img class="w-5/6 h-fit" src="https://media.licdn.com/dms/image/v2/D562DAQF2ggFFEDExTQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1705512629096?e=1743411600&v=beta&t=R9I-TTcmGoet4a0a5qsWiaHY7phBG1-HiikkwMdE9Nc" alt="arm" /></figure>
 
   <div class="card-body">
@@ -112,7 +112,7 @@ return(
     </div>
     <p>Team KRS presents FlipKart 5.0 solution with a custom robotic picking arm inspired by BCN 3D's Moveo 5DOF</p>
   <div class="card-actions justify-end">
-      <a href="https://youtu.be/jfH2_FlXqxc"><button class="btn btn-primary text-white"><ion-icon name="logo-youtube"></ion-icon> Watch Video</button></a>
+      <a href="https://youtu.be/jfH2_FlXqxc"><button class="btn bg-zinc-700 border-none text-white hover:bg-zinc-500 hover:text-white"><ion-icon name="logo-youtube"></ion-icon> Watch Video</button></a>
   </div>
   </div>
   
@@ -130,7 +130,7 @@ return(
 <div class="flex md:flex-col flex-col lg:flex-row w-full ">
 
 
-<div class="card bg-neutral shadow rounded-lg card-compact h-fit lg:w-80 sm:w-96  ">
+<div class="card bg-zinc-950 shadow rounded-lg card-compact h-fit lg:w-80 sm:w-96  ">
 <figure><img class="w-5/6 h-fit" src="https://media.licdn.com/dms/image/v2/C5622AQGLHtcKlHJCcA/feedshare-shrink_800/feedshare-shrink_800/0/1676215666868?e=1745452800&v=beta&t=ITzS_VAjn0sj2OHn7kck737k-Wd2FAyMBAMA1xN94N0" alt="konquest" /></figure>
   <div class="card-body">
     <h2 class="card-title text-neutral-content text-white">Event Coordinator</h2>
@@ -142,7 +142,7 @@ return(
         A 4 day event well executed bravo KRS - 
         Me as an Event Coordinator</p>
         <div class="card-actions justify-end">
-     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7030558084833955840/"><button class="btn btn-primary text-white"><ion-icon name="logo-linkedin"></ion-icon> View Post</button></a>
+     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7030558084833955840/"><button class="btn bg-zinc-700 border-none text-white hover:bg-zinc-500 hover:text-white"><ion-icon name="logo-linkedin"></ion-icon> View Post</button></a>
   </div>
   </div>
 
