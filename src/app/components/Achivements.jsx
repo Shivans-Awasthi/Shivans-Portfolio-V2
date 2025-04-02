@@ -73,12 +73,12 @@ return(
     
     <div class="carousel-item w-5/6 h-fit">
       <img
-        src="https://media.licdn.com/dms/image/v2/D562DAQGxsW0xWD_eJg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1696472074678?e=1743408000&v=beta&t=R7yKV6v3aq0Iq7ULr1laEfF8SXAY0ofIeTTjDsCNfUo"
+        src="https://drive.google.com/file/d/1zxND7pePL0z0OgnR0qeN5KxsrWQY7JRe/view?usp=sharing"
         class="rounded-none" />
     </div>
     <div class="carousel-item w-5/6 h-fit">
       <img
-        src="https://media.licdn.com/dms/image/v2/D562DAQHBWyrd2C_o0g/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1696251485154?e=1743408000&v=beta&t=sgK1xT74IfMz6-VauRf-f33lvcfHL12SdUhhdQq8lck"
+        src="https://drive.google.com/file/d/18CsQ5YJNYUCXCFSUgmXUw63cTOw7dGfX/view?usp=sharing"
         class="rounded-none" />
     </div>
   </div>
