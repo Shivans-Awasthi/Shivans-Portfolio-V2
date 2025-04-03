@@ -60,9 +60,9 @@ html,
 }
 
 body {
-    font-family: "DM Sans";
+    font-family: "Plus Jakarta Sans", sans-serif ;
     font-optical-sizing: auto;
-    font-weight: 600;
+    font-weight: 500;
     font-style: normal;
 
 }
@@ -74,7 +74,7 @@ body {
 } 
 
 .myname{
-  font-family: 'Noto Sans';
+  font-family: '';
   font-weight: 800;
   font-style: normal;
 
@@ -167,6 +167,7 @@ body {
 /* Add gradient background and border on hover */
 .card:hover {
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.355); /* Deeper shadow on hover */
+  background-color: #363636c2;
 }
 
 /* Image within the card */
